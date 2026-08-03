@@ -1,0 +1,8 @@
+// Sassy
+
+/* Styling for main navigation active states */
+body.section-constituencies nav#header-nav a.constituencies,
+body.section-organisations nav#header-nav a.organisations,
+body.section-organisation-types nav#header-nav a.organisation-types {
+	border-bottom-color: #fff;
+}

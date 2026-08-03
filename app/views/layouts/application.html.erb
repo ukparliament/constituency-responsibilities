@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+	<head>
+		<%= render :partial => 'library_design/head/head' %>
+		<%= tag( 'base', :href => 'https://api.parliament.uk/constituency-responsibilities' )if Rails.env.production? %>
+	</head>
+	<body class="section-<%= @section %> subsection-<%= @subsection %> brand-commons">
+		<%= render 'layouts/header/header' %>
+		<main class="block block-page" id="main-content">
+			<div class="inner-content container">
+				<%= render 'library_design/debug/debug' -%>
+				<%= content_tag( 'h1', @multiline_page_title || @page_title || $SITE_TITLE, :class => 'reading-width' ) %>
+				<%= yield %>
+			</div>
+		</main>
+		<%= render 'layouts/footer/footer' %>
+	</body>
+</html>

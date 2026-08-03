@@ -1,0 +1,17 @@
+<% unless @regions.empty? -%>
+	<div id="regions">
+		<%= content_tag( 'h2', 'Regions' ) %>
+	<%= list_item_count_sentence( 'region', @regions.size ) %>
+		<ol class="unnumbered link-list">
+			<%= render :partial => 'constituency_region/region', :collection => @regions %>
+		</ol>
+	</div>
+<% end -%>
+
+<div id="constituency-areas">
+	<%= content_tag( 'h2', 'Constituency areas' ) %>
+	<%= list_item_count_sentence( 'constituency area', @constituencies.size ) %>
+	<ol class="unnumbered link-list">
+		<%= render :partial => 'constituency/constituency', :collection => @constituencies %>
+	</ol>
+</div>

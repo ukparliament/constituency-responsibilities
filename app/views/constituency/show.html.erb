@@ -1,0 +1,10 @@
+<%= content_tag( 'p', constituency_geographic_description( @constituency ).html_safe ) %>
+
+<%= content_tag( 'p', constituency_last_election_description( @election ).html_safe ) %>
+
+<% unless @organisations.empty? -%>
+	<%= list_item_count_sentence( 'organisation', @organisations.size ) %>
+	<ol class="unnumbered link-list">
+		<%= render :partial => 'organisation', :collection => @organisations %>
+	</ol>
+<% end -%>

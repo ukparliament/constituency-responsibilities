@@ -1,0 +1,1 @@
+<%= content_tag( 'li', "#{link_to( organisation.label, organisation_show_url( :organisation => organisation ) )} covers #{organisation.constituency_area_population_overlap}% of the population of #{@constituency.name}".html_safe ) %>
