@@ -8,5 +8,4 @@
 #  updated_at :datetime         not null
 #
 class OrganisationType < ApplicationRecord
-  has_many :organisations, -> { order('label') }
 end

@@ -1,4 +1,4 @@
-<%= list_item_count_sentence( 'organisation', @organisation_type.organisations.size ) %>
+<%= list_item_count_sentence( 'organisation', @organisations.size ) %>
 <ol class="unnumbered link-list">
-	<%= render :partial => 'organisation/organisation', :collection => @organisation_type.organisations %>
+	<%= render :partial => 'organisation/organisation', :collection => @organisations %>
 </ol>

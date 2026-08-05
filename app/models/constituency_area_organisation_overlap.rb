@@ -8,8 +8,10 @@
 #  updated_at                           :datetime         not null
 #  constituency_area_id                 :integer
 #  organisation_id                      :integer
+#  organisation_type_id                 :integer
 #
 class ConstituencyAreaOrganisationOverlap < ApplicationRecord
   belongs_to :constituency_area
   belongs_to :organisation
+  belongs_to :organisation_type
 end

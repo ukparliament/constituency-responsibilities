@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_08_03_102827) do
+ActiveRecord::Schema[8.1].define(version: 2026_08_04_073154) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
   enable_extension "pg_stat_statements"
@@ -78,6 +78,7 @@ ActiveRecord::Schema[8.1].define(version: 2026_08_03_102827) do
     t.float "constituency_area_population_overlap"
     t.datetime "created_at", null: false
     t.integer "organisation_id"
+    t.integer "organisation_type_id"
     t.datetime "updated_at", null: false
   end
 
@@ -255,11 +256,17 @@ ActiveRecord::Schema[8.1].define(version: 2026_08_03_102827) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "organisation_typings", force: :cascade do |t|
+    t.datetime "created_at", null: false
+    t.integer "organisation_id"
+    t.integer "organisation_type_id"
+    t.datetime "updated_at", null: false
+  end
+
   create_table "organisations", force: :cascade do |t|
     t.string "code", limit: 12
     t.datetime "created_at", null: false
     t.string "label", limit: 255
-    t.integer "organisation_type_id"
     t.integer "parent_organisation_id"
     t.datetime "updated_at", null: false
   end
@@ -289,12 +296,6 @@ ActiveRecord::Schema[8.1].define(version: 2026_08_03_102827) do
     t.integer "political_party_id", null: false
     t.date "political_party_name_last_updated_on"
     t.date "start_on", null: false
-  end
-
-  create_table "responsibility_types", force: :cascade do |t|
-    t.datetime "created_at", null: false
-    t.string "label", limit: 255
-    t.datetime "updated_at", null: false
   end
 
   create_table "result_summaries", id: :serial, force: :cascade do |t|

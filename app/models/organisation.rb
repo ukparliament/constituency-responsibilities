@@ -7,10 +7,7 @@
 #  label                  :string(255)
 #  created_at             :datetime         not null
 #  updated_at             :datetime         not null
-#  organisation_type_id   :integer
 #  parent_organisation_id :integer
 #
 class Organisation < ApplicationRecord
-
-  belongs_to :organisation_type
 end

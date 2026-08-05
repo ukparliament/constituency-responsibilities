@@ -2,20 +2,27 @@
 	<%= content_tag( 'p', "A subsidiary of: #{link_to(@parent_organisation.label, organisation_show_url( :organisation => @parent_organisation ) )}.".html_safe ) %>
 <% end -%>
 
+<div id="organisation-types">
+	<%= content_tag( 'h2', 'Organisation types' ) %>
+	<ol class="unnumbered link-list">
+		<%= render :partial => 'organisation_type', :collection => @organisation_types %>
+	</ol>
+</div>
+
 <% unless @subsidiary_organisations.empty? %>
 	<div id="subsidiary-organisations">
-	<%= content_tag( 'h2', 'Subsidiary organisations' ) %>
-	<ol class="unnumbered link-list">
-		<%= render :partial => 'organisation', :collection => @subsidiary_organisations %>
-	</ol>
+		<%= content_tag( 'h2', 'Subsidiary organisations' ) %>
+		<ol class="unnumbered link-list">
+			<%= render :partial => 'organisation', :collection => @subsidiary_organisations %>
+		</ol>
 	</div>
 <% end -%>
 
 <% unless @constituencies.empty? %>
 	<div id="constituency-areas">
-	<%= content_tag( 'h2', 'Constituency areas' ) %>
-	<ol class="unnumbered link-list">
-		<%= render :partial => 'constituency', :collection => @constituencies %>
-	</ol>
+		<%= content_tag( 'h2', 'Constituency areas' ) %>
+		<ol class="unnumbered link-list">
+			<%= render :partial => 'constituency', :collection => @constituencies %>
+		</ol>
 	</div>
 <% end -%>
