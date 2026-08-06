@@ -24,5 +24,6 @@
 		<ol class="unnumbered link-list">
 			<%= render :partial => 'constituency', :collection => @constituencies %>
 		</ol>
+		<%= content_tag( 'p', "Where percentage figures are not given, it is known that some members of the population of a constituency are covered by the organisation, but that area is too small to produce a population estimate using the standard methods." ) %>
 	</div>
 <% end -%>
