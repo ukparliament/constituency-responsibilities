@@ -4382,1518 +4382,1517 @@ W07000109,Torfaen,W43000023,Torfaen Local Planning Authority,Local Planning Auth
 W07000110,Vale of Glamorgan,W43000017,Vale of Glamorgan Local Planning Authority,Local Planning Authority,100
 W07000111,Wrexham,W43000007,Wrexham Local Planning Authority,Local Planning Authority,100
 W07000112,Ynys Môn,W43000001,Isle of Anglesey Local Planning Authority,Local Planning Authority,100
-W07000081,Aberafan Maesteg,WSH,Dŵr Cymru,Water company,0
-E14001063,Aldershot,SEW,South East Water,Water company,0
-E14001064,Aldridge-Brownhills,SSC,South Staffordshire Water,Water company,0
-E14001065,Altrincham and Sale West,UUW,United Utilities,Water company,0
-W07000082,Alyn and Deeside,WSH,Dŵr Cymru,Water company,0
-W07000082,Alyn and Deeside,HDD,Hafren Dyfrdwy,Water company,0
-E14001066,Amber Valley,SVE,Severn Trent Water,Water company,0
-E14001067,Arundel and South Downs,SRN,Southern Water,Water company,0
-E14001067,Arundel and South Downs,PRT,Portsmouth Water,Water company,0
-E14001067,Arundel and South Downs,SEW,South East Water,Water company,0
+W07000081,Aberafan Maesteg,WSH,Dŵr Cymru,Water company,100
+E14001063,Aldershot,SEW,South East Water,Water company,100
+E14001064,Aldridge-Brownhills,SSC,South Staffordshire Water,Water company,100
+E14001065,Altrincham and Sale West,UUW,United Utilities,Water company,100
+W07000082,Alyn and Deeside,WSH,Dŵr Cymru,Water company,73.5
+W07000082,Alyn and Deeside,HDD,Hafren Dyfrdwy,Water company,26.5
+E14001066,Amber Valley,SVE,Severn Trent Water,Water company,100
+E14001067,Arundel and South Downs,SRN,Southern Water,Water company,76.8
+E14001067,Arundel and South Downs,PRT,Portsmouth Water,Water company,17.2
+E14001067,Arundel and South Downs,SEW,South East Water,Water company,6
 E14001067,Arundel and South Downs,TMS,Thames Water,Water company,0
-E14001068,Ashfield,SVE,Severn Trent Water,Water company,0
-E14001069,Ashford,SEW,South East Water,Water company,0
-E14001069,Ashford,AFW,Affinity Water,Water company,0
-E14001070,Ashton-under-Lyne,UUW,United Utilities,Water company,0
-E14001071,Aylesbury,TMS,Thames Water,Water company,0
-E14001071,Aylesbury,ANH,Anglian Water,Water company,0
-E14001071,Aylesbury,AFW,Affinity Water,Water company,0
-E14001072,Banbury,TMS,Thames Water,Water company,0
+E14001068,Ashfield,SVE,Severn Trent Water,Water company,100
+E14001069,Ashford,SEW,South East Water,Water company,84.2
+E14001069,Ashford,AFW,Affinity Water,Water company,15.8
+E14001070,Ashton-under-Lyne,UUW,United Utilities,Water company,100
+E14001071,Aylesbury,TMS,Thames Water,Water company,85.3
+E14001071,Aylesbury,ANH,Anglian Water,Water company,14.5
+E14001071,Aylesbury,AFW,Affinity Water,Water company,0.2
+E14001072,Banbury,TMS,Thames Water,Water company,100
 E14001072,Banbury,ANH,Anglian Water,Water company,0
 E14001072,Banbury,SVE,Severn Trent Water,Water company,0
-W07000083,Bangor Aberconwy,WSH,Dŵr Cymru,Water company,0
-E14001073,Barking,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001074,Barnsley North,YKY,Yorkshire Water,Water company,0
-E14001075,Barnsley South,YKY,Yorkshire Water,Water company,0
-E14001076,Barrow and Furness,UUW,United Utilities,Water company,0
-E14001077,Basildon and Billericay,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001078,Basingstoke,SEW,South East Water,Water company,0
+W07000083,Bangor Aberconwy,WSH,Dŵr Cymru,Water company,100
+E14001073,Barking,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001074,Barnsley North,YKY,Yorkshire Water,Water company,100
+E14001075,Barnsley South,YKY,Yorkshire Water,Water company,100
+E14001076,Barrow and Furness,UUW,United Utilities,Water company,100
+E14001077,Basildon and Billericay,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001078,Basingstoke,SEW,South East Water,Water company,100
 E14001078,Basingstoke,SRN,Southern Water,Water company,0
-E14001079,Bassetlaw,SVE,Severn Trent Water,Water company,0
-E14001079,Bassetlaw,ANH,Anglian Water,Water company,0
-E14001079,Bassetlaw,YKY,Yorkshire Water,Water company,0
-E14001080,Bath,WSX,Wessex Water,Water company,0
-E14001080,Bath,SBB,Bristol Water (part of South West Water),Water company,0
-E14001081,Battersea,TMS,Thames Water,Water company,0
-E14001082,Beaconsfield,TMS,Thames Water,Water company,0
-E14001082,Beaconsfield,AFW,Affinity Water,Water company,0
+E14001079,Bassetlaw,SVE,Severn Trent Water,Water company,64
+E14001079,Bassetlaw,ANH,Anglian Water,Water company,35.7
+E14001079,Bassetlaw,YKY,Yorkshire Water,Water company,0.3
+E14001080,Bath,WSX,Wessex Water,Water company,99.6
+E14001080,Bath,SBB,Bristol Water (part of South West Water),Water company,0.4
+E14001081,Battersea,TMS,Thames Water,Water company,100
+E14001082,Beaconsfield,TMS,Thames Water,Water company,67.6
+E14001082,Beaconsfield,AFW,Affinity Water,Water company,32.4
 E14001082,Beaconsfield,SEW,South East Water,Water company,0
-E14001083,Beckenham and Penge,TMS,Thames Water,Water company,0
-E14001084,Bedford,ANH,Anglian Water,Water company,0
-E14001085,Bermondsey and Old Southwark,TMS,Thames Water,Water company,0
-E14001086,Bethnal Green and Stepney,TMS,Thames Water,Water company,0
-E14001087,Beverley and Holderness,YKY,Yorkshire Water,Water company,0
-E14001088,Bexhill and Battle,SEW,South East Water,Water company,0
-E14001088,Bexhill and Battle,SRN,Southern Water,Water company,0
-E14001089,Bexleyheath and Crayford,TMS,Thames Water,Water company,0
-E14001090,Bicester and Woodstock,TMS,Thames Water,Water company,0
+E14001083,Beckenham and Penge,TMS,Thames Water,Water company,100
+E14001084,Bedford,ANH,Anglian Water,Water company,100
+E14001085,Bermondsey and Old Southwark,TMS,Thames Water,Water company,100
+E14001086,Bethnal Green and Stepney,TMS,Thames Water,Water company,100
+E14001087,Beverley and Holderness,YKY,Yorkshire Water,Water company,100
+E14001088,Bexhill and Battle,SEW,South East Water,Water company,93
+E14001088,Bexhill and Battle,SRN,Southern Water,Water company,7
+E14001089,Bexleyheath and Crayford,TMS,Thames Water,Water company,100
+E14001090,Bicester and Woodstock,TMS,Thames Water,Water company,100
 E14001090,Bicester and Woodstock,ANH,Anglian Water,Water company,0
-E14001091,Birkenhead,UUW,United Utilities,Water company,0
-E14001092,Birmingham Edgbaston,SVE,Severn Trent Water,Water company,0
-E14001092,Birmingham Edgbaston,SSC,South Staffordshire Water,Water company,0
-E14001093,Birmingham Erdington,SVE,Severn Trent Water,Water company,0
-E14001093,Birmingham Erdington,SSC,South Staffordshire Water,Water company,0
-E14001094,Birmingham Hall Green and Moseley,SVE,Severn Trent Water,Water company,0
-E14001095,Birmingham Hodge Hill and Solihull North,SVE,Severn Trent Water,Water company,0
-E14001096,Birmingham Ladywood,SVE,Severn Trent Water,Water company,0
-E14001097,Birmingham Northfield,SVE,Severn Trent Water,Water company,0
-E14001098,Birmingham Perry Barr,SVE,Severn Trent Water,Water company,0
+E14001091,Birkenhead,UUW,United Utilities,Water company,100
+E14001092,Birmingham Edgbaston,SVE,Severn Trent Water,Water company,99.8
+E14001092,Birmingham Edgbaston,SSC,South Staffordshire Water,Water company,0.2
+E14001093,Birmingham Erdington,SVE,Severn Trent Water,Water company,99.7
+E14001093,Birmingham Erdington,SSC,South Staffordshire Water,Water company,0.3
+E14001094,Birmingham Hall Green and Moseley,SVE,Severn Trent Water,Water company,100
+E14001095,Birmingham Hodge Hill and Solihull North,SVE,Severn Trent Water,Water company,100
+E14001096,Birmingham Ladywood,SVE,Severn Trent Water,Water company,100
+E14001097,Birmingham Northfield,SVE,Severn Trent Water,Water company,100
+E14001098,Birmingham Perry Barr,SVE,Severn Trent Water,Water company,100
 E14001098,Birmingham Perry Barr,SSC,South Staffordshire Water,Water company,0
-E14001099,Birmingham Selly Oak,SVE,Severn Trent Water,Water company,0
-E14001100,Birmingham Yardley,SVE,Severn Trent Water,Water company,0
-E14001101,Bishop Auckland,NES,Northumbrian Water,Water company,0
+E14001099,Birmingham Selly Oak,SVE,Severn Trent Water,Water company,100
+E14001100,Birmingham Yardley,SVE,Severn Trent Water,Water company,100
+E14001101,Bishop Auckland,NES,Northumbrian Water,Water company,100
 E14001101,Bishop Auckland,YKY,Yorkshire Water,Water company,0
-E14001102,Blackburn,UUW,United Utilities,Water company,0
-E14001103,Blackley and Middleton South,UUW,United Utilities,Water company,0
-E14001104,Blackpool North and Fleetwood,UUW,United Utilities,Water company,0
-E14001105,Blackpool South,UUW,United Utilities,Water company,0
-W07000084,Blaenau Gwent and Rhymney,WSH,Dŵr Cymru,Water company,0
-E14001106,Blaydon and Consett,NES,Northumbrian Water,Water company,0
-E14001107,Blyth and Ashington,NES,Northumbrian Water,Water company,0
-E14001108,Bognor Regis and Littlehampton,PRT,Portsmouth Water,Water company,0
-E14001108,Bognor Regis and Littlehampton,SRN,Southern Water,Water company,0
-E14001109,Bolsover,SVE,Severn Trent Water,Water company,0
-E14001110,Bolton North East,UUW,United Utilities,Water company,0
-E14001111,Bolton South and Walkden,UUW,United Utilities,Water company,0
-E14001112,Bolton West,UUW,United Utilities,Water company,0
-E14001113,Bootle,UUW,United Utilities,Water company,0
-E14001114,Boston and Skegness,ANH,Anglian Water,Water company,0
-E14001115,Bournemouth East,SBB,Bournemouth Water (part of South West Water),Water company,0
-E14001116,Bournemouth West,SBB,Bournemouth Water (part of South West Water),Water company,0
-E14001116,Bournemouth West,WSX,Wessex Water,Water company,0
-E14001117,Bracknell,SEW,South East Water,Water company,0
-E14001117,Bracknell,AFW,Affinity Water,Water company,0
-E14001118,Bradford East,YKY,Yorkshire Water,Water company,0
-E14001119,Bradford South,YKY,Yorkshire Water,Water company,0
-E14001120,Bradford West,YKY,Yorkshire Water,Water company,0
-E14001121,Braintree,ANH,Anglian Water,Water company,0
-E14001121,Braintree,AFW,Affinity Water,Water company,0
+E14001102,Blackburn,UUW,United Utilities,Water company,100
+E14001103,Blackley and Middleton South,UUW,United Utilities,Water company,100
+E14001104,Blackpool North and Fleetwood,UUW,United Utilities,Water company,100
+E14001105,Blackpool South,UUW,United Utilities,Water company,100
+W07000084,Blaenau Gwent and Rhymney,WSH,Dŵr Cymru,Water company,100
+E14001106,Blaydon and Consett,NES,Northumbrian Water,Water company,100
+E14001107,Blyth and Ashington,NES,Northumbrian Water,Water company,100
+E14001108,Bognor Regis and Littlehampton,PRT,Portsmouth Water,Water company,57.8
+E14001108,Bognor Regis and Littlehampton,SRN,Southern Water,Water company,42.2
+E14001109,Bolsover,SVE,Severn Trent Water,Water company,100
+E14001110,Bolton North East,UUW,United Utilities,Water company,100
+E14001111,Bolton South and Walkden,UUW,United Utilities,Water company,100
+E14001112,Bolton West,UUW,United Utilities,Water company,100
+E14001113,Bootle,UUW,United Utilities,Water company,100
+E14001114,Boston and Skegness,ANH,Anglian Water,Water company,100
+E14001115,Bournemouth East,SBB,Bournemouth Water (part of South West Water),Water company,100
+E14001116,Bournemouth West,SBB,Bournemouth Water (part of South West Water),Water company,97.7
+E14001116,Bournemouth West,WSX,Wessex Water,Water company,2.3
+E14001117,Bracknell,SEW,South East Water,Water company,99.1
+E14001117,Bracknell,AFW,Affinity Water,Water company,0.9
+E14001118,Bradford East,YKY,Yorkshire Water,Water company,100
+E14001119,Bradford South,YKY,Yorkshire Water,Water company,100
+E14001120,Bradford West,YKY,Yorkshire Water,Water company,100
+E14001121,Braintree,ANH,Anglian Water,Water company,93.6
+E14001121,Braintree,AFW,Affinity Water,Water company,6.4
 E14001121,Braintree,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-W07000085,"Brecon, Radnor and Cwm Tawe",WSH,Dŵr Cymru,Water company,0
+W07000085,"Brecon, Radnor and Cwm Tawe",WSH,Dŵr Cymru,Water company,100
 W07000085,"Brecon, Radnor and Cwm Tawe",SVE,Severn Trent Water,Water company,0
 W07000085,"Brecon, Radnor and Cwm Tawe",HDD,Hafren Dyfrdwy,Water company,0
-E14001122,Brent East,TMS,Thames Water,Water company,0
-E14001122,Brent East,AFW,Affinity Water,Water company,0
-E14001123,Brent West,AFW,Affinity Water,Water company,0
-E14001124,Brentford and Isleworth,TMS,Thames Water,Water company,0
-E14001125,Brentwood and Ongar,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001125,Brentwood and Ongar,AFW,Affinity Water,Water company,0
+E14001122,Brent East,TMS,Thames Water,Water company,81.1
+E14001122,Brent East,AFW,Affinity Water,Water company,18.9
+E14001123,Brent West,AFW,Affinity Water,Water company,100
+E14001124,Brentford and Isleworth,TMS,Thames Water,Water company,100
+E14001125,Brentwood and Ongar,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,68.9
+E14001125,Brentwood and Ongar,AFW,Affinity Water,Water company,31.1
 E14001125,Brentwood and Ongar,TMS,Thames Water,Water company,0
-W07000086,Bridgend,WSH,Dŵr Cymru,Water company,0
-E14001126,Bridgwater,WSX,Wessex Water,Water company,0
-E14001126,Bridgwater,SBB,Bristol Water (part of South West Water),Water company,0
-E14001127,Bridlington and The Wolds,YKY,Yorkshire Water,Water company,0
-E14001128,Brigg and Immingham,ANH,Anglian Water,Water company,0
-E14001129,Brighton Kemptown and Peacehaven,SRN,Southern Water,Water company,0
-E14001129,Brighton Kemptown and Peacehaven,SEW,South East Water,Water company,0
-E14001130,Brighton Pavilion,SRN,Southern Water,Water company,0
-E14001131,Bristol Central,SBB,Bristol Water (part of South West Water),Water company,0
-E14001132,Bristol East,SBB,Bristol Water (part of South West Water),Water company,0
-E14001133,Bristol North East,SBB,Bristol Water (part of South West Water),Water company,0
-E14001134,Bristol North West,SBB,Bristol Water (part of South West Water),Water company,0
-E14001135,Bristol South,SBB,Bristol Water (part of South West Water),Water company,0
-E14001136,Broadland and Fakenham,ANH,Anglian Water,Water company,0
-E14001137,Bromley and Biggin Hill,TMS,Thames Water,Water company,0
-E14001138,Bromsgrove,SVE,Severn Trent Water,Water company,0
-E14001138,Bromsgrove,SSC,South Staffordshire Water,Water company,0
-E14001139,Broxbourne,TMS,Thames Water,Water company,0
-E14001139,Broxbourne,AFW,Affinity Water,Water company,0
-E14001140,Broxtowe,SVE,Severn Trent Water,Water company,0
-E14001141,Buckingham and Bletchley,ANH,Anglian Water,Water company,0
-E14001141,Buckingham and Bletchley,TMS,Thames Water,Water company,0
-E14001142,Burnley,UUW,United Utilities,Water company,0
-E14001143,Burton and Uttoxeter,SSC,South Staffordshire Water,Water company,0
+W07000086,Bridgend,WSH,Dŵr Cymru,Water company,100
+E14001126,Bridgwater,WSX,Wessex Water,Water company,76.8
+E14001126,Bridgwater,SBB,Bristol Water (part of South West Water),Water company,23.2
+E14001127,Bridlington and The Wolds,YKY,Yorkshire Water,Water company,100
+E14001128,Brigg and Immingham,ANH,Anglian Water,Water company,100
+E14001129,Brighton Kemptown and Peacehaven,SRN,Southern Water,Water company,83.5
+E14001129,Brighton Kemptown and Peacehaven,SEW,South East Water,Water company,16.5
+E14001130,Brighton Pavilion,SRN,Southern Water,Water company,100
+E14001131,Bristol Central,SBB,Bristol Water (part of South West Water),Water company,100
+E14001132,Bristol East,SBB,Bristol Water (part of South West Water),Water company,100
+E14001133,Bristol North East,SBB,Bristol Water (part of South West Water),Water company,100
+E14001134,Bristol North West,SBB,Bristol Water (part of South West Water),Water company,100
+E14001135,Bristol South,SBB,Bristol Water (part of South West Water),Water company,100
+E14001136,Broadland and Fakenham,ANH,Anglian Water,Water company,100
+E14001137,Bromley and Biggin Hill,TMS,Thames Water,Water company,100
+E14001138,Bromsgrove,SVE,Severn Trent Water,Water company,97.8
+E14001138,Bromsgrove,SSC,South Staffordshire Water,Water company,2.2
+E14001139,Broxbourne,TMS,Thames Water,Water company,96.9
+E14001139,Broxbourne,AFW,Affinity Water,Water company,3.1
+E14001140,Broxtowe,SVE,Severn Trent Water,Water company,100
+E14001141,Buckingham and Bletchley,ANH,Anglian Water,Water company,98.8
+E14001141,Buckingham and Bletchley,TMS,Thames Water,Water company,1.2
+E14001142,Burnley,UUW,United Utilities,Water company,100
+E14001143,Burton and Uttoxeter,SSC,South Staffordshire Water,Water company,100
 E14001143,Burton and Uttoxeter,SVE,Severn Trent Water,Water company,0
-E14001144,Bury North,UUW,United Utilities,Water company,0
-E14001145,Bury South,UUW,United Utilities,Water company,0
-E14001146,Bury St Edmunds and Stowmarket,ANH,Anglian Water,Water company,0
-W07000087,Caerfyrddin,WSH,Dŵr Cymru,Water company,0
-W07000088,Caerphilly,WSH,Dŵr Cymru,Water company,0
-E14001147,Calder Valley,YKY,Yorkshire Water,Water company,0
+E14001144,Bury North,UUW,United Utilities,Water company,100
+E14001145,Bury South,UUW,United Utilities,Water company,100
+E14001146,Bury St Edmunds and Stowmarket,ANH,Anglian Water,Water company,100
+W07000087,Caerfyrddin,WSH,Dŵr Cymru,Water company,100
+W07000088,Caerphilly,WSH,Dŵr Cymru,Water company,100
+E14001147,Calder Valley,YKY,Yorkshire Water,Water company,100
 E14001147,Calder Valley,UUW,United Utilities,Water company,0
-E14001148,Camborne and Redruth,SBB,South West Water,Water company,0
-E14001149,Cambridge,SSC,Cambridge Water (part of South Staffs Water),Water company,0
-E14001150,Cannock Chase,SSC,South Staffordshire Water,Water company,0
+E14001148,Camborne and Redruth,SBB,South West Water,Water company,100
+E14001149,Cambridge,SSC,Cambridge Water (part of South Staffs Water),Water company,100
+E14001150,Cannock Chase,SSC,South Staffordshire Water,Water company,100
 E14001150,Cannock Chase,SVE,Severn Trent Water,Water company,0
-E14001151,Canterbury,SEW,South East Water,Water company,0
-E14001151,Canterbury,SRN,Southern Water,Water company,0
-E14001151,Canterbury,AFW,Affinity Water,Water company,0
-W07000089,Cardiff East,WSH,Dŵr Cymru,Water company,0
-W07000090,Cardiff North,WSH,Dŵr Cymru,Water company,0
-W07000091,Cardiff South and Penarth,WSH,Dŵr Cymru,Water company,0
-W07000092,Cardiff West,WSH,Dŵr Cymru,Water company,0
-E14001152,Carlisle,UUW,United Utilities,Water company,0
-E14001152,Carlisle,NES,Northumbrian Water,Water company,0
-E14001153,Carshalton and Wallington,SES,Sutton & East Surrey Water,Water company,0
-E14001153,Carshalton and Wallington,TMS,Thames Water,Water company,0
-E14001154,Castle Point,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001155,Central Devon,SBB,South West Water,Water company,0
-E14001156,Central Suffolk and North Ipswich,ANH,Anglian Water,Water company,0
-E14001156,Central Suffolk and North Ipswich,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-W07000093,Ceredigion Preseli,WSH,Dŵr Cymru,Water company,0
-E14001157,Chatham and Aylesford,SRN,Southern Water,Water company,0
-E14001157,Chatham and Aylesford,SEW,South East Water,Water company,0
-E14001158,Cheadle,UUW,United Utilities,Water company,0
-E14001159,Chelmsford,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001160,Chelsea and Fulham,TMS,Thames Water,Water company,0
-E14001161,Cheltenham,SVE,Severn Trent Water,Water company,0
-E14001162,Chesham and Amersham,AFW,Affinity Water,Water company,0
-E14001162,Chesham and Amersham,TMS,Thames Water,Water company,0
-E14001163,Chester North and Neston,SVE,Severn Trent Water,Water company,0
-E14001163,Chester North and Neston,UUW,United Utilities,Water company,0
-E14001164,Chester South and Eddisbury,UUW,United Utilities,Water company,0
-E14001164,Chester South and Eddisbury,SVE,Severn Trent Water,Water company,0
-E14001165,Chesterfield,SVE,Severn Trent Water,Water company,0
-E14001166,Chichester,PRT,Portsmouth Water,Water company,0
-E14001167,Chingford and Woodford Green,TMS,Thames Water,Water company,0
-E14001168,Chippenham,WSX,Wessex Water,Water company,0
-E14001168,Chippenham,TMS,Thames Water,Water company,0
-E14001169,Chipping Barnet,AFW,Affinity Water,Water company,0
-E14001170,Chorley,UUW,United Utilities,Water company,0
-E14001171,Christchurch,SBB,Bournemouth Water (part of South West Water),Water company,0
-E14001172,Cities of London and Westminster,TMS,Thames Water,Water company,0
-E14001173,City of Durham,NES,Northumbrian Water,Water company,0
-E14001174,Clacton,AFW,Affinity Water,Water company,0
-E14001175,Clapham and Brixton Hill,TMS,Thames Water,Water company,0
-W07000094,Clwyd East,WSH,Dŵr Cymru,Water company,0
-W07000094,Clwyd East,HDD,Hafren Dyfrdwy,Water company,0
-W07000095,Clwyd North,WSH,Dŵr Cymru,Water company,0
-E14001176,Colchester,ANH,Anglian Water,Water company,0
+E14001151,Canterbury,SEW,South East Water,Water company,92.8
+E14001151,Canterbury,SRN,Southern Water,Water company,5.7
+E14001151,Canterbury,AFW,Affinity Water,Water company,1.5
+W07000089,Cardiff East,WSH,Dŵr Cymru,Water company,100
+W07000090,Cardiff North,WSH,Dŵr Cymru,Water company,100
+W07000091,Cardiff South and Penarth,WSH,Dŵr Cymru,Water company,100
+W07000092,Cardiff West,WSH,Dŵr Cymru,Water company,100
+E14001152,Carlisle,UUW,United Utilities,Water company,99.9
+E14001152,Carlisle,NES,Northumbrian Water,Water company,0.1
+E14001153,Carshalton and Wallington,SES,Sutton & East Surrey Water,Water company,99.3
+E14001153,Carshalton and Wallington,TMS,Thames Water,Water company,0.7
+E14001154,Castle Point,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001155,Central Devon,SBB,South West Water,Water company,100
+E14001156,Central Suffolk and North Ipswich,ANH,Anglian Water,Water company,89.5
+E14001156,Central Suffolk and North Ipswich,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,10.5
+W07000093,Ceredigion Preseli,WSH,Dŵr Cymru,Water company,100
+E14001157,Chatham and Aylesford,SRN,Southern Water,Water company,70.8
+E14001157,Chatham and Aylesford,SEW,South East Water,Water company,29.2
+E14001158,Cheadle,UUW,United Utilities,Water company,100
+E14001159,Chelmsford,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001160,Chelsea and Fulham,TMS,Thames Water,Water company,100
+E14001161,Cheltenham,SVE,Severn Trent Water,Water company,100
+E14001162,Chesham and Amersham,AFW,Affinity Water,Water company,95.7
+E14001162,Chesham and Amersham,TMS,Thames Water,Water company,4.3
+E14001163,Chester North and Neston,SVE,Severn Trent Water,Water company,74.3
+E14001163,Chester North and Neston,UUW,United Utilities,Water company,25.7
+E14001164,Chester South and Eddisbury,UUW,United Utilities,Water company,67.9
+E14001164,Chester South and Eddisbury,SVE,Severn Trent Water,Water company,32.1
+E14001165,Chesterfield,SVE,Severn Trent Water,Water company,100
+E14001166,Chichester,PRT,Portsmouth Water,Water company,100
+E14001167,Chingford and Woodford Green,TMS,Thames Water,Water company,100
+E14001168,Chippenham,WSX,Wessex Water,Water company,76.1
+E14001168,Chippenham,TMS,Thames Water,Water company,23.9
+E14001169,Chipping Barnet,AFW,Affinity Water,Water company,100
+E14001170,Chorley,UUW,United Utilities,Water company,100
+E14001171,Christchurch,SBB,Bournemouth Water (part of South West Water),Water company,100
+E14001172,Cities of London and Westminster,TMS,Thames Water,Water company,100
+E14001173,City of Durham,NES,Northumbrian Water,Water company,100
+E14001174,Clacton,AFW,Affinity Water,Water company,100
+E14001175,Clapham and Brixton Hill,TMS,Thames Water,Water company,100
+W07000094,Clwyd East,WSH,Dŵr Cymru,Water company,91.4
+W07000094,Clwyd East,HDD,Hafren Dyfrdwy,Water company,8.6
+W07000095,Clwyd North,WSH,Dŵr Cymru,Water company,100
+E14001176,Colchester,ANH,Anglian Water,Water company,100
 E14001176,Colchester,AFW,Affinity Water,Water company,0
-E14001177,Colne Valley,YKY,Yorkshire Water,Water company,0
-E14001178,Congleton,UUW,United Utilities,Water company,0
+E14001177,Colne Valley,YKY,Yorkshire Water,Water company,100
+E14001178,Congleton,UUW,United Utilities,Water company,100
 E14001178,Congleton,SVE,Severn Trent Water,Water company,0
-E14001179,Corby and East Northamptonshire,ANH,Anglian Water,Water company,0
-E14001180,Coventry East,SVE,Severn Trent Water,Water company,0
-E14001181,Coventry North West,SVE,Severn Trent Water,Water company,0
-E14001182,Coventry South,SVE,Severn Trent Water,Water company,0
-E14001183,Cramlington and Killingworth,NES,Northumbrian Water,Water company,0
-E14001184,Crawley,SRN,Southern Water,Water company,0
-E14001184,Crawley,SEW,South East Water,Water company,0
-E14001184,Crawley,SES,Sutton & East Surrey Water,Water company,0
-E14001185,Crewe and Nantwich,UUW,United Utilities,Water company,0
+E14001179,Corby and East Northamptonshire,ANH,Anglian Water,Water company,100
+E14001180,Coventry East,SVE,Severn Trent Water,Water company,100
+E14001181,Coventry North West,SVE,Severn Trent Water,Water company,100
+E14001182,Coventry South,SVE,Severn Trent Water,Water company,100
+E14001183,Cramlington and Killingworth,NES,Northumbrian Water,Water company,100
+E14001184,Crawley,SRN,Southern Water,Water company,90.3
+E14001184,Crawley,SEW,South East Water,Water company,9.5
+E14001184,Crawley,SES,Sutton & East Surrey Water,Water company,0.3
+E14001185,Crewe and Nantwich,UUW,United Utilities,Water company,100
 E14001185,Crewe and Nantwich,SVE,Severn Trent Water,Water company,0
-E14001186,Croydon East,TMS,Thames Water,Water company,0
-E14001186,Croydon East,SES,Sutton & East Surrey Water,Water company,0
-E14001187,Croydon South,SES,Sutton & East Surrey Water,Water company,0
-E14001187,Croydon South,TMS,Thames Water,Water company,0
-E14001188,Croydon West,TMS,Thames Water,Water company,0
-E14001188,Croydon West,SES,Sutton & East Surrey Water,Water company,0
-E14001189,Dagenham and Rainham,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001190,Darlington,NES,Northumbrian Water,Water company,0
-E14001191,Dartford,TMS,Thames Water,Water company,0
-E14001191,Dartford,SEW,South East Water,Water company,0
-E14001191,Dartford,SRN,Southern Water,Water company,0
-E14001192,Daventry,ANH,Anglian Water,Water company,0
+E14001186,Croydon East,TMS,Thames Water,Water company,92.7
+E14001186,Croydon East,SES,Sutton & East Surrey Water,Water company,7.3
+E14001187,Croydon South,SES,Sutton & East Surrey Water,Water company,72.8
+E14001187,Croydon South,TMS,Thames Water,Water company,27.2
+E14001188,Croydon West,TMS,Thames Water,Water company,99.5
+E14001188,Croydon West,SES,Sutton & East Surrey Water,Water company,0.5
+E14001189,Dagenham and Rainham,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001190,Darlington,NES,Northumbrian Water,Water company,100
+E14001191,Dartford,TMS,Thames Water,Water company,95
+E14001191,Dartford,SEW,South East Water,Water company,4.1
+E14001191,Dartford,SRN,Southern Water,Water company,0.9
+E14001192,Daventry,ANH,Anglian Water,Water company,100
 E14001192,Daventry,SVE,Severn Trent Water,Water company,0
-E14001193,Derby North,SVE,Severn Trent Water,Water company,0
+E14001193,Derby North,SVE,Severn Trent Water,Water company,100
 E14001193,Derby North,SSC,South Staffordshire Water,Water company,0
-E14001194,Derby South,SVE,Severn Trent Water,Water company,0
-E14001195,Derbyshire Dales,SVE,Severn Trent Water,Water company,0
-E14001195,Derbyshire Dales,SSC,South Staffordshire Water,Water company,0
-E14001196,Dewsbury and Batley,YKY,Yorkshire Water,Water company,0
-E14001197,Didcot and Wantage,TMS,Thames Water,Water company,0
-E14001198,Doncaster Central,YKY,Yorkshire Water,Water company,0
-E14001199,Doncaster East and the Isle of Axholme,YKY,Yorkshire Water,Water company,0
-E14001199,Doncaster East and the Isle of Axholme,ANH,Anglian Water,Water company,0
-E14001199,Doncaster East and the Isle of Axholme,SVE,Severn Trent Water,Water company,0
-E14001200,Doncaster North,YKY,Yorkshire Water,Water company,0
-E14001201,Dorking and Horley,SES,Sutton & East Surrey Water,Water company,0
-E14001201,Dorking and Horley,TMS,Thames Water,Water company,0
-E14001202,Dover and Deal,AFW,Affinity Water,Water company,0
-E14001202,Dover and Deal,SRN,Southern Water,Water company,0
-E14001203,Droitwich and Evesham,SVE,Severn Trent Water,Water company,0
-E14001204,Dudley,SSC,South Staffordshire Water,Water company,0
-E14001204,Dudley,SVE,Severn Trent Water,Water company,0
-E14001205,Dulwich and West Norwood,TMS,Thames Water,Water company,0
-E14001206,Dunstable and Leighton Buzzard,AFW,Affinity Water,Water company,0
-E14001206,Dunstable and Leighton Buzzard,ANH,Anglian Water,Water company,0
-W07000096,Dwyfor Meirionnydd,WSH,Dŵr Cymru,Water company,0
+E14001194,Derby South,SVE,Severn Trent Water,Water company,100
+E14001195,Derbyshire Dales,SVE,Severn Trent Water,Water company,89.9
+E14001195,Derbyshire Dales,SSC,South Staffordshire Water,Water company,10.1
+E14001196,Dewsbury and Batley,YKY,Yorkshire Water,Water company,100
+E14001197,Didcot and Wantage,TMS,Thames Water,Water company,100
+E14001198,Doncaster Central,YKY,Yorkshire Water,Water company,100
+E14001199,Doncaster East and the Isle of Axholme,YKY,Yorkshire Water,Water company,96.2
+E14001199,Doncaster East and the Isle of Axholme,ANH,Anglian Water,Water company,2
+E14001199,Doncaster East and the Isle of Axholme,SVE,Severn Trent Water,Water company,1.8
+E14001200,Doncaster North,YKY,Yorkshire Water,Water company,100
+E14001201,Dorking and Horley,SES,Sutton & East Surrey Water,Water company,94.8
+E14001201,Dorking and Horley,TMS,Thames Water,Water company,5.2
+E14001202,Dover and Deal,AFW,Affinity Water,Water company,63.8
+E14001202,Dover and Deal,SRN,Southern Water,Water company,36.2
+E14001203,Droitwich and Evesham,SVE,Severn Trent Water,Water company,100
+E14001204,Dudley,SSC,South Staffordshire Water,Water company,99
+E14001204,Dudley,SVE,Severn Trent Water,Water company,1
+E14001205,Dulwich and West Norwood,TMS,Thames Water,Water company,100
+E14001206,Dunstable and Leighton Buzzard,AFW,Affinity Water,Water company,57.5
+E14001206,Dunstable and Leighton Buzzard,ANH,Anglian Water,Water company,42.5
+W07000096,Dwyfor Meirionnydd,WSH,Dŵr Cymru,Water company,100
 W07000096,Dwyfor Meirionnydd,HDD,Hafren Dyfrdwy,Water company,0
-E14001207,Ealing Central and Acton,TMS,Thames Water,Water company,0
-E14001207,Ealing Central and Acton,AFW,Affinity Water,Water company,0
-E14001208,Ealing North,AFW,Affinity Water,Water company,0
-E14001208,Ealing North,TMS,Thames Water,Water company,0
-E14001209,Ealing Southall,AFW,Affinity Water,Water company,0
-E14001209,Ealing Southall,TMS,Thames Water,Water company,0
-E14001210,Earley and Woodley,TMS,Thames Water,Water company,0
-E14001211,Easington,NES,Northumbrian Water,Water company,0
+E14001207,Ealing Central and Acton,TMS,Thames Water,Water company,98.7
+E14001207,Ealing Central and Acton,AFW,Affinity Water,Water company,1.3
+E14001208,Ealing North,AFW,Affinity Water,Water company,77.4
+E14001208,Ealing North,TMS,Thames Water,Water company,22.6
+E14001209,Ealing Southall,AFW,Affinity Water,Water company,60.4
+E14001209,Ealing Southall,TMS,Thames Water,Water company,39.6
+E14001210,Earley and Woodley,TMS,Thames Water,Water company,100
+E14001211,Easington,NES,Northumbrian Water,Water company,100
 E14001211,Easington,ANH,Anglian Water,Water company,0
-E14001212,East Grinstead and Uckfield,SEW,South East Water,Water company,0
-E14001212,East Grinstead and Uckfield,SES,Sutton & East Surrey Water,Water company,0
+E14001212,East Grinstead and Uckfield,SEW,South East Water,Water company,98.7
+E14001212,East Grinstead and Uckfield,SES,Sutton & East Surrey Water,Water company,1.3
 E14001212,East Grinstead and Uckfield,SRN,Southern Water,Water company,0
-E14001213,East Ham,TMS,Thames Water,Water company,0
+E14001213,East Ham,TMS,Thames Water,Water company,100
 E14001213,East Ham,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001214,East Hampshire,SEW,South East Water,Water company,0
-E14001214,East Hampshire,PRT,Portsmouth Water,Water company,0
-E14001214,East Hampshire,SRN,Southern Water,Water company,0
-E14001215,East Surrey,SES,Sutton & East Surrey Water,Water company,0
-E14001215,East Surrey,TMS,Thames Water,Water company,0
+E14001214,East Hampshire,SEW,South East Water,Water company,75
+E14001214,East Hampshire,PRT,Portsmouth Water,Water company,24.8
+E14001214,East Hampshire,SRN,Southern Water,Water company,0.3
+E14001215,East Surrey,SES,Sutton & East Surrey Water,Water company,98
+E14001215,East Surrey,TMS,Thames Water,Water company,2
 E14001215,East Surrey,SEW,South East Water,Water company,0
-E14001216,East Thanet,SRN,Southern Water,Water company,0
-E14001217,East Wiltshire,WSX,Wessex Water,Water company,0
-E14001217,East Wiltshire,TMS,Thames Water,Water company,0
-E14001217,East Wiltshire,SRN,Southern Water,Water company,0
-E14001218,East Worthing and Shoreham,SRN,Southern Water,Water company,0
-E14001219,Eastbourne,SEW,South East Water,Water company,0
-E14001220,Eastleigh,SRN,Southern Water,Water company,0
+E14001216,East Thanet,SRN,Southern Water,Water company,100
+E14001217,East Wiltshire,WSX,Wessex Water,Water company,60.8
+E14001217,East Wiltshire,TMS,Thames Water,Water company,38.9
+E14001217,East Wiltshire,SRN,Southern Water,Water company,0.3
+E14001218,East Worthing and Shoreham,SRN,Southern Water,Water company,100
+E14001219,Eastbourne,SEW,South East Water,Water company,100
+E14001220,Eastleigh,SRN,Southern Water,Water company,100
 E14001220,Eastleigh,PRT,Portsmouth Water,Water company,0
-E14001221,Edmonton and Winchmore Hill,TMS,Thames Water,Water company,0
-E14001222,Ellesmere Port and Bromborough,UUW,United Utilities,Water company,0
-E14001223,Eltham and Chislehurst,TMS,Thames Water,Water company,0
-E14001224,Ely and East Cambridgeshire,ANH,Anglian Water,Water company,0
-E14001224,Ely and East Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),Water company,0
-E14001225,Enfield North,TMS,Thames Water,Water company,0
+E14001221,Edmonton and Winchmore Hill,TMS,Thames Water,Water company,100
+E14001222,Ellesmere Port and Bromborough,UUW,United Utilities,Water company,100
+E14001223,Eltham and Chislehurst,TMS,Thames Water,Water company,100
+E14001224,Ely and East Cambridgeshire,ANH,Anglian Water,Water company,83.2
+E14001224,Ely and East Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),Water company,16.8
+E14001225,Enfield North,TMS,Thames Water,Water company,100
 E14001225,Enfield North,AFW,Affinity Water,Water company,0
-E14001226,Epping Forest,TMS,Thames Water,Water company,0
-E14001226,Epping Forest,AFW,Affinity Water,Water company,0
-E14001227,Epsom and Ewell,SES,Sutton & East Surrey Water,Water company,0
-E14001227,Epsom and Ewell,TMS,Thames Water,Water company,0
-E14001228,Erewash,SVE,Severn Trent Water,Water company,0
-E14001229,Erith and Thamesmead,TMS,Thames Water,Water company,0
-E14001230,Esher and Walton,TMS,Thames Water,Water company,0
-E14001230,Esher and Walton,AFW,Affinity Water,Water company,0
+E14001226,Epping Forest,TMS,Thames Water,Water company,80.5
+E14001226,Epping Forest,AFW,Affinity Water,Water company,19.5
+E14001227,Epsom and Ewell,SES,Sutton & East Surrey Water,Water company,58.8
+E14001227,Epsom and Ewell,TMS,Thames Water,Water company,41.2
+E14001228,Erewash,SVE,Severn Trent Water,Water company,100
+E14001229,Erith and Thamesmead,TMS,Thames Water,Water company,100
+E14001230,Esher and Walton,TMS,Thames Water,Water company,54.6
+E14001230,Esher and Walton,AFW,Affinity Water,Water company,45.4
 E14001230,Esher and Walton,SES,Sutton & East Surrey Water,Water company,0
-E14001231,Exeter,SBB,South West Water,Water company,0
-E14001232,Exmouth and Exeter East,SBB,South West Water,Water company,0
-E14001233,Fareham and Waterlooville,PRT,Portsmouth Water,Water company,0
-E14001233,Fareham and Waterlooville,SRN,Southern Water,Water company,0
-E14001234,Farnham and Bordon,SEW,South East Water,Water company,0
-E14001234,Farnham and Bordon,TMS,Thames Water,Water company,0
-E14001235,Faversham and Mid Kent,SEW,South East Water,Water company,0
-E14001235,Faversham and Mid Kent,SRN,Southern Water,Water company,0
-E14001236,Feltham and Heston,TMS,Thames Water,Water company,0
-E14001236,Feltham and Heston,AFW,Affinity Water,Water company,0
-E14001237,Filton and Bradley Stoke,SBB,Bristol Water (part of South West Water),Water company,0
+E14001231,Exeter,SBB,South West Water,Water company,100
+E14001232,Exmouth and Exeter East,SBB,South West Water,Water company,100
+E14001233,Fareham and Waterlooville,PRT,Portsmouth Water,Water company,99.5
+E14001233,Fareham and Waterlooville,SRN,Southern Water,Water company,0.5
+E14001234,Farnham and Bordon,SEW,South East Water,Water company,91.3
+E14001234,Farnham and Bordon,TMS,Thames Water,Water company,8.7
+E14001235,Faversham and Mid Kent,SEW,South East Water,Water company,95.3
+E14001235,Faversham and Mid Kent,SRN,Southern Water,Water company,4.7
+E14001236,Feltham and Heston,TMS,Thames Water,Water company,56.9
+E14001236,Feltham and Heston,AFW,Affinity Water,Water company,43.1
+E14001237,Filton and Bradley Stoke,SBB,Bristol Water (part of South West Water),Water company,100
 E14001237,Filton and Bradley Stoke,SBB,South West Water,Water company,0
-E14001238,Finchley and Golders Green,AFW,Affinity Water,Water company,0
-E14001238,Finchley and Golders Green,TMS,Thames Water,Water company,0
-E14001239,Folkestone and Hythe,AFW,Affinity Water,Water company,0
-E14001239,Folkestone and Hythe,SEW,South East Water,Water company,0
-E14001240,Forest of Dean,SVE,Severn Trent Water,Water company,0
-E14001240,Forest of Dean,WSH,Dŵr Cymru,Water company,0
-E14001241,Frome and East Somerset,SBB,Bristol Water (part of South West Water),Water company,0
-E14001241,Frome and East Somerset,WSX,Wessex Water,Water company,0
-E14001242,Fylde,UUW,United Utilities,Water company,0
-E14001243,Gainsborough,ANH,Anglian Water,Water company,0
-E14001244,Gateshead Central and Whickham,NES,Northumbrian Water,Water company,0
-E14001245,Gedling,SVE,Severn Trent Water,Water company,0
-E14001246,Gillingham and Rainham,SRN,Southern Water,Water company,0
-E14001247,Glastonbury and Somerton,WSX,Wessex Water,Water company,0
-E14001247,Glastonbury and Somerton,SBB,Bristol Water (part of South West Water),Water company,0
-E14001248,Gloucester,SVE,Severn Trent Water,Water company,0
-E14001249,Godalming and Ash,TMS,Thames Water,Water company,0
-E14001249,Godalming and Ash,SEW,South East Water,Water company,0
+E14001238,Finchley and Golders Green,AFW,Affinity Water,Water company,58.4
+E14001238,Finchley and Golders Green,TMS,Thames Water,Water company,41.6
+E14001239,Folkestone and Hythe,AFW,Affinity Water,Water company,98
+E14001239,Folkestone and Hythe,SEW,South East Water,Water company,2
+E14001240,Forest of Dean,SVE,Severn Trent Water,Water company,93.7
+E14001240,Forest of Dean,WSH,Dŵr Cymru,Water company,6.3
+E14001241,Frome and East Somerset,SBB,Bristol Water (part of South West Water),Water company,96.9
+E14001241,Frome and East Somerset,WSX,Wessex Water,Water company,3.1
+E14001242,Fylde,UUW,United Utilities,Water company,100
+E14001243,Gainsborough,ANH,Anglian Water,Water company,100
+E14001244,Gateshead Central and Whickham,NES,Northumbrian Water,Water company,100
+E14001245,Gedling,SVE,Severn Trent Water,Water company,100
+E14001246,Gillingham and Rainham,SRN,Southern Water,Water company,100
+E14001247,Glastonbury and Somerton,WSX,Wessex Water,Water company,74
+E14001247,Glastonbury and Somerton,SBB,Bristol Water (part of South West Water),Water company,26
+E14001248,Gloucester,SVE,Severn Trent Water,Water company,100
+E14001249,Godalming and Ash,TMS,Thames Water,Water company,72.6
+E14001249,Godalming and Ash,SEW,South East Water,Water company,27.4
 E14001249,Godalming and Ash,AFW,Affinity Water,Water company,0
 E14001249,Godalming and Ash,SRN,Southern Water,Water company,0
-E14001250,Goole and Pocklington,YKY,Yorkshire Water,Water company,0
-E14001251,Gorton and Denton,UUW,United Utilities,Water company,0
-E14001252,Gosport,PRT,Portsmouth Water,Water company,0
-W07000097,Gower,WSH,Dŵr Cymru,Water company,0
-E14001253,Grantham and Bourne,ANH,Anglian Water,Water company,0
+E14001250,Goole and Pocklington,YKY,Yorkshire Water,Water company,100
+E14001251,Gorton and Denton,UUW,United Utilities,Water company,100
+E14001252,Gosport,PRT,Portsmouth Water,Water company,100
+W07000097,Gower,WSH,Dŵr Cymru,Water company,100
+E14001253,Grantham and Bourne,ANH,Anglian Water,Water company,100
 E14001253,Grantham and Bourne,SVE,Severn Trent Water,Water company,0
-E14001254,Gravesham,SRN,Southern Water,Water company,0
+E14001254,Gravesham,SRN,Southern Water,Water company,100
 E14001254,Gravesham,SEW,South East Water,Water company,0
-E14001255,Great Grimsby and Cleethorpes,ANH,Anglian Water,Water company,0
-E14001256,Great Yarmouth,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001256,Great Yarmouth,ANH,Anglian Water,Water company,0
-E14001257,Greenwich and Woolwich,TMS,Thames Water,Water company,0
-E14001258,Guildford,TMS,Thames Water,Water company,0
-E14001258,Guildford,AFW,Affinity Water,Water company,0
-E14001258,Guildford,SES,Sutton & East Surrey Water,Water company,0
-E14001259,Hackney North and Stoke Newington,TMS,Thames Water,Water company,0
-E14001260,Hackney South and Shoreditch,TMS,Thames Water,Water company,0
-E14001261,Halesowen,SSC,South Staffordshire Water,Water company,0
-E14001261,Halesowen,SVE,Severn Trent Water,Water company,0
-E14001262,Halifax,YKY,Yorkshire Water,Water company,0
-E14001263,Hamble Valley,SRN,Southern Water,Water company,0
-E14001263,Hamble Valley,PRT,Portsmouth Water,Water company,0
-E14001264,Hammersmith and Chiswick,TMS,Thames Water,Water company,0
-E14001265,Hampstead and Highgate,TMS,Thames Water,Water company,0
-E14001265,Hampstead and Highgate,AFW,Affinity Water,Water company,0
-E14001266,"Harborough, Oadby and Wigston",SVE,Severn Trent Water,Water company,0
-E14001267,Harlow,AFW,Affinity Water,Water company,0
+E14001255,Great Grimsby and Cleethorpes,ANH,Anglian Water,Water company,100
+E14001256,Great Yarmouth,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,95.2
+E14001256,Great Yarmouth,ANH,Anglian Water,Water company,4.8
+E14001257,Greenwich and Woolwich,TMS,Thames Water,Water company,100
+E14001258,Guildford,TMS,Thames Water,Water company,70.3
+E14001258,Guildford,AFW,Affinity Water,Water company,27.3
+E14001258,Guildford,SES,Sutton & East Surrey Water,Water company,2.4
+E14001259,Hackney North and Stoke Newington,TMS,Thames Water,Water company,100
+E14001260,Hackney South and Shoreditch,TMS,Thames Water,Water company,100
+E14001261,Halesowen,SSC,South Staffordshire Water,Water company,93.1
+E14001261,Halesowen,SVE,Severn Trent Water,Water company,6.9
+E14001262,Halifax,YKY,Yorkshire Water,Water company,100
+E14001263,Hamble Valley,SRN,Southern Water,Water company,95.1
+E14001263,Hamble Valley,PRT,Portsmouth Water,Water company,4.9
+E14001264,Hammersmith and Chiswick,TMS,Thames Water,Water company,100
+E14001265,Hampstead and Highgate,TMS,Thames Water,Water company,99.7
+E14001265,Hampstead and Highgate,AFW,Affinity Water,Water company,0.3
+E14001266,"Harborough, Oadby and Wigston",SVE,Severn Trent Water,Water company,100
+E14001267,Harlow,AFW,Affinity Water,Water company,100
 E14001267,Harlow,TMS,Thames Water,Water company,0
-E14001268,Harpenden and Berkhamsted,AFW,Affinity Water,Water company,0
-E14001268,Harpenden and Berkhamsted,TMS,Thames Water,Water company,0
-E14001269,Harrogate and Knaresborough,YKY,Yorkshire Water,Water company,0
-E14001270,Harrow East,AFW,Affinity Water,Water company,0
-E14001271,Harrow West,AFW,Affinity Water,Water company,0
-E14001272,Hartlepool,ANH,Anglian Water,Water company,0
+E14001268,Harpenden and Berkhamsted,AFW,Affinity Water,Water company,82.4
+E14001268,Harpenden and Berkhamsted,TMS,Thames Water,Water company,17.6
+E14001269,Harrogate and Knaresborough,YKY,Yorkshire Water,Water company,100
+E14001270,Harrow East,AFW,Affinity Water,Water company,100
+E14001271,Harrow West,AFW,Affinity Water,Water company,100
+E14001272,Hartlepool,ANH,Anglian Water,Water company,100
 E14001272,Hartlepool,NES,Northumbrian Water,Water company,0
-E14001273,Harwich and North Essex,AFW,Affinity Water,Water company,0
-E14001273,Harwich and North Essex,ANH,Anglian Water,Water company,0
-E14001274,Hastings and Rye,SRN,Southern Water,Water company,0
-E14001274,Hastings and Rye,SEW,South East Water,Water company,0
-E14001275,Havant,PRT,Portsmouth Water,Water company,0
-E14001276,Hayes and Harlington,AFW,Affinity Water,Water company,0
-E14001277,Hazel Grove,UUW,United Utilities,Water company,0
-E14001278,Hemel Hempstead,AFW,Affinity Water,Water company,0
-E14001279,Hendon,AFW,Affinity Water,Water company,0
-E14001279,Hendon,TMS,Thames Water,Water company,0
-E14001280,Henley and Thame,TMS,Thames Water,Water company,0
-E14001281,Hereford and South Herefordshire,WSH,Dŵr Cymru,Water company,0
+E14001273,Harwich and North Essex,AFW,Affinity Water,Water company,63
+E14001273,Harwich and North Essex,ANH,Anglian Water,Water company,37
+E14001274,Hastings and Rye,SRN,Southern Water,Water company,97.8
+E14001274,Hastings and Rye,SEW,South East Water,Water company,2.2
+E14001275,Havant,PRT,Portsmouth Water,Water company,100
+E14001276,Hayes and Harlington,AFW,Affinity Water,Water company,100
+E14001277,Hazel Grove,UUW,United Utilities,Water company,100
+E14001278,Hemel Hempstead,AFW,Affinity Water,Water company,100
+E14001279,Hendon,AFW,Affinity Water,Water company,70.2
+E14001279,Hendon,TMS,Thames Water,Water company,29.8
+E14001280,Henley and Thame,TMS,Thames Water,Water company,100
+E14001281,Hereford and South Herefordshire,WSH,Dŵr Cymru,Water company,100
 E14001281,Hereford and South Herefordshire,SVE,Severn Trent Water,Water company,0
-E14001282,Herne Bay and Sandwich,SRN,Southern Water,Water company,0
-E14001282,Herne Bay and Sandwich,SEW,South East Water,Water company,0
-E14001283,Hertford and Stortford,AFW,Affinity Water,Water company,0
-E14001283,Hertford and Stortford,TMS,Thames Water,Water company,0
-E14001284,Hertsmere,AFW,Affinity Water,Water company,0
+E14001282,Herne Bay and Sandwich,SRN,Southern Water,Water company,49.2
+E14001282,Herne Bay and Sandwich,SEW,South East Water,Water company,50.8
+E14001283,Hertford and Stortford,AFW,Affinity Water,Water company,99.6
+E14001283,Hertford and Stortford,TMS,Thames Water,Water company,0.4
+E14001284,Hertsmere,AFW,Affinity Water,Water company,100
 E14001284,Hertsmere,TMS,Thames Water,Water company,0
-E14001285,Hexham,NES,Northumbrian Water,Water company,0
+E14001285,Hexham,NES,Northumbrian Water,Water company,100
 E14001285,Hexham,UUW,United Utilities,Water company,0
-E14001286,Heywood and Middleton North,UUW,United Utilities,Water company,0
-E14001287,High Peak,UUW,United Utilities,Water company,0
-E14001287,High Peak,SVE,Severn Trent Water,Water company,0
-E14001288,Hinckley and Bosworth,SVE,Severn Trent Water,Water company,0
-E14001288,Hinckley and Bosworth,SSC,South Staffordshire Water,Water company,0
-E14001289,Hitchin,AFW,Affinity Water,Water company,0
-E14001289,Hitchin,ANH,Anglian Water,Water company,0
-E14001290,Holborn and St Pancras,TMS,Thames Water,Water company,0
-E14001291,Honiton and Sidmouth,SBB,South West Water,Water company,0
+E14001286,Heywood and Middleton North,UUW,United Utilities,Water company,100
+E14001287,High Peak,UUW,United Utilities,Water company,53.5
+E14001287,High Peak,SVE,Severn Trent Water,Water company,46.5
+E14001288,Hinckley and Bosworth,SVE,Severn Trent Water,Water company,99.8
+E14001288,Hinckley and Bosworth,SSC,South Staffordshire Water,Water company,0.2
+E14001289,Hitchin,AFW,Affinity Water,Water company,56.8
+E14001289,Hitchin,ANH,Anglian Water,Water company,43.2
+E14001290,Holborn and St Pancras,TMS,Thames Water,Water company,100
+E14001291,Honiton and Sidmouth,SBB,South West Water,Water company,100
 E14001291,Honiton and Sidmouth,WSX,Wessex Water,Water company,0
-E14001292,Hornchurch and Upminster,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001293,Hornsey and Friern Barnet,TMS,Thames Water,Water company,0
-E14001293,Hornsey and Friern Barnet,AFW,Affinity Water,Water company,0
-E14001294,Horsham,SRN,Southern Water,Water company,0
+E14001292,Hornchurch and Upminster,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001293,Hornsey and Friern Barnet,TMS,Thames Water,Water company,80.7
+E14001293,Hornsey and Friern Barnet,AFW,Affinity Water,Water company,19.3
+E14001294,Horsham,SRN,Southern Water,Water company,100
 E14001294,Horsham,TMS,Thames Water,Water company,0
 E14001294,Horsham,SEW,South East Water,Water company,0
 E14001294,Horsham,SES,Sutton & East Surrey Water,Water company,0
-E14001295,Houghton and Sunderland South,NES,Northumbrian Water,Water company,0
-E14001296,Hove and Portslade,SRN,Southern Water,Water company,0
-E14001297,Huddersfield,YKY,Yorkshire Water,Water company,0
-E14001298,Huntingdon,ANH,Anglian Water,Water company,0
-E14001298,Huntingdon,SSC,Cambridge Water (part of South Staffs Water),Water company,0
-E14001299,Hyndburn,UUW,United Utilities,Water company,0
-E14001300,Ilford North,TMS,Thames Water,Water company,0
-E14001300,Ilford North,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001301,Ilford South,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
+E14001295,Houghton and Sunderland South,NES,Northumbrian Water,Water company,100
+E14001296,Hove and Portslade,SRN,Southern Water,Water company,100
+E14001297,Huddersfield,YKY,Yorkshire Water,Water company,100
+E14001298,Huntingdon,ANH,Anglian Water,Water company,67.8
+E14001298,Huntingdon,SSC,Cambridge Water (part of South Staffs Water),Water company,32.2
+E14001299,Hyndburn,UUW,United Utilities,Water company,100
+E14001300,Ilford North,TMS,Thames Water,Water company,73.4
+E14001300,Ilford North,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,26.6
+E14001301,Ilford South,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
 E14001301,Ilford South,TMS,Thames Water,Water company,0
-E14001302,Ipswich,ANH,Anglian Water,Water company,0
-E14001303,Isle of Wight East,SRN,Southern Water,Water company,0
-E14001304,Isle of Wight West,SRN,Southern Water,Water company,0
-E14001305,Islington North,TMS,Thames Water,Water company,0
-E14001306,Islington South and Finsbury,TMS,Thames Water,Water company,0
-E14001307,Jarrow and Gateshead East,NES,Northumbrian Water,Water company,0
-E14001308,Keighley and Ilkley,YKY,Yorkshire Water,Water company,0
-E14001309,Kenilworth and Southam,SVE,Severn Trent Water,Water company,0
+E14001302,Ipswich,ANH,Anglian Water,Water company,100
+E14001303,Isle of Wight East,SRN,Southern Water,Water company,100
+E14001304,Isle of Wight West,SRN,Southern Water,Water company,100
+E14001305,Islington North,TMS,Thames Water,Water company,100
+E14001306,Islington South and Finsbury,TMS,Thames Water,Water company,100
+E14001307,Jarrow and Gateshead East,NES,Northumbrian Water,Water company,100
+E14001308,Keighley and Ilkley,YKY,Yorkshire Water,Water company,100
+E14001309,Kenilworth and Southam,SVE,Severn Trent Water,Water company,100
 E14001309,Kenilworth and Southam,ANH,Anglian Water,Water company,0
-E14001310,Kensington and Bayswater,TMS,Thames Water,Water company,0
-E14001311,Kettering,ANH,Anglian Water,Water company,0
-E14001312,Kingston and Surbiton,TMS,Thames Water,Water company,0
+E14001310,Kensington and Bayswater,TMS,Thames Water,Water company,100
+E14001311,Kettering,ANH,Anglian Water,Water company,100
+E14001312,Kingston and Surbiton,TMS,Thames Water,Water company,100
 E14001312,Kingston and Surbiton,SES,Sutton & East Surrey Water,Water company,0
-E14001313,Kingston upon Hull East,YKY,Yorkshire Water,Water company,0
-E14001314,Kingston upon Hull North and Cottingham,YKY,Yorkshire Water,Water company,0
-E14001315,Kingston upon Hull West and Haltemprice,YKY,Yorkshire Water,Water company,0
-E14001316,Kingswinford and South Staffordshire,SVE,Severn Trent Water,Water company,0
-E14001316,Kingswinford and South Staffordshire,SSC,South Staffordshire Water,Water company,0
-E14001317,Knowsley,UUW,United Utilities,Water company,0
-E14001318,Lancaster and Wyre,UUW,United Utilities,Water company,0
-E14001319,Leeds Central and Headingley,YKY,Yorkshire Water,Water company,0
-E14001320,Leeds East,YKY,Yorkshire Water,Water company,0
-E14001321,Leeds North East,YKY,Yorkshire Water,Water company,0
-E14001322,Leeds North West,YKY,Yorkshire Water,Water company,0
-E14001323,Leeds South,YKY,Yorkshire Water,Water company,0
-E14001324,Leeds South West and Morley,YKY,Yorkshire Water,Water company,0
-E14001325,Leeds West and Pudsey,YKY,Yorkshire Water,Water company,0
-E14001326,Leicester East,SVE,Severn Trent Water,Water company,0
-E14001327,Leicester South,SVE,Severn Trent Water,Water company,0
-E14001328,Leicester West,SVE,Severn Trent Water,Water company,0
-E14001329,Leigh and Atherton,UUW,United Utilities,Water company,0
-E14001330,Lewes,SEW,South East Water,Water company,0
-E14001330,Lewes,SRN,Southern Water,Water company,0
-E14001331,Lewisham East,TMS,Thames Water,Water company,0
-E14001332,Lewisham North,TMS,Thames Water,Water company,0
-E14001333,Lewisham West and East Dulwich,TMS,Thames Water,Water company,0
-E14001334,Leyton and Wanstead,TMS,Thames Water,Water company,0
-E14001335,Lichfield,SSC,South Staffordshire Water,Water company,0
-E14001336,Lincoln,ANH,Anglian Water,Water company,0
-E14001337,Liverpool Garston,UUW,United Utilities,Water company,0
-E14001338,Liverpool Riverside,UUW,United Utilities,Water company,0
-E14001339,Liverpool Walton,UUW,United Utilities,Water company,0
-E14001340,Liverpool Wavertree,UUW,United Utilities,Water company,0
-E14001341,Liverpool West Derby,UUW,United Utilities,Water company,0
-W07000098,Llanelli,WSH,Dŵr Cymru,Water company,0
-E14001342,Loughborough,SVE,Severn Trent Water,Water company,0
-E14001343,Louth and Horncastle,ANH,Anglian Water,Water company,0
-E14001344,Lowestoft,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001344,Lowestoft,ANH,Anglian Water,Water company,0
-E14001345,Luton North,AFW,Affinity Water,Water company,0
+E14001313,Kingston upon Hull East,YKY,Yorkshire Water,Water company,100
+E14001314,Kingston upon Hull North and Cottingham,YKY,Yorkshire Water,Water company,100
+E14001315,Kingston upon Hull West and Haltemprice,YKY,Yorkshire Water,Water company,100
+E14001316,Kingswinford and South Staffordshire,SVE,Severn Trent Water,Water company,62.5
+E14001316,Kingswinford and South Staffordshire,SSC,South Staffordshire Water,Water company,37.5
+E14001317,Knowsley,UUW,United Utilities,Water company,100
+E14001318,Lancaster and Wyre,UUW,United Utilities,Water company,100
+E14001319,Leeds Central and Headingley,YKY,Yorkshire Water,Water company,100
+E14001320,Leeds East,YKY,Yorkshire Water,Water company,100
+E14001321,Leeds North East,YKY,Yorkshire Water,Water company,100
+E14001322,Leeds North West,YKY,Yorkshire Water,Water company,100
+E14001323,Leeds South,YKY,Yorkshire Water,Water company,100
+E14001324,Leeds South West and Morley,YKY,Yorkshire Water,Water company,100
+E14001325,Leeds West and Pudsey,YKY,Yorkshire Water,Water company,100
+E14001326,Leicester East,SVE,Severn Trent Water,Water company,100
+E14001327,Leicester South,SVE,Severn Trent Water,Water company,100
+E14001328,Leicester West,SVE,Severn Trent Water,Water company,100
+E14001329,Leigh and Atherton,UUW,United Utilities,Water company,100
+E14001330,Lewes,SEW,South East Water,Water company,81.7
+E14001330,Lewes,SRN,Southern Water,Water company,18.3
+E14001331,Lewisham East,TMS,Thames Water,Water company,100
+E14001332,Lewisham North,TMS,Thames Water,Water company,100
+E14001333,Lewisham West and East Dulwich,TMS,Thames Water,Water company,100
+E14001334,Leyton and Wanstead,TMS,Thames Water,Water company,100
+E14001335,Lichfield,SSC,South Staffordshire Water,Water company,100
+E14001336,Lincoln,ANH,Anglian Water,Water company,100
+E14001337,Liverpool Garston,UUW,United Utilities,Water company,100
+E14001338,Liverpool Riverside,UUW,United Utilities,Water company,100
+E14001339,Liverpool Walton,UUW,United Utilities,Water company,100
+E14001340,Liverpool Wavertree,UUW,United Utilities,Water company,100
+E14001341,Liverpool West Derby,UUW,United Utilities,Water company,100
+W07000098,Llanelli,WSH,Dŵr Cymru,Water company,100
+E14001342,Loughborough,SVE,Severn Trent Water,Water company,100
+E14001343,Louth and Horncastle,ANH,Anglian Water,Water company,100
+E14001344,Lowestoft,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,98.3
+E14001344,Lowestoft,ANH,Anglian Water,Water company,1.7
+E14001345,Luton North,AFW,Affinity Water,Water company,100
 E14001345,Luton North,ANH,Anglian Water,Water company,0
-E14001346,Luton South and South Bedfordshire,AFW,Affinity Water,Water company,0
-E14001346,Luton South and South Bedfordshire,ANH,Anglian Water,Water company,0
-E14001347,Macclesfield,UUW,United Utilities,Water company,0
-E14001348,Maidenhead,SEW,South East Water,Water company,0
-E14001348,Maidenhead,AFW,Affinity Water,Water company,0
-E14001348,Maidenhead,TMS,Thames Water,Water company,0
-E14001349,Maidstone and Malling,SEW,South East Water,Water company,0
-E14001350,Makerfield,UUW,United Utilities,Water company,0
-E14001351,Maldon,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
+E14001346,Luton South and South Bedfordshire,AFW,Affinity Water,Water company,99.6
+E14001346,Luton South and South Bedfordshire,ANH,Anglian Water,Water company,0.4
+E14001347,Macclesfield,UUW,United Utilities,Water company,100
+E14001348,Maidenhead,SEW,South East Water,Water company,90.6
+E14001348,Maidenhead,AFW,Affinity Water,Water company,9
+E14001348,Maidenhead,TMS,Thames Water,Water company,0.4
+E14001349,Maidstone and Malling,SEW,South East Water,Water company,100
+E14001350,Makerfield,UUW,United Utilities,Water company,100
+E14001351,Maldon,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
 E14001351,Maldon,ANH,Anglian Water,Water company,0
-E14001352,Manchester Central,UUW,United Utilities,Water company,0
-E14001353,Manchester Rusholme,UUW,United Utilities,Water company,0
-E14001354,Manchester Withington,UUW,United Utilities,Water company,0
-E14001355,Mansfield,SVE,Severn Trent Water,Water company,0
-E14001356,Melksham and Devizes,WSX,Wessex Water,Water company,0
-E14001357,Melton and Syston,SVE,Severn Trent Water,Water company,0
+E14001352,Manchester Central,UUW,United Utilities,Water company,100
+E14001353,Manchester Rusholme,UUW,United Utilities,Water company,100
+E14001354,Manchester Withington,UUW,United Utilities,Water company,100
+E14001355,Mansfield,SVE,Severn Trent Water,Water company,100
+E14001356,Melksham and Devizes,WSX,Wessex Water,Water company,100
+E14001357,Melton and Syston,SVE,Severn Trent Water,Water company,100
 E14001357,Melton and Syston,ANH,Anglian Water,Water company,0
-E14001358,Meriden and Solihull East,SVE,Severn Trent Water,Water company,0
-W07000099,Merthyr Tydfil and Aberdare,WSH,Dŵr Cymru,Water company,0
-E14001359,Mid Bedfordshire,ANH,Anglian Water,Water company,0
-E14001359,Mid Bedfordshire,AFW,Affinity Water,Water company,0
-E14001360,Mid Buckinghamshire,TMS,Thames Water,Water company,0
-E14001360,Mid Buckinghamshire,AFW,Affinity Water,Water company,0
-E14001360,Mid Buckinghamshire,ANH,Anglian Water,Water company,0
-E14001361,Mid Cheshire,UUW,United Utilities,Water company,0
-E14001362,Mid Derbyshire,SVE,Severn Trent Water,Water company,0
-E14001363,Mid Dorset and North Poole,WSX,Wessex Water,Water company,0
-E14001363,Mid Dorset and North Poole,SBB,Bournemouth Water (part of South West Water),Water company,0
-E14001364,Mid Leicestershire,SVE,Severn Trent Water,Water company,0
-E14001365,Mid Norfolk,ANH,Anglian Water,Water company,0
-E14001366,Mid Sussex,SEW,South East Water,Water company,0
-E14001366,Mid Sussex,SRN,Southern Water,Water company,0
-W07000100,Mid and South Pembrokeshire,WSH,Dŵr Cymru,Water company,0
-E14001368,Middlesbrough South and East Cleveland,NES,Northumbrian Water,Water company,0
+E14001358,Meriden and Solihull East,SVE,Severn Trent Water,Water company,100
+W07000099,Merthyr Tydfil and Aberdare,WSH,Dŵr Cymru,Water company,100
+E14001359,Mid Bedfordshire,ANH,Anglian Water,Water company,98.8
+E14001359,Mid Bedfordshire,AFW,Affinity Water,Water company,1.2
+E14001360,Mid Buckinghamshire,TMS,Thames Water,Water company,68.4
+E14001360,Mid Buckinghamshire,AFW,Affinity Water,Water company,25.6
+E14001360,Mid Buckinghamshire,ANH,Anglian Water,Water company,6
+E14001361,Mid Cheshire,UUW,United Utilities,Water company,100
+E14001362,Mid Derbyshire,SVE,Severn Trent Water,Water company,100
+E14001363,Mid Dorset and North Poole,WSX,Wessex Water,Water company,64.5
+E14001363,Mid Dorset and North Poole,SBB,Bournemouth Water (part of South West Water),Water company,35.5
+E14001364,Mid Leicestershire,SVE,Severn Trent Water,Water company,100
+E14001365,Mid Norfolk,ANH,Anglian Water,Water company,100
+E14001366,Mid Sussex,SEW,South East Water,Water company,99.7
+E14001366,Mid Sussex,SRN,Southern Water,Water company,0.3
+W07000100,Mid and South Pembrokeshire,WSH,Dŵr Cymru,Water company,100
+E14001368,Middlesbrough South and East Cleveland,NES,Northumbrian Water,Water company,100
 E14001368,Middlesbrough South and East Cleveland,YKY,Yorkshire Water,Water company,0
-E14001367,Middlesbrough and Thornaby East,NES,Northumbrian Water,Water company,0
-E14001369,Milton Keynes Central,ANH,Anglian Water,Water company,0
-E14001370,Milton Keynes North,ANH,Anglian Water,Water company,0
-E14001371,Mitcham and Morden,TMS,Thames Water,Water company,0
-E14001371,Mitcham and Morden,SES,Sutton & East Surrey Water,Water company,0
-W07000101,Monmouthshire,WSH,Dŵr Cymru,Water company,0
+E14001367,Middlesbrough and Thornaby East,NES,Northumbrian Water,Water company,100
+E14001369,Milton Keynes Central,ANH,Anglian Water,Water company,100
+E14001370,Milton Keynes North,ANH,Anglian Water,Water company,100
+E14001371,Mitcham and Morden,TMS,Thames Water,Water company,75
+E14001371,Mitcham and Morden,SES,Sutton & East Surrey Water,Water company,25
+W07000101,Monmouthshire,WSH,Dŵr Cymru,Water company,100
 W07000101,Monmouthshire,SVE,Severn Trent Water,Water company,0
-W07000102,Montgomeryshire and Glyndwr,HDD,Hafren Dyfrdwy,Water company,0
+W07000102,Montgomeryshire and Glyndwr,HDD,Hafren Dyfrdwy,Water company,100
 W07000102,Montgomeryshire and Glyndwr,SVE,Severn Trent Water,Water company,0
 W07000102,Montgomeryshire and Glyndwr,WSH,Dŵr Cymru,Water company,0
-E14001372,Morecambe and Lunesdale,UUW,United Utilities,Water company,0
+E14001372,Morecambe and Lunesdale,UUW,United Utilities,Water company,100
 E14001372,Morecambe and Lunesdale,YKY,Yorkshire Water,Water company,0
-W07000103,Neath and Swansea East,WSH,Dŵr Cymru,Water company,0
-E14001373,New Forest East,SRN,Southern Water,Water company,0
-E14001373,New Forest East,SBB,Bournemouth Water (part of South West Water),Water company,0
+W07000103,Neath and Swansea East,WSH,Dŵr Cymru,Water company,100
+E14001373,New Forest East,SRN,Southern Water,Water company,89.9
+E14001373,New Forest East,SBB,Bournemouth Water (part of South West Water),Water company,10.1
 E14001373,New Forest East,SBB,South West Water,Water company,0
-E14001374,New Forest West,SBB,Bournemouth Water (part of South West Water),Water company,0
-E14001375,Newark,SVE,Severn Trent Water,Water company,0
-E14001375,Newark,ANH,Anglian Water,Water company,0
-E14001376,Newbury,TMS,Thames Water,Water company,0
-E14001377,Newcastle upon Tyne Central and West,NES,Northumbrian Water,Water company,0
-E14001378,Newcastle upon Tyne East and Wallsend,NES,Northumbrian Water,Water company,0
-E14001379,Newcastle upon Tyne North,NES,Northumbrian Water,Water company,0
-E14001380,Newcastle-under-Lyme,SVE,Severn Trent Water,Water company,0
+E14001374,New Forest West,SBB,Bournemouth Water (part of South West Water),Water company,100
+E14001375,Newark,SVE,Severn Trent Water,Water company,85.4
+E14001375,Newark,ANH,Anglian Water,Water company,14.6
+E14001376,Newbury,TMS,Thames Water,Water company,100
+E14001377,Newcastle upon Tyne Central and West,NES,Northumbrian Water,Water company,100
+E14001378,Newcastle upon Tyne East and Wallsend,NES,Northumbrian Water,Water company,100
+E14001379,Newcastle upon Tyne North,NES,Northumbrian Water,Water company,100
+E14001380,Newcastle-under-Lyme,SVE,Severn Trent Water,Water company,100
 E14001380,Newcastle-under-Lyme,UUW,United Utilities,Water company,0
-W07000104,Newport East,WSH,Dŵr Cymru,Water company,0
-W07000105,Newport West and Islwyn,WSH,Dŵr Cymru,Water company,0
-E14001381,Newton Abbot,SBB,South West Water,Water company,0
-E14001382,Newton Aycliffe and Spennymoor,NES,Northumbrian Water,Water company,0
-E14001383,Normanton and Hemsworth,YKY,Yorkshire Water,Water company,0
-E14001384,North Bedfordshire,ANH,Anglian Water,Water company,0
+W07000104,Newport East,WSH,Dŵr Cymru,Water company,100
+W07000105,Newport West and Islwyn,WSH,Dŵr Cymru,Water company,100
+E14001381,Newton Abbot,SBB,South West Water,Water company,100
+E14001382,Newton Aycliffe and Spennymoor,NES,Northumbrian Water,Water company,100
+E14001383,Normanton and Hemsworth,YKY,Yorkshire Water,Water company,100
+E14001384,North Bedfordshire,ANH,Anglian Water,Water company,100
 E14001384,North Bedfordshire,SSC,Cambridge Water (part of South Staffs Water),Water company,0
-E14001385,North Cornwall,SBB,South West Water,Water company,0
-E14001386,North Cotswolds,SVE,Severn Trent Water,Water company,0
-E14001386,North Cotswolds,TMS,Thames Water,Water company,0
-E14001387,North Devon,SBB,South West Water,Water company,0
-E14001388,North Dorset,WSX,Wessex Water,Water company,0
-E14001388,North Dorset,SBB,Bournemouth Water (part of South West Water),Water company,0
-E14001389,North Durham,NES,Northumbrian Water,Water company,0
-E14001390,North East Cambridgeshire,ANH,Anglian Water,Water company,0
+E14001385,North Cornwall,SBB,South West Water,Water company,100
+E14001386,North Cotswolds,SVE,Severn Trent Water,Water company,59.4
+E14001386,North Cotswolds,TMS,Thames Water,Water company,40.6
+E14001387,North Devon,SBB,South West Water,Water company,100
+E14001388,North Dorset,WSX,Wessex Water,Water company,77.5
+E14001388,North Dorset,SBB,Bournemouth Water (part of South West Water),Water company,22.5
+E14001389,North Durham,NES,Northumbrian Water,Water company,100
+E14001390,North East Cambridgeshire,ANH,Anglian Water,Water company,100
 E14001390,North East Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),Water company,0
-E14001391,North East Derbyshire,SVE,Severn Trent Water,Water company,0
+E14001391,North East Derbyshire,SVE,Severn Trent Water,Water company,100
 E14001391,North East Derbyshire,YKY,Yorkshire Water,Water company,0
-E14001392,North East Hampshire,SEW,South East Water,Water company,0
-E14001392,North East Hampshire,TMS,Thames Water,Water company,0
-E14001393,North East Hertfordshire,AFW,Affinity Water,Water company,0
+E14001392,North East Hampshire,SEW,South East Water,Water company,98.4
+E14001392,North East Hampshire,TMS,Thames Water,Water company,1.6
+E14001393,North East Hertfordshire,AFW,Affinity Water,Water company,100
 E14001393,North East Hertfordshire,ANH,Anglian Water,Water company,0
-E14001394,North East Somerset and Hanham,SBB,Bristol Water (part of South West Water),Water company,0
+E14001394,North East Somerset and Hanham,SBB,Bristol Water (part of South West Water),Water company,100
 E14001394,North East Somerset and Hanham,WSX,Wessex Water,Water company,0
-E14001395,North Herefordshire,WSH,Dŵr Cymru,Water company,0
-E14001395,North Herefordshire,SVE,Severn Trent Water,Water company,0
-E14001396,North Norfolk,ANH,Anglian Water,Water company,0
-E14001397,North Northumberland,NES,Northumbrian Water,Water company,0
-E14001398,North Shropshire,SVE,Severn Trent Water,Water company,0
-E14001399,North Somerset,SBB,Bristol Water (part of South West Water),Water company,0
-E14001400,North Warwickshire and Bedworth,SVE,Severn Trent Water,Water company,0
-E14001400,North Warwickshire and Bedworth,SSC,South Staffordshire Water,Water company,0
-E14001401,North West Cambridgeshire,ANH,Anglian Water,Water company,0
-E14001401,North West Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),Water company,0
-E14001402,North West Essex,AFW,Affinity Water,Water company,0
-E14001402,North West Essex,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
+E14001395,North Herefordshire,WSH,Dŵr Cymru,Water company,97.1
+E14001395,North Herefordshire,SVE,Severn Trent Water,Water company,2.9
+E14001396,North Norfolk,ANH,Anglian Water,Water company,100
+E14001397,North Northumberland,NES,Northumbrian Water,Water company,100
+E14001398,North Shropshire,SVE,Severn Trent Water,Water company,100
+E14001399,North Somerset,SBB,Bristol Water (part of South West Water),Water company,100
+E14001400,North Warwickshire and Bedworth,SVE,Severn Trent Water,Water company,96.4
+E14001400,North Warwickshire and Bedworth,SSC,South Staffordshire Water,Water company,3.6
+E14001401,North West Cambridgeshire,ANH,Anglian Water,Water company,90.4
+E14001401,North West Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),Water company,9.6
+E14001402,North West Essex,AFW,Affinity Water,Water company,73.9
+E14001402,North West Essex,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,26.1
 E14001402,North West Essex,SSC,Cambridge Water (part of South Staffs Water),Water company,0
-E14001403,North West Hampshire,SRN,Southern Water,Water company,0
-E14001403,North West Hampshire,SEW,South East Water,Water company,0
-E14001403,North West Hampshire,TMS,Thames Water,Water company,0
+E14001403,North West Hampshire,SRN,Southern Water,Water company,75.8
+E14001403,North West Hampshire,SEW,South East Water,Water company,12.3
+E14001403,North West Hampshire,TMS,Thames Water,Water company,11.9
 E14001403,North West Hampshire,WSX,Wessex Water,Water company,0
-E14001404,North West Leicestershire,SVE,Severn Trent Water,Water company,0
-E14001405,North West Norfolk,ANH,Anglian Water,Water company,0
-E14001406,Northampton North,ANH,Anglian Water,Water company,0
-E14001407,Northampton South,ANH,Anglian Water,Water company,0
-E14001408,Norwich North,ANH,Anglian Water,Water company,0
-E14001409,Norwich South,ANH,Anglian Water,Water company,0
-E14001410,Nottingham East,SVE,Severn Trent Water,Water company,0
-E14001411,Nottingham North and Kimberley,SVE,Severn Trent Water,Water company,0
-E14001412,Nottingham South,SVE,Severn Trent Water,Water company,0
-E14001413,Nuneaton,SVE,Severn Trent Water,Water company,0
-E14001414,Old Bexley and Sidcup,TMS,Thames Water,Water company,0
-E14001415,Oldham East and Saddleworth,UUW,United Utilities,Water company,0
-E14001416,"Oldham West, Chadderton and Royton",UUW,United Utilities,Water company,0
-E14001417,Orpington,TMS,Thames Water,Water company,0
-E14001418,Ossett and Denby Dale,YKY,Yorkshire Water,Water company,0
-E14001419,Oxford East,TMS,Thames Water,Water company,0
-E14001420,Oxford West and Abingdon,TMS,Thames Water,Water company,0
-E14001421,Peckham,TMS,Thames Water,Water company,0
-E14001422,Pendle and Clitheroe,UUW,United Utilities,Water company,0
-E14001422,Pendle and Clitheroe,YKY,Yorkshire Water,Water company,0
-E14001423,Penistone and Stocksbridge,YKY,Yorkshire Water,Water company,0
-E14001424,Penrith and Solway,UUW,United Utilities,Water company,0
-E14001425,Peterborough,ANH,Anglian Water,Water company,0
-E14001426,Plymouth Moor View,SBB,South West Water,Water company,0
-E14001427,Plymouth Sutton and Devonport,SBB,South West Water,Water company,0
-E14001428,"Pontefract, Castleford and Knottingley",YKY,Yorkshire Water,Water company,0
-W07000106,Pontypridd,WSH,Dŵr Cymru,Water company,0
-E14001429,Poole,WSX,Wessex Water,Water company,0
-E14001429,Poole,SBB,Bournemouth Water (part of South West Water),Water company,0
-E14001430,Poplar and Limehouse,TMS,Thames Water,Water company,0
-E14001431,Portsmouth North,PRT,Portsmouth Water,Water company,0
-E14001432,Portsmouth South,PRT,Portsmouth Water,Water company,0
-E14001433,Preston,UUW,United Utilities,Water company,0
-E14001434,Putney,TMS,Thames Water,Water company,0
-E14001435,Queen's Park and Maida Vale,TMS,Thames Water,Water company,0
-E14001436,Rawmarsh and Conisbrough,YKY,Yorkshire Water,Water company,0
-E14001437,Rayleigh and Wickford,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001438,Reading Central,TMS,Thames Water,Water company,0
-E14001439,Reading West and Mid Berkshire,TMS,Thames Water,Water company,0
-E14001440,Redcar,NES,Northumbrian Water,Water company,0
-E14001441,Redditch,SVE,Severn Trent Water,Water company,0
-E14001442,Reigate,SES,Sutton & East Surrey Water,Water company,0
-W07000107,Rhondda and Ogmore,WSH,Dŵr Cymru,Water company,0
-E14001443,Ribble Valley,UUW,United Utilities,Water company,0
+E14001404,North West Leicestershire,SVE,Severn Trent Water,Water company,100
+E14001405,North West Norfolk,ANH,Anglian Water,Water company,100
+E14001406,Northampton North,ANH,Anglian Water,Water company,100
+E14001407,Northampton South,ANH,Anglian Water,Water company,100
+E14001408,Norwich North,ANH,Anglian Water,Water company,100
+E14001409,Norwich South,ANH,Anglian Water,Water company,100
+E14001410,Nottingham East,SVE,Severn Trent Water,Water company,100
+E14001411,Nottingham North and Kimberley,SVE,Severn Trent Water,Water company,100
+E14001412,Nottingham South,SVE,Severn Trent Water,Water company,100
+E14001413,Nuneaton,SVE,Severn Trent Water,Water company,100
+E14001414,Old Bexley and Sidcup,TMS,Thames Water,Water company,100
+E14001415,Oldham East and Saddleworth,UUW,United Utilities,Water company,100
+E14001416,"Oldham West, Chadderton and Royton",UUW,United Utilities,Water company,100
+E14001417,Orpington,TMS,Thames Water,Water company,100
+E14001418,Ossett and Denby Dale,YKY,Yorkshire Water,Water company,100
+E14001419,Oxford East,TMS,Thames Water,Water company,100
+E14001420,Oxford West and Abingdon,TMS,Thames Water,Water company,100
+E14001421,Peckham,TMS,Thames Water,Water company,100
+E14001422,Pendle and Clitheroe,UUW,United Utilities,Water company,84.7
+E14001422,Pendle and Clitheroe,YKY,Yorkshire Water,Water company,15.3
+E14001423,Penistone and Stocksbridge,YKY,Yorkshire Water,Water company,100
+E14001424,Penrith and Solway,UUW,United Utilities,Water company,100
+E14001425,Peterborough,ANH,Anglian Water,Water company,100
+E14001426,Plymouth Moor View,SBB,South West Water,Water company,100
+E14001427,Plymouth Sutton and Devonport,SBB,South West Water,Water company,100
+E14001428,"Pontefract, Castleford and Knottingley",YKY,Yorkshire Water,Water company,100
+W07000106,Pontypridd,WSH,Dŵr Cymru,Water company,100
+E14001429,Poole,WSX,Wessex Water,Water company,92.8
+E14001429,Poole,SBB,Bournemouth Water (part of South West Water),Water company,7.2
+E14001430,Poplar and Limehouse,TMS,Thames Water,Water company,100
+E14001431,Portsmouth North,PRT,Portsmouth Water,Water company,100
+E14001432,Portsmouth South,PRT,Portsmouth Water,Water company,100
+E14001433,Preston,UUW,United Utilities,Water company,100
+E14001434,Putney,TMS,Thames Water,Water company,100
+E14001435,Queen's Park and Maida Vale,TMS,Thames Water,Water company,100
+E14001436,Rawmarsh and Conisbrough,YKY,Yorkshire Water,Water company,100
+E14001437,Rayleigh and Wickford,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001438,Reading Central,TMS,Thames Water,Water company,100
+E14001439,Reading West and Mid Berkshire,TMS,Thames Water,Water company,100
+E14001440,Redcar,NES,Northumbrian Water,Water company,100
+E14001441,Redditch,SVE,Severn Trent Water,Water company,100
+E14001442,Reigate,SES,Sutton & East Surrey Water,Water company,100
+W07000107,Rhondda and Ogmore,WSH,Dŵr Cymru,Water company,100
+E14001443,Ribble Valley,UUW,United Utilities,Water company,100
 E14001443,Ribble Valley,YKY,Yorkshire Water,Water company,0
-E14001445,Richmond Park,TMS,Thames Water,Water company,0
-E14001444,Richmond and Northallerton,YKY,Yorkshire Water,Water company,0
-E14001444,Richmond and Northallerton,NES,Northumbrian Water,Water company,0
-E14001446,Rochdale,UUW,United Utilities,Water company,0
+E14001445,Richmond Park,TMS,Thames Water,Water company,100
+E14001444,Richmond and Northallerton,YKY,Yorkshire Water,Water company,80.2
+E14001444,Richmond and Northallerton,NES,Northumbrian Water,Water company,19.8
+E14001446,Rochdale,UUW,United Utilities,Water company,100
 E14001446,Rochdale,YKY,Yorkshire Water,Water company,0
-E14001447,Rochester and Strood,SRN,Southern Water,Water company,0
-E14001447,Rochester and Strood,SEW,South East Water,Water company,0
-E14001448,Romford,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001449,Romsey and Southampton North,SRN,Southern Water,Water company,0
-E14001449,Romsey and Southampton North,SBB,Bournemouth Water (part of South West Water),Water company,0
-E14001449,Romsey and Southampton North,WSX,Wessex Water,Water company,0
-E14001450,Rossendale and Darwen,UUW,United Utilities,Water company,0
+E14001447,Rochester and Strood,SRN,Southern Water,Water company,96.3
+E14001447,Rochester and Strood,SEW,South East Water,Water company,3.7
+E14001448,Romford,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001449,Romsey and Southampton North,SRN,Southern Water,Water company,96.1
+E14001449,Romsey and Southampton North,SBB,Bournemouth Water (part of South West Water),Water company,2.4
+E14001449,Romsey and Southampton North,WSX,Wessex Water,Water company,1.5
+E14001450,Rossendale and Darwen,UUW,United Utilities,Water company,100
 E14001450,Rossendale and Darwen,YKY,Yorkshire Water,Water company,0
-E14001451,Rother Valley,YKY,Yorkshire Water,Water company,0
+E14001451,Rother Valley,YKY,Yorkshire Water,Water company,100
 E14001451,Rother Valley,SVE,Severn Trent Water,Water company,0
-E14001452,Rotherham,YKY,Yorkshire Water,Water company,0
-E14001453,Rugby,SVE,Severn Trent Water,Water company,0
-E14001454,"Ruislip, Northwood and Pinner",AFW,Affinity Water,Water company,0
-E14001455,Runcorn and Helsby,UUW,United Utilities,Water company,0
-E14001455,Runcorn and Helsby,SVE,Severn Trent Water,Water company,0
-E14001456,Runnymede and Weybridge,AFW,Affinity Water,Water company,0
-E14001456,Runnymede and Weybridge,SES,Sutton & East Surrey Water,Water company,0
-E14001457,Rushcliffe,SVE,Severn Trent Water,Water company,0
-E14001458,Rutland and Stamford,SVE,Severn Trent Water,Water company,0
-E14001458,Rutland and Stamford,ANH,Anglian Water,Water company,0
-E14001459,Salford,UUW,United Utilities,Water company,0
-E14001460,Salisbury,WSX,Wessex Water,Water company,0
-E14001460,Salisbury,SBB,Bournemouth Water (part of South West Water),Water company,0
-E14001460,Salisbury,SRN,Southern Water,Water company,0
-E14001461,Scarborough and Whitby,YKY,Yorkshire Water,Water company,0
-E14001462,Scunthorpe,ANH,Anglian Water,Water company,0
-E14001463,Sefton Central,UUW,United Utilities,Water company,0
-E14001464,Selby,YKY,Yorkshire Water,Water company,0
-E14001465,Sevenoaks,TMS,Thames Water,Water company,0
-E14001465,Sevenoaks,SEW,South East Water,Water company,0
-E14001465,Sevenoaks,SES,Sutton & East Surrey Water,Water company,0
-E14001466,Sheffield Brightside and Hillsborough,YKY,Yorkshire Water,Water company,0
-E14001467,Sheffield Central,YKY,Yorkshire Water,Water company,0
-E14001468,Sheffield Hallam,YKY,Yorkshire Water,Water company,0
+E14001452,Rotherham,YKY,Yorkshire Water,Water company,100
+E14001453,Rugby,SVE,Severn Trent Water,Water company,100
+E14001454,"Ruislip, Northwood and Pinner",AFW,Affinity Water,Water company,100
+E14001455,Runcorn and Helsby,UUW,United Utilities,Water company,90.1
+E14001455,Runcorn and Helsby,SVE,Severn Trent Water,Water company,9.9
+E14001456,Runnymede and Weybridge,AFW,Affinity Water,Water company,83
+E14001456,Runnymede and Weybridge,SES,Sutton & East Surrey Water,Water company,17
+E14001457,Rushcliffe,SVE,Severn Trent Water,Water company,100
+E14001458,Rutland and Stamford,SVE,Severn Trent Water,Water company,52.1
+E14001458,Rutland and Stamford,ANH,Anglian Water,Water company,47.9
+E14001459,Salford,UUW,United Utilities,Water company,100
+E14001460,Salisbury,WSX,Wessex Water,Water company,91.2
+E14001460,Salisbury,SBB,Bournemouth Water (part of South West Water),Water company,8.6
+E14001460,Salisbury,SRN,Southern Water,Water company,0.2
+E14001461,Scarborough and Whitby,YKY,Yorkshire Water,Water company,100
+E14001462,Scunthorpe,ANH,Anglian Water,Water company,100
+E14001463,Sefton Central,UUW,United Utilities,Water company,100
+E14001464,Selby,YKY,Yorkshire Water,Water company,100
+E14001465,Sevenoaks,TMS,Thames Water,Water company,50.7
+E14001465,Sevenoaks,SEW,South East Water,Water company,48.4
+E14001465,Sevenoaks,SES,Sutton & East Surrey Water,Water company,0.9
+E14001466,Sheffield Brightside and Hillsborough,YKY,Yorkshire Water,Water company,100
+E14001467,Sheffield Central,YKY,Yorkshire Water,Water company,100
+E14001468,Sheffield Hallam,YKY,Yorkshire Water,Water company,100
 E14001468,Sheffield Hallam,SVE,Severn Trent Water,Water company,0
-E14001469,Sheffield Heeley,YKY,Yorkshire Water,Water company,0
-E14001470,Sheffield South East,YKY,Yorkshire Water,Water company,0
-E14001470,Sheffield South East,SVE,Severn Trent Water,Water company,0
-E14001471,Sherwood Forest,SVE,Severn Trent Water,Water company,0
-E14001472,Shipley,YKY,Yorkshire Water,Water company,0
-E14001473,Shrewsbury,SVE,Severn Trent Water,Water company,0
-E14001474,Sittingbourne and Sheppey,SRN,Southern Water,Water company,0
-E14001474,Sittingbourne and Sheppey,SEW,South East Water,Water company,0
-E14001475,Skipton and Ripon,YKY,Yorkshire Water,Water company,0
+E14001469,Sheffield Heeley,YKY,Yorkshire Water,Water company,100
+E14001470,Sheffield South East,YKY,Yorkshire Water,Water company,52
+E14001470,Sheffield South East,SVE,Severn Trent Water,Water company,48
+E14001471,Sherwood Forest,SVE,Severn Trent Water,Water company,100
+E14001472,Shipley,YKY,Yorkshire Water,Water company,100
+E14001473,Shrewsbury,SVE,Severn Trent Water,Water company,100
+E14001474,Sittingbourne and Sheppey,SRN,Southern Water,Water company,98.1
+E14001474,Sittingbourne and Sheppey,SEW,South East Water,Water company,1.9
+E14001475,Skipton and Ripon,YKY,Yorkshire Water,Water company,100
 E14001475,Skipton and Ripon,UUW,United Utilities,Water company,0
-E14001476,Sleaford and North Hykeham,ANH,Anglian Water,Water company,0
-E14001477,Slough,TMS,Thames Water,Water company,0
+E14001476,Sleaford and North Hykeham,ANH,Anglian Water,Water company,100
+E14001477,Slough,TMS,Thames Water,Water company,100
 E14001477,Slough,AFW,Affinity Water,Water company,0
-E14001478,Smethwick,SSC,South Staffordshire Water,Water company,0
-E14001478,Smethwick,SVE,Severn Trent Water,Water company,0
-E14001479,Solihull West and Shirley,SVE,Severn Trent Water,Water company,0
-E14001480,South Basildon and East Thurrock,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001481,South Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),Water company,0
+E14001478,Smethwick,SSC,South Staffordshire Water,Water company,99.2
+E14001478,Smethwick,SVE,Severn Trent Water,Water company,0.8
+E14001479,Solihull West and Shirley,SVE,Severn Trent Water,Water company,100
+E14001480,South Basildon and East Thurrock,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001481,South Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),Water company,100
 E14001481,South Cambridgeshire,AFW,Affinity Water,Water company,0
 E14001481,South Cambridgeshire,ANH,Anglian Water,Water company,0
-E14001482,South Cotswolds,TMS,Thames Water,Water company,0
-E14001482,South Cotswolds,WSX,Wessex Water,Water company,0
-E14001482,South Cotswolds,SBB,Bristol Water (part of South West Water),Water company,0
-E14001482,South Cotswolds,SVE,Severn Trent Water,Water company,0
-E14001483,South Derbyshire,SVE,Severn Trent Water,Water company,0
-E14001483,South Derbyshire,SSC,South Staffordshire Water,Water company,0
-E14001484,South Devon,SBB,South West Water,Water company,0
-E14001485,South Dorset,WSX,Wessex Water,Water company,0
-E14001486,South East Cornwall,SBB,South West Water,Water company,0
-E14001487,South Holland and The Deepings,ANH,Anglian Water,Water company,0
-E14001488,South Leicestershire,SVE,Severn Trent Water,Water company,0
-E14001489,South Norfolk,ANH,Anglian Water,Water company,0
+E14001482,South Cotswolds,TMS,Thames Water,Water company,56.5
+E14001482,South Cotswolds,WSX,Wessex Water,Water company,27.5
+E14001482,South Cotswolds,SBB,Bristol Water (part of South West Water),Water company,13.1
+E14001482,South Cotswolds,SVE,Severn Trent Water,Water company,2.9
+E14001483,South Derbyshire,SVE,Severn Trent Water,Water company,71.4
+E14001483,South Derbyshire,SSC,South Staffordshire Water,Water company,28.6
+E14001484,South Devon,SBB,South West Water,Water company,100
+E14001485,South Dorset,WSX,Wessex Water,Water company,100
+E14001486,South East Cornwall,SBB,South West Water,Water company,100
+E14001487,South Holland and The Deepings,ANH,Anglian Water,Water company,100
+E14001488,South Leicestershire,SVE,Severn Trent Water,Water company,100
+E14001489,South Norfolk,ANH,Anglian Water,Water company,100
 E14001489,South Norfolk,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001490,South Northamptonshire,ANH,Anglian Water,Water company,0
+E14001490,South Northamptonshire,ANH,Anglian Water,Water company,100
 E14001490,South Northamptonshire,TMS,Thames Water,Water company,0
-E14001491,South Ribble,UUW,United Utilities,Water company,0
-E14001492,South Shields,NES,Northumbrian Water,Water company,0
-E14001493,South Shropshire,SVE,Severn Trent Water,Water company,0
+E14001491,South Ribble,UUW,United Utilities,Water company,100
+E14001492,South Shields,NES,Northumbrian Water,Water company,100
+E14001493,South Shropshire,SVE,Severn Trent Water,Water company,100
 E14001493,South Shropshire,WSH,Dŵr Cymru,Water company,0
 E14001493,South Shropshire,SSC,South Staffordshire Water,Water company,0
-E14001494,South Suffolk,ANH,Anglian Water,Water company,0
-E14001495,South West Devon,SBB,South West Water,Water company,0
-E14001496,South West Hertfordshire,AFW,Affinity Water,Water company,0
-E14001497,South West Norfolk,ANH,Anglian Water,Water company,0
-E14001498,South West Wiltshire,WSX,Wessex Water,Water company,0
+E14001494,South Suffolk,ANH,Anglian Water,Water company,100
+E14001495,South West Devon,SBB,South West Water,Water company,100
+E14001496,South West Hertfordshire,AFW,Affinity Water,Water company,100
+E14001497,South West Norfolk,ANH,Anglian Water,Water company,100
+E14001498,South West Wiltshire,WSX,Wessex Water,Water company,100
 E14001498,South West Wiltshire,SBB,Bristol Water (part of South West Water),Water company,0
-E14001499,Southampton Itchen,SRN,Southern Water,Water company,0
-E14001500,Southampton Test,SRN,Southern Water,Water company,0
-E14001501,Southend East and Rochford,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001502,Southend West and Leigh,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001503,Southgate and Wood Green,TMS,Thames Water,Water company,0
-E14001503,Southgate and Wood Green,AFW,Affinity Water,Water company,0
-E14001504,Southport,UUW,United Utilities,Water company,0
-E14001505,Spelthorne,AFW,Affinity Water,Water company,0
-E14001505,Spelthorne,TMS,Thames Water,Water company,0
-E14001506,Spen Valley,YKY,Yorkshire Water,Water company,0
-E14001507,St Albans,AFW,Affinity Water,Water company,0
-E14001508,St Austell and Newquay,SBB,South West Water,Water company,0
-E14001509,St Helens North,UUW,United Utilities,Water company,0
-E14001510,St Helens South and Whiston,UUW,United Utilities,Water company,0
-E14001511,St Ives,SBB,South West Water,Water company,0
-E14001512,St Neots and Mid Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),Water company,0
-E14001512,St Neots and Mid Cambridgeshire,ANH,Anglian Water,Water company,0
-E14001513,Stafford,SVE,Severn Trent Water,Water company,0
+E14001499,Southampton Itchen,SRN,Southern Water,Water company,100
+E14001500,Southampton Test,SRN,Southern Water,Water company,100
+E14001501,Southend East and Rochford,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001502,Southend West and Leigh,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001503,Southgate and Wood Green,TMS,Thames Water,Water company,94.8
+E14001503,Southgate and Wood Green,AFW,Affinity Water,Water company,5.2
+E14001504,Southport,UUW,United Utilities,Water company,100
+E14001505,Spelthorne,AFW,Affinity Water,Water company,77.1
+E14001505,Spelthorne,TMS,Thames Water,Water company,22.9
+E14001506,Spen Valley,YKY,Yorkshire Water,Water company,100
+E14001507,St Albans,AFW,Affinity Water,Water company,100
+E14001508,St Austell and Newquay,SBB,South West Water,Water company,100
+E14001509,St Helens North,UUW,United Utilities,Water company,100
+E14001510,St Helens South and Whiston,UUW,United Utilities,Water company,100
+E14001511,St Ives,SBB,South West Water,Water company,100
+E14001512,St Neots and Mid Cambridgeshire,SSC,Cambridge Water (part of South Staffs Water),Water company,58.9
+E14001512,St Neots and Mid Cambridgeshire,ANH,Anglian Water,Water company,41.1
+E14001513,Stafford,SVE,Severn Trent Water,Water company,100
 E14001513,Stafford,SSC,South Staffordshire Water,Water company,0
-E14001514,Staffordshire Moorlands,SVE,Severn Trent Water,Water company,0
+E14001514,Staffordshire Moorlands,SVE,Severn Trent Water,Water company,100
 E14001514,Staffordshire Moorlands,SSC,South Staffordshire Water,Water company,0
 E14001514,Staffordshire Moorlands,UUW,United Utilities,Water company,0
-E14001515,Stalybridge and Hyde,UUW,United Utilities,Water company,0
-E14001516,Stevenage,AFW,Affinity Water,Water company,0
-E14001517,Stockport,UUW,United Utilities,Water company,0
-E14001518,Stockton North,NES,Northumbrian Water,Water company,0
-E14001518,Stockton North,ANH,Anglian Water,Water company,0
-E14001519,Stockton West,NES,Northumbrian Water,Water company,0
-E14001520,Stoke-on-Trent Central,SVE,Severn Trent Water,Water company,0
-E14001521,Stoke-on-Trent North,SVE,Severn Trent Water,Water company,0
+E14001515,Stalybridge and Hyde,UUW,United Utilities,Water company,100
+E14001516,Stevenage,AFW,Affinity Water,Water company,100
+E14001517,Stockport,UUW,United Utilities,Water company,100
+E14001518,Stockton North,NES,Northumbrian Water,Water company,98.2
+E14001518,Stockton North,ANH,Anglian Water,Water company,1.8
+E14001519,Stockton West,NES,Northumbrian Water,Water company,100
+E14001520,Stoke-on-Trent Central,SVE,Severn Trent Water,Water company,100
+E14001521,Stoke-on-Trent North,SVE,Severn Trent Water,Water company,100
 E14001521,Stoke-on-Trent North,UUW,United Utilities,Water company,0
-E14001522,Stoke-on-Trent South,SVE,Severn Trent Water,Water company,0
-E14001523,"Stone, Great Wyrley and Penkridge",SVE,Severn Trent Water,Water company,0
-E14001523,"Stone, Great Wyrley and Penkridge",SSC,South Staffordshire Water,Water company,0
-E14001524,Stourbridge,SVE,Severn Trent Water,Water company,0
-E14001524,Stourbridge,SSC,South Staffordshire Water,Water company,0
-E14001525,Stratford and Bow,TMS,Thames Water,Water company,0
-E14001526,Stratford-on-Avon,SVE,Severn Trent Water,Water company,0
+E14001522,Stoke-on-Trent South,SVE,Severn Trent Water,Water company,100
+E14001523,"Stone, Great Wyrley and Penkridge",SVE,Severn Trent Water,Water company,63.1
+E14001523,"Stone, Great Wyrley and Penkridge",SSC,South Staffordshire Water,Water company,36.9
+E14001524,Stourbridge,SVE,Severn Trent Water,Water company,63.9
+E14001524,Stourbridge,SSC,South Staffordshire Water,Water company,36.1
+E14001525,Stratford and Bow,TMS,Thames Water,Water company,100
+E14001526,Stratford-on-Avon,SVE,Severn Trent Water,Water company,100
 E14001526,Stratford-on-Avon,TMS,Thames Water,Water company,0
-E14001527,Streatham and Croydon North,TMS,Thames Water,Water company,0
-E14001528,Stretford and Urmston,UUW,United Utilities,Water company,0
-E14001529,Stroud,SVE,Severn Trent Water,Water company,0
+E14001527,Streatham and Croydon North,TMS,Thames Water,Water company,100
+E14001528,Stretford and Urmston,UUW,United Utilities,Water company,100
+E14001529,Stroud,SVE,Severn Trent Water,Water company,100
 E14001529,Stroud,SBB,Bristol Water (part of South West Water),Water company,0
-E14001530,Suffolk Coastal,ANH,Anglian Water,Water company,0
-E14001530,Suffolk Coastal,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001531,Sunderland Central,NES,Northumbrian Water,Water company,0
-E14001532,Surrey Heath,SEW,South East Water,Water company,0
-E14001532,Surrey Heath,AFW,Affinity Water,Water company,0
-E14001533,Sussex Weald,SEW,South East Water,Water company,0
+E14001530,Suffolk Coastal,ANH,Anglian Water,Water company,69.1
+E14001530,Suffolk Coastal,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,30.9
+E14001531,Sunderland Central,NES,Northumbrian Water,Water company,100
+E14001532,Surrey Heath,SEW,South East Water,Water company,63.3
+E14001532,Surrey Heath,AFW,Affinity Water,Water company,36.7
+E14001533,Sussex Weald,SEW,South East Water,Water company,100
 E14001533,Sussex Weald,SES,Sutton & East Surrey Water,Water company,0
-E14001535,Sutton Coldfield,SSC,South Staffordshire Water,Water company,0
-E14001535,Sutton Coldfield,SVE,Severn Trent Water,Water company,0
-E14001534,Sutton and Cheam,SES,Sutton & East Surrey Water,Water company,0
-E14001534,Sutton and Cheam,TMS,Thames Water,Water company,0
-W07000108,Swansea West,WSH,Dŵr Cymru,Water company,0
-E14001536,Swindon North,TMS,Thames Water,Water company,0
-E14001537,Swindon South,TMS,Thames Water,Water company,0
-E14001538,Tamworth,SSC,South Staffordshire Water,Water company,0
+E14001535,Sutton Coldfield,SSC,South Staffordshire Water,Water company,90
+E14001535,Sutton Coldfield,SVE,Severn Trent Water,Water company,10
+E14001534,Sutton and Cheam,SES,Sutton & East Surrey Water,Water company,99.3
+E14001534,Sutton and Cheam,TMS,Thames Water,Water company,0.7
+W07000108,Swansea West,WSH,Dŵr Cymru,Water company,100
+E14001536,Swindon North,TMS,Thames Water,Water company,100
+E14001537,Swindon South,TMS,Thames Water,Water company,100
+E14001538,Tamworth,SSC,South Staffordshire Water,Water company,100
 E14001538,Tamworth,SVE,Severn Trent Water,Water company,0
-E14001539,Tatton,UUW,United Utilities,Water company,0
-E14001540,Taunton and Wellington,WSX,Wessex Water,Water company,0
+E14001539,Tatton,UUW,United Utilities,Water company,100
+E14001540,Taunton and Wellington,WSX,Wessex Water,Water company,100
 E14001540,Taunton and Wellington,SBB,South West Water,Water company,0
-E14001541,Telford,SVE,Severn Trent Water,Water company,0
-E14001542,Tewkesbury,SVE,Severn Trent Water,Water company,0
+E14001541,Telford,SVE,Severn Trent Water,Water company,100
+E14001542,Tewkesbury,SVE,Severn Trent Water,Water company,100
 E14001542,Tewkesbury,TMS,Thames Water,Water company,0
-E14001543,The Wrekin,SVE,Severn Trent Water,Water company,0
-E14001544,Thirsk and Malton,YKY,Yorkshire Water,Water company,0
+E14001543,The Wrekin,SVE,Severn Trent Water,Water company,100
+E14001544,Thirsk and Malton,YKY,Yorkshire Water,Water company,100
 E14001544,Thirsk and Malton,NES,Northumbrian Water,Water company,0
-E14001545,Thornbury and Yate,SBB,Bristol Water (part of South West Water),Water company,0
-E14001545,Thornbury and Yate,SVE,Severn Trent Water,Water company,0
+E14001545,Thornbury and Yate,SBB,Bristol Water (part of South West Water),Water company,99.9
+E14001545,Thornbury and Yate,SVE,Severn Trent Water,Water company,0.1
 E14001545,Thornbury and Yate,WSX,Wessex Water,Water company,0
-E14001546,Thurrock,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001547,Tipton and Wednesbury,SSC,South Staffordshire Water,Water company,0
-E14001547,Tipton and Wednesbury,SVE,Severn Trent Water,Water company,0
-E14001548,Tiverton and Minehead,WSX,Wessex Water,Water company,0
-E14001548,Tiverton and Minehead,SBB,South West Water,Water company,0
-E14001549,Tonbridge,SEW,South East Water,Water company,0
-E14001549,Tonbridge,SES,Sutton & East Surrey Water,Water company,0
+E14001546,Thurrock,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,100
+E14001547,Tipton and Wednesbury,SSC,South Staffordshire Water,Water company,95.6
+E14001547,Tipton and Wednesbury,SVE,Severn Trent Water,Water company,4.4
+E14001548,Tiverton and Minehead,WSX,Wessex Water,Water company,54.1
+E14001548,Tiverton and Minehead,SBB,South West Water,Water company,45.9
+E14001549,Tonbridge,SEW,South East Water,Water company,86.2
+E14001549,Tonbridge,SES,Sutton & East Surrey Water,Water company,13.8
 E14001549,Tonbridge,TMS,Thames Water,Water company,0
-E14001550,Tooting,TMS,Thames Water,Water company,0
-E14001551,Torbay,SBB,South West Water,Water company,0
-W07000109,Torfaen,WSH,Dŵr Cymru,Water company,0
-E14001552,Torridge and Tavistock,SBB,South West Water,Water company,0
-E14001553,Tottenham,TMS,Thames Water,Water company,0
-E14001554,Truro and Falmouth,SBB,South West Water,Water company,0
-E14001555,Tunbridge Wells,SEW,South East Water,Water company,0
-E14001556,Twickenham,TMS,Thames Water,Water company,0
-E14001557,Tynemouth,NES,Northumbrian Water,Water company,0
-E14001558,Uxbridge and South Ruislip,AFW,Affinity Water,Water company,0
-W07000110,Vale of Glamorgan,WSH,Dŵr Cymru,Water company,0
-E14001559,Vauxhall and Camberwell Green,TMS,Thames Water,Water company,0
-E14001560,Wakefield and Rothwell,YKY,Yorkshire Water,Water company,0
-E14001561,Wallasey,UUW,United Utilities,Water company,0
-E14001562,Walsall and Bloxwich,SSC,South Staffordshire Water,Water company,0
-E14001562,Walsall and Bloxwich,SVE,Severn Trent Water,Water company,0
-E14001563,Walthamstow,TMS,Thames Water,Water company,0
-E14001564,Warrington North,UUW,United Utilities,Water company,0
-E14001565,Warrington South,UUW,United Utilities,Water company,0
-E14001566,Warwick and Leamington,SVE,Severn Trent Water,Water company,0
-E14001567,Washington and Gateshead South,NES,Northumbrian Water,Water company,0
-E14001568,Watford,AFW,Affinity Water,Water company,0
-E14001569,Waveney Valley,ANH,Anglian Water,Water company,0
-E14001569,Waveney Valley,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001570,Weald of Kent,SEW,South East Water,Water company,0
-E14001571,Wellingborough and Rushden,ANH,Anglian Water,Water company,0
-E14001572,Wells and Mendip Hills,SBB,Bristol Water (part of South West Water),Water company,0
-E14001572,Wells and Mendip Hills,WSX,Wessex Water,Water company,0
-E14001573,Welwyn Hatfield,AFW,Affinity Water,Water company,0
-E14001574,West Bromwich,SSC,South Staffordshire Water,Water company,0
-E14001574,West Bromwich,SVE,Severn Trent Water,Water company,0
-E14001575,West Dorset,WSX,Wessex Water,Water company,0
-E14001575,West Dorset,SBB,South West Water,Water company,0
-E14001576,West Ham and Beckton,TMS,Thames Water,Water company,0
-E14001577,West Lancashire,UUW,United Utilities,Water company,0
-E14001578,West Suffolk,ANH,Anglian Water,Water company,0
-E14001579,West Worcestershire,SVE,Severn Trent Water,Water company,0
+E14001550,Tooting,TMS,Thames Water,Water company,100
+E14001551,Torbay,SBB,South West Water,Water company,100
+W07000109,Torfaen,WSH,Dŵr Cymru,Water company,100
+E14001552,Torridge and Tavistock,SBB,South West Water,Water company,100
+E14001553,Tottenham,TMS,Thames Water,Water company,100
+E14001554,Truro and Falmouth,SBB,South West Water,Water company,100
+E14001555,Tunbridge Wells,SEW,South East Water,Water company,100
+E14001556,Twickenham,TMS,Thames Water,Water company,100
+E14001557,Tynemouth,NES,Northumbrian Water,Water company,100
+E14001558,Uxbridge and South Ruislip,AFW,Affinity Water,Water company,100
+W07000110,Vale of Glamorgan,WSH,Dŵr Cymru,Water company,100
+E14001559,Vauxhall and Camberwell Green,TMS,Thames Water,Water company,100
+E14001560,Wakefield and Rothwell,YKY,Yorkshire Water,Water company,100
+E14001561,Wallasey,UUW,United Utilities,Water company,100
+E14001562,Walsall and Bloxwich,SSC,South Staffordshire Water,Water company,99.1
+E14001562,Walsall and Bloxwich,SVE,Severn Trent Water,Water company,0.9
+E14001563,Walthamstow,TMS,Thames Water,Water company,100
+E14001564,Warrington North,UUW,United Utilities,Water company,100
+E14001565,Warrington South,UUW,United Utilities,Water company,100
+E14001566,Warwick and Leamington,SVE,Severn Trent Water,Water company,100
+E14001567,Washington and Gateshead South,NES,Northumbrian Water,Water company,100
+E14001568,Watford,AFW,Affinity Water,Water company,100
+E14001569,Waveney Valley,ANH,Anglian Water,Water company,52.2
+E14001569,Waveney Valley,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,47.8
+E14001570,Weald of Kent,SEW,South East Water,Water company,100
+E14001571,Wellingborough and Rushden,ANH,Anglian Water,Water company,100
+E14001572,Wells and Mendip Hills,SBB,Bristol Water (part of South West Water),Water company,93.6
+E14001572,Wells and Mendip Hills,WSX,Wessex Water,Water company,6.4
+E14001573,Welwyn Hatfield,AFW,Affinity Water,Water company,100
+E14001574,West Bromwich,SSC,South Staffordshire Water,Water company,89.2
+E14001574,West Bromwich,SVE,Severn Trent Water,Water company,10.8
+E14001575,West Dorset,WSX,Wessex Water,Water company,96.3
+E14001575,West Dorset,SBB,South West Water,Water company,3.7
+E14001576,West Ham and Beckton,TMS,Thames Water,Water company,100
+E14001577,West Lancashire,UUW,United Utilities,Water company,100
+E14001578,West Suffolk,ANH,Anglian Water,Water company,100
+E14001579,West Worcestershire,SVE,Severn Trent Water,Water company,100
 E14001579,West Worcestershire,WSH,Dŵr Cymru,Water company,0
-E14001580,Westmorland and Lonsdale,UUW,United Utilities,Water company,0
-E14001581,Weston-Super-Mare,SBB,Bristol Water (part of South West Water),Water company,0
-E14001582,Wetherby and Easingwold,YKY,Yorkshire Water,Water company,0
-E14001583,Whitehaven and Workington,UUW,United Utilities,Water company,0
-E14001584,Widnes and Halewood,UUW,United Utilities,Water company,0
-E14001585,Wigan,UUW,United Utilities,Water company,0
-E14001586,Wimbledon,TMS,Thames Water,Water company,0
-E14001586,Wimbledon,SES,Sutton & East Surrey Water,Water company,0
-E14001587,Winchester,SRN,Southern Water,Water company,0
-E14001587,Winchester,PRT,Portsmouth Water,Water company,0
+E14001580,Westmorland and Lonsdale,UUW,United Utilities,Water company,100
+E14001581,Weston-Super-Mare,SBB,Bristol Water (part of South West Water),Water company,100
+E14001582,Wetherby and Easingwold,YKY,Yorkshire Water,Water company,100
+E14001583,Whitehaven and Workington,UUW,United Utilities,Water company,100
+E14001584,Widnes and Halewood,UUW,United Utilities,Water company,100
+E14001585,Wigan,UUW,United Utilities,Water company,100
+E14001586,Wimbledon,TMS,Thames Water,Water company,98.5
+E14001586,Wimbledon,SES,Sutton & East Surrey Water,Water company,1.5
+E14001587,Winchester,SRN,Southern Water,Water company,81.5
+E14001587,Winchester,PRT,Portsmouth Water,Water company,18.5
 E14001587,Winchester,SEW,South East Water,Water company,0
-E14001588,Windsor,TMS,Thames Water,Water company,0
-E14001588,Windsor,AFW,Affinity Water,Water company,0
-E14001588,Windsor,SEW,South East Water,Water company,0
-E14001589,Wirral West,UUW,United Utilities,Water company,0
-E14001590,Witham,ANH,Anglian Water,Water company,0
-E14001590,Witham,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,0
-E14001590,Witham,NES,Northumbrian Water,Water company,0
-E14001591,Witney,TMS,Thames Water,Water company,0
-E14001592,Woking,AFW,Affinity Water,Water company,0
-E14001593,Wokingham,SEW,South East Water,Water company,0
-E14001593,Wokingham,TMS,Thames Water,Water company,0
-E14001594,Wolverhampton North East,SVE,Severn Trent Water,Water company,0
-E14001595,Wolverhampton South East,SVE,Severn Trent Water,Water company,0
-E14001595,Wolverhampton South East,SSC,South Staffordshire Water,Water company,0
-E14001596,Wolverhampton West,SVE,Severn Trent Water,Water company,0
-E14001597,Worcester,SVE,Severn Trent Water,Water company,0
-E14001598,Worsley and Eccles,UUW,United Utilities,Water company,0
-E14001599,Worthing West,SRN,Southern Water,Water company,0
-W07000111,Wrexham,HDD,Hafren Dyfrdwy,Water company,0
+E14001588,Windsor,TMS,Thames Water,Water company,56.2
+E14001588,Windsor,AFW,Affinity Water,Water company,42.6
+E14001588,Windsor,SEW,South East Water,Water company,1.2
+E14001589,Wirral West,UUW,United Utilities,Water company,100
+E14001590,Witham,ANH,Anglian Water,Water company,54.7
+E14001590,Witham,NES,Essex and Suffolk Water (part of Northumbrian Water),Water company,45.3
+E14001591,Witney,TMS,Thames Water,Water company,100
+E14001592,Woking,AFW,Affinity Water,Water company,100
+E14001593,Wokingham,SEW,South East Water,Water company,61.3
+E14001593,Wokingham,TMS,Thames Water,Water company,38.7
+E14001594,Wolverhampton North East,SVE,Severn Trent Water,Water company,100
+E14001595,Wolverhampton South East,SVE,Severn Trent Water,Water company,81.9
+E14001595,Wolverhampton South East,SSC,South Staffordshire Water,Water company,18.1
+E14001596,Wolverhampton West,SVE,Severn Trent Water,Water company,100
+E14001597,Worcester,SVE,Severn Trent Water,Water company,100
+E14001598,Worsley and Eccles,UUW,United Utilities,Water company,100
+E14001599,Worthing West,SRN,Southern Water,Water company,100
+W07000111,Wrexham,HDD,Hafren Dyfrdwy,Water company,100
 W07000111,Wrexham,SVE,Severn Trent Water,Water company,0
-E14001600,Wycombe,TMS,Thames Water,Water company,0
-E14001600,Wycombe,AFW,Affinity Water,Water company,0
-E14001601,Wyre Forest,SVE,Severn Trent Water,Water company,0
+E14001600,Wycombe,TMS,Thames Water,Water company,98.7
+E14001600,Wycombe,AFW,Affinity Water,Water company,1.3
+E14001601,Wyre Forest,SVE,Severn Trent Water,Water company,100
 E14001601,Wyre Forest,SSC,South Staffordshire Water,Water company,0
-E14001602,Wythenshawe and Sale East,UUW,United Utilities,Water company,0
-E14001603,Yeovil,WSX,Wessex Water,Water company,0
+E14001602,Wythenshawe and Sale East,UUW,United Utilities,Water company,100
+E14001603,Yeovil,WSX,Wessex Water,Water company,100
 E14001603,Yeovil,SBB,South West Water,Water company,0
-W07000112,Ynys Môn,WSH,Dŵr Cymru,Water company,0
-E14001604,York Central,YKY,Yorkshire Water,Water company,0
-E14001605,York Outer,YKY,Yorkshire Water,Water company,0
-W07000081,Aberafan Maesteg,WSH,Dŵr Cymru,Sewerage company,0
-E14001063,Aldershot,TMS,Thames Water,Sewerage company,0
-E14001064,Aldridge-Brownhills,SVE,Severn Trent Water,Sewerage company,0
-E14001065,Altrincham and Sale West,UUW,United Utilities,Sewerage company,0
-W07000082,Alyn and Deeside,WSH,Dŵr Cymru,Sewerage company,0
-E14001066,Amber Valley,SVE,Severn Trent Water,Sewerage company,0
-E14001067,Arundel and South Downs,SRN,Southern Water,Sewerage company,0
-E14001067,Arundel and South Downs,TMS,Thames Water,Sewerage company,0
-E14001068,Ashfield,SVE,Severn Trent Water,Sewerage company,0
-E14001068,Ashfield,YKY,Yorkshire Water,Sewerage company,0
-E14001069,Ashford,SRN,Southern Water,Sewerage company,0
-E14001070,Ashton-under-Lyne,UUW,United Utilities,Sewerage company,0
-E14001071,Aylesbury,TMS,Thames Water,Sewerage company,0
-E14001071,Aylesbury,ANH,Anglian Water,Sewerage company,0
-E14001072,Banbury,TMS,Thames Water,Sewerage company,0
-E14001072,Banbury,SVE,Severn Trent Water,Sewerage company,0
-E14001072,Banbury,ANH,Anglian Water,Sewerage company,0
-W07000083,Bangor Aberconwy,WSH,Dŵr Cymru,Sewerage company,0
-E14001073,Barking,TMS,Thames Water,Sewerage company,0
-E14001074,Barnsley North,YKY,Yorkshire Water,Sewerage company,0
-E14001075,Barnsley South,YKY,Yorkshire Water,Sewerage company,0
-E14001076,Barrow and Furness,UUW,United Utilities,Sewerage company,0
-E14001077,Basildon and Billericay,ANH,Anglian Water,Sewerage company,0
-E14001078,Basingstoke,TMS,Thames Water,Sewerage company,0
-E14001078,Basingstoke,SRN,Southern Water,Sewerage company,0
-E14001079,Bassetlaw,SVE,Severn Trent Water,Sewerage company,0
-E14001080,Bath,WSX,Wessex Water,Sewerage company,0
-E14001081,Battersea,TMS,Thames Water,Sewerage company,0
-E14001082,Beaconsfield,TMS,Thames Water,Sewerage company,0
-E14001083,Beckenham and Penge,TMS,Thames Water,Sewerage company,0
-E14001084,Bedford,ANH,Anglian Water,Sewerage company,0
-E14001085,Bermondsey and Old Southwark,TMS,Thames Water,Sewerage company,0
-E14001086,Bethnal Green and Stepney,TMS,Thames Water,Sewerage company,0
-E14001087,Beverley and Holderness,YKY,Yorkshire Water,Sewerage company,0
-E14001088,Bexhill and Battle,SRN,Southern Water,Sewerage company,0
-E14001089,Bexleyheath and Crayford,TMS,Thames Water,Sewerage company,0
-E14001090,Bicester and Woodstock,TMS,Thames Water,Sewerage company,0
-E14001090,Bicester and Woodstock,ANH,Anglian Water,Sewerage company,0
-E14001091,Birkenhead,UUW,United Utilities,Sewerage company,0
-E14001092,Birmingham Edgbaston,SVE,Severn Trent Water,Sewerage company,0
-E14001093,Birmingham Erdington,SVE,Severn Trent Water,Sewerage company,0
-E14001094,Birmingham Hall Green and Moseley,SVE,Severn Trent Water,Sewerage company,0
-E14001095,Birmingham Hodge Hill and Solihull North,SVE,Severn Trent Water,Sewerage company,0
-E14001096,Birmingham Ladywood,SVE,Severn Trent Water,Sewerage company,0
-E14001097,Birmingham Northfield,SVE,Severn Trent Water,Sewerage company,0
-E14001098,Birmingham Perry Barr,SVE,Severn Trent Water,Sewerage company,0
-E14001099,Birmingham Selly Oak,SVE,Severn Trent Water,Sewerage company,0
-E14001100,Birmingham Yardley,SVE,Severn Trent Water,Sewerage company,0
-E14001101,Bishop Auckland,NES,Northumbrian Water,Sewerage company,0
+W07000112,Ynys Môn,WSH,Dŵr Cymru,Water company,100
+E14001604,York Central,YKY,Yorkshire Water,Water company,100
+E14001605,York Outer,YKY,Yorkshire Water,Water company,100
+W07000081,Aberafan Maesteg,WSH,Dŵr Cymru,Sewerage company,100
+E14001063,Aldershot,TMS,Thames Water,Sewerage company,100
+E14001064,Aldridge-Brownhills,SVE,Severn Trent Water,Sewerage company,100
+E14001065,Altrincham and Sale West,UUW,United Utilities,Sewerage company,100
+W07000082,Alyn and Deeside,WSH,Dŵr Cymru,Sewerage company,100
+E14001066,Amber Valley,SVE,Severn Trent Water,Sewerage company,100
+E14001067,Arundel and South Downs,SRN,Southern Water,Sewerage company,96.9
+E14001067,Arundel and South Downs,TMS,Thames Water,Sewerage company,3.1
+E14001068,Ashfield,SVE,Severn Trent Water,Sewerage company,99.7
+E14001068,Ashfield,YKY,Yorkshire Water,Sewerage company,0.3
+E14001069,Ashford,SRN,Southern Water,Sewerage company,100
+E14001070,Ashton-under-Lyne,UUW,United Utilities,Sewerage company,100
+E14001071,Aylesbury,TMS,Thames Water,Sewerage company,88.9
+E14001071,Aylesbury,ANH,Anglian Water,Sewerage company,11.1
+E14001072,Banbury,TMS,Thames Water,Sewerage company,98.4
+E14001072,Banbury,SVE,Severn Trent Water,Sewerage company,0.9
+E14001072,Banbury,ANH,Anglian Water,Sewerage company,0.7
+W07000083,Bangor Aberconwy,WSH,Dŵr Cymru,Sewerage company,100
+E14001073,Barking,TMS,Thames Water,Sewerage company,100
+E14001074,Barnsley North,YKY,Yorkshire Water,Sewerage company,100
+E14001075,Barnsley South,YKY,Yorkshire Water,Sewerage company,100
+E14001076,Barrow and Furness,UUW,United Utilities,Sewerage company,100
+E14001077,Basildon and Billericay,ANH,Anglian Water,Sewerage company,100
+E14001078,Basingstoke,TMS,Thames Water,Sewerage company,90.7
+E14001078,Basingstoke,SRN,Southern Water,Sewerage company,9.3
+E14001079,Bassetlaw,SVE,Severn Trent Water,Sewerage company,100
+E14001080,Bath,WSX,Wessex Water,Sewerage company,100
+E14001081,Battersea,TMS,Thames Water,Sewerage company,100
+E14001082,Beaconsfield,TMS,Thames Water,Sewerage company,100
+E14001083,Beckenham and Penge,TMS,Thames Water,Sewerage company,100
+E14001084,Bedford,ANH,Anglian Water,Sewerage company,100
+E14001085,Bermondsey and Old Southwark,TMS,Thames Water,Sewerage company,100
+E14001086,Bethnal Green and Stepney,TMS,Thames Water,Sewerage company,100
+E14001087,Beverley and Holderness,YKY,Yorkshire Water,Sewerage company,100
+E14001088,Bexhill and Battle,SRN,Southern Water,Sewerage company,100
+E14001089,Bexleyheath and Crayford,TMS,Thames Water,Sewerage company,100
+E14001090,Bicester and Woodstock,TMS,Thames Water,Sewerage company,97.5
+E14001090,Bicester and Woodstock,ANH,Anglian Water,Sewerage company,2.5
+E14001091,Birkenhead,UUW,United Utilities,Sewerage company,100
+E14001092,Birmingham Edgbaston,SVE,Severn Trent Water,Sewerage company,100
+E14001093,Birmingham Erdington,SVE,Severn Trent Water,Sewerage company,100
+E14001094,Birmingham Hall Green and Moseley,SVE,Severn Trent Water,Sewerage company,100
+E14001095,Birmingham Hodge Hill and Solihull North,SVE,Severn Trent Water,Sewerage company,100
+E14001096,Birmingham Ladywood,SVE,Severn Trent Water,Sewerage company,100
+E14001097,Birmingham Northfield,SVE,Severn Trent Water,Sewerage company,100
+E14001098,Birmingham Perry Barr,SVE,Severn Trent Water,Sewerage company,100
+E14001099,Birmingham Selly Oak,SVE,Severn Trent Water,Sewerage company,100
+E14001100,Birmingham Yardley,SVE,Severn Trent Water,Sewerage company,100
+E14001101,Bishop Auckland,NES,Northumbrian Water,Sewerage company,100
 E14001101,Bishop Auckland,YKY,Yorkshire Water,Sewerage company,0
-E14001102,Blackburn,UUW,United Utilities,Sewerage company,0
-E14001103,Blackley and Middleton South,UUW,United Utilities,Sewerage company,0
-E14001104,Blackpool North and Fleetwood,UUW,United Utilities,Sewerage company,0
-E14001105,Blackpool South,UUW,United Utilities,Sewerage company,0
-W07000084,Blaenau Gwent and Rhymney,WSH,Dŵr Cymru,Sewerage company,0
-E14001106,Blaydon and Consett,NES,Northumbrian Water,Sewerage company,0
-E14001107,Blyth and Ashington,NES,Northumbrian Water,Sewerage company,0
-E14001108,Bognor Regis and Littlehampton,SRN,Southern Water,Sewerage company,0
-E14001109,Bolsover,SVE,Severn Trent Water,Sewerage company,0
-E14001109,Bolsover,YKY,Yorkshire Water,Sewerage company,0
-E14001110,Bolton North East,UUW,United Utilities,Sewerage company,0
-E14001111,Bolton South and Walkden,UUW,United Utilities,Sewerage company,0
-E14001112,Bolton West,UUW,United Utilities,Sewerage company,0
-E14001113,Bootle,UUW,United Utilities,Sewerage company,0
-E14001114,Boston and Skegness,ANH,Anglian Water,Sewerage company,0
-E14001115,Bournemouth East,WSX,Wessex Water,Sewerage company,0
-E14001116,Bournemouth West,WSX,Wessex Water,Sewerage company,0
-E14001117,Bracknell,TMS,Thames Water,Sewerage company,0
-E14001118,Bradford East,YKY,Yorkshire Water,Sewerage company,0
-E14001119,Bradford South,YKY,Yorkshire Water,Sewerage company,0
-E14001120,Bradford West,YKY,Yorkshire Water,Sewerage company,0
-E14001121,Braintree,ANH,Anglian Water,Sewerage company,0
-W07000085,"Brecon, Radnor and Cwm Tawe",WSH,Dŵr Cymru,Sewerage company,0
-W07000085,"Brecon, Radnor and Cwm Tawe",HDD,Hafren Dyfrdwy,Sewerage company,0
-E14001122,Brent East,TMS,Thames Water,Sewerage company,0
-E14001123,Brent West,TMS,Thames Water,Sewerage company,0
-E14001124,Brentford and Isleworth,TMS,Thames Water,Sewerage company,0
-E14001125,Brentwood and Ongar,ANH,Anglian Water,Sewerage company,0
-E14001125,Brentwood and Ongar,TMS,Thames Water,Sewerage company,0
-W07000086,Bridgend,WSH,Dŵr Cymru,Sewerage company,0
-E14001126,Bridgwater,WSX,Wessex Water,Sewerage company,0
-E14001127,Bridlington and The Wolds,YKY,Yorkshire Water,Sewerage company,0
-E14001128,Brigg and Immingham,ANH,Anglian Water,Sewerage company,0
+E14001102,Blackburn,UUW,United Utilities,Sewerage company,100
+E14001103,Blackley and Middleton South,UUW,United Utilities,Sewerage company,100
+E14001104,Blackpool North and Fleetwood,UUW,United Utilities,Sewerage company,100
+E14001105,Blackpool South,UUW,United Utilities,Sewerage company,100
+W07000084,Blaenau Gwent and Rhymney,WSH,Dŵr Cymru,Sewerage company,100
+E14001106,Blaydon and Consett,NES,Northumbrian Water,Sewerage company,100
+E14001107,Blyth and Ashington,NES,Northumbrian Water,Sewerage company,100
+E14001108,Bognor Regis and Littlehampton,SRN,Southern Water,Sewerage company,100
+E14001109,Bolsover,SVE,Severn Trent Water,Sewerage company,70.2
+E14001109,Bolsover,YKY,Yorkshire Water,Sewerage company,29.8
+E14001110,Bolton North East,UUW,United Utilities,Sewerage company,100
+E14001111,Bolton South and Walkden,UUW,United Utilities,Sewerage company,100
+E14001112,Bolton West,UUW,United Utilities,Sewerage company,100
+E14001113,Bootle,UUW,United Utilities,Sewerage company,100
+E14001114,Boston and Skegness,ANH,Anglian Water,Sewerage company,100
+E14001115,Bournemouth East,WSX,Wessex Water,Sewerage company,100
+E14001116,Bournemouth West,WSX,Wessex Water,Sewerage company,100
+E14001117,Bracknell,TMS,Thames Water,Sewerage company,100
+E14001118,Bradford East,YKY,Yorkshire Water,Sewerage company,100
+E14001119,Bradford South,YKY,Yorkshire Water,Sewerage company,100
+E14001120,Bradford West,YKY,Yorkshire Water,Sewerage company,100
+E14001121,Braintree,ANH,Anglian Water,Sewerage company,100
+W07000085,"Brecon, Radnor and Cwm Tawe",WSH,Dŵr Cymru,Sewerage company,95.8
+W07000085,"Brecon, Radnor and Cwm Tawe",HDD,Hafren Dyfrdwy,Sewerage company,4.2
+E14001122,Brent East,TMS,Thames Water,Sewerage company,100
+E14001123,Brent West,TMS,Thames Water,Sewerage company,100
+E14001124,Brentford and Isleworth,TMS,Thames Water,Sewerage company,100
+E14001125,Brentwood and Ongar,ANH,Anglian Water,Sewerage company,52.4
+E14001125,Brentwood and Ongar,TMS,Thames Water,Sewerage company,47.6
+W07000086,Bridgend,WSH,Dŵr Cymru,Sewerage company,100
+E14001126,Bridgwater,WSX,Wessex Water,Sewerage company,100
+E14001127,Bridlington and The Wolds,YKY,Yorkshire Water,Sewerage company,100
+E14001128,Brigg and Immingham,ANH,Anglian Water,Sewerage company,100
 E14001128,Brigg and Immingham,SVE,Severn Trent Water,Sewerage company,0
-E14001129,Brighton Kemptown and Peacehaven,SRN,Southern Water,Sewerage company,0
-E14001130,Brighton Pavilion,SRN,Southern Water,Sewerage company,0
-E14001131,Bristol Central,WSX,Wessex Water,Sewerage company,0
-E14001132,Bristol East,WSX,Wessex Water,Sewerage company,0
-E14001133,Bristol North East,WSX,Wessex Water,Sewerage company,0
-E14001134,Bristol North West,WSX,Wessex Water,Sewerage company,0
-E14001135,Bristol South,WSX,Wessex Water,Sewerage company,0
-E14001136,Broadland and Fakenham,ANH,Anglian Water,Sewerage company,0
-E14001137,Bromley and Biggin Hill,TMS,Thames Water,Sewerage company,0
-E14001138,Bromsgrove,SVE,Severn Trent Water,Sewerage company,0
-E14001139,Broxbourne,TMS,Thames Water,Sewerage company,0
-E14001140,Broxtowe,SVE,Severn Trent Water,Sewerage company,0
-E14001141,Buckingham and Bletchley,ANH,Anglian Water,Sewerage company,0
-E14001141,Buckingham and Bletchley,TMS,Thames Water,Sewerage company,0
-E14001142,Burnley,UUW,United Utilities,Sewerage company,0
+E14001129,Brighton Kemptown and Peacehaven,SRN,Southern Water,Sewerage company,100
+E14001130,Brighton Pavilion,SRN,Southern Water,Sewerage company,100
+E14001131,Bristol Central,WSX,Wessex Water,Sewerage company,100
+E14001132,Bristol East,WSX,Wessex Water,Sewerage company,100
+E14001133,Bristol North East,WSX,Wessex Water,Sewerage company,100
+E14001134,Bristol North West,WSX,Wessex Water,Sewerage company,100
+E14001135,Bristol South,WSX,Wessex Water,Sewerage company,100
+E14001136,Broadland and Fakenham,ANH,Anglian Water,Sewerage company,100
+E14001137,Bromley and Biggin Hill,TMS,Thames Water,Sewerage company,100
+E14001138,Bromsgrove,SVE,Severn Trent Water,Sewerage company,100
+E14001139,Broxbourne,TMS,Thames Water,Sewerage company,100
+E14001140,Broxtowe,SVE,Severn Trent Water,Sewerage company,100
+E14001141,Buckingham and Bletchley,ANH,Anglian Water,Sewerage company,97.3
+E14001141,Buckingham and Bletchley,TMS,Thames Water,Sewerage company,2.7
+E14001142,Burnley,UUW,United Utilities,Sewerage company,100
 E14001142,Burnley,YKY,Yorkshire Water,Sewerage company,0
-E14001143,Burton and Uttoxeter,SVE,Severn Trent Water,Sewerage company,0
-E14001144,Bury North,UUW,United Utilities,Sewerage company,0
-E14001145,Bury South,UUW,United Utilities,Sewerage company,0
-E14001146,Bury St Edmunds and Stowmarket,ANH,Anglian Water,Sewerage company,0
-W07000087,Caerfyrddin,WSH,Dŵr Cymru,Sewerage company,0
-W07000088,Caerphilly,WSH,Dŵr Cymru,Sewerage company,0
-E14001147,Calder Valley,YKY,Yorkshire Water,Sewerage company,0
-E14001148,Camborne and Redruth,SBB,South West Water,Sewerage company,0
-E14001149,Cambridge,ANH,Anglian Water,Sewerage company,0
-E14001150,Cannock Chase,SVE,Severn Trent Water,Sewerage company,0
-E14001151,Canterbury,SRN,Southern Water,Sewerage company,0
-W07000089,Cardiff East,WSH,Dŵr Cymru,Sewerage company,0
-W07000090,Cardiff North,WSH,Dŵr Cymru,Sewerage company,0
-W07000091,Cardiff South and Penarth,WSH,Dŵr Cymru,Sewerage company,0
-W07000092,Cardiff West,WSH,Dŵr Cymru,Sewerage company,0
-E14001152,Carlisle,UUW,United Utilities,Sewerage company,0
-E14001152,Carlisle,NES,Northumbrian Water,Sewerage company,0
-E14001153,Carshalton and Wallington,TMS,Thames Water,Sewerage company,0
-E14001154,Castle Point,ANH,Anglian Water,Sewerage company,0
-E14001155,Central Devon,SBB,South West Water,Sewerage company,0
-E14001156,Central Suffolk and North Ipswich,ANH,Anglian Water,Sewerage company,0
-W07000093,Ceredigion Preseli,WSH,Dŵr Cymru,Sewerage company,0
-E14001157,Chatham and Aylesford,SRN,Southern Water,Sewerage company,0
-E14001158,Cheadle,UUW,United Utilities,Sewerage company,0
-E14001159,Chelmsford,ANH,Anglian Water,Sewerage company,0
-E14001160,Chelsea and Fulham,TMS,Thames Water,Sewerage company,0
-E14001161,Cheltenham,SVE,Severn Trent Water,Sewerage company,0
-E14001162,Chesham and Amersham,TMS,Thames Water,Sewerage company,0
-E14001163,Chester North and Neston,WSH,Dŵr Cymru,Sewerage company,0
-E14001163,Chester North and Neston,UUW,United Utilities,Sewerage company,0
-E14001164,Chester South and Eddisbury,UUW,United Utilities,Sewerage company,0
-E14001164,Chester South and Eddisbury,WSH,Dŵr Cymru,Sewerage company,0
-E14001165,Chesterfield,YKY,Yorkshire Water,Sewerage company,0
-E14001166,Chichester,SRN,Southern Water,Sewerage company,0
-E14001167,Chingford and Woodford Green,TMS,Thames Water,Sewerage company,0
-E14001168,Chippenham,WSX,Wessex Water,Sewerage company,0
-E14001168,Chippenham,TMS,Thames Water,Sewerage company,0
-E14001169,Chipping Barnet,TMS,Thames Water,Sewerage company,0
-E14001170,Chorley,UUW,United Utilities,Sewerage company,0
-E14001171,Christchurch,WSX,Wessex Water,Sewerage company,0
-E14001172,Cities of London and Westminster,TMS,Thames Water,Sewerage company,0
-E14001173,City of Durham,NES,Northumbrian Water,Sewerage company,0
-E14001174,Clacton,ANH,Anglian Water,Sewerage company,0
-E14001175,Clapham and Brixton Hill,TMS,Thames Water,Sewerage company,0
-W07000094,Clwyd East,WSH,Dŵr Cymru,Sewerage company,0
-W07000095,Clwyd North,WSH,Dŵr Cymru,Sewerage company,0
-E14001176,Colchester,ANH,Anglian Water,Sewerage company,0
-E14001177,Colne Valley,YKY,Yorkshire Water,Sewerage company,0
-E14001178,Congleton,UUW,United Utilities,Sewerage company,0
-E14001179,Corby and East Northamptonshire,ANH,Anglian Water,Sewerage company,0
-E14001180,Coventry East,SVE,Severn Trent Water,Sewerage company,0
-E14001181,Coventry North West,SVE,Severn Trent Water,Sewerage company,0
-E14001182,Coventry South,SVE,Severn Trent Water,Sewerage company,0
-E14001183,Cramlington and Killingworth,NES,Northumbrian Water,Sewerage company,0
-E14001184,Crawley,TMS,Thames Water,Sewerage company,0
-E14001185,Crewe and Nantwich,UUW,United Utilities,Sewerage company,0
-E14001186,Croydon East,TMS,Thames Water,Sewerage company,0
-E14001187,Croydon South,TMS,Thames Water,Sewerage company,0
-E14001188,Croydon West,TMS,Thames Water,Sewerage company,0
-E14001189,Dagenham and Rainham,TMS,Thames Water,Sewerage company,0
+E14001143,Burton and Uttoxeter,SVE,Severn Trent Water,Sewerage company,100
+E14001144,Bury North,UUW,United Utilities,Sewerage company,100
+E14001145,Bury South,UUW,United Utilities,Sewerage company,100
+E14001146,Bury St Edmunds and Stowmarket,ANH,Anglian Water,Sewerage company,100
+W07000087,Caerfyrddin,WSH,Dŵr Cymru,Sewerage company,100
+W07000088,Caerphilly,WSH,Dŵr Cymru,Sewerage company,100
+E14001147,Calder Valley,YKY,Yorkshire Water,Sewerage company,100
+E14001148,Camborne and Redruth,SBB,South West Water,Sewerage company,100
+E14001149,Cambridge,ANH,Anglian Water,Sewerage company,100
+E14001150,Cannock Chase,SVE,Severn Trent Water,Sewerage company,100
+E14001151,Canterbury,SRN,Southern Water,Sewerage company,100
+W07000089,Cardiff East,WSH,Dŵr Cymru,Sewerage company,100
+W07000090,Cardiff North,WSH,Dŵr Cymru,Sewerage company,100
+W07000091,Cardiff South and Penarth,WSH,Dŵr Cymru,Sewerage company,100
+W07000092,Cardiff West,WSH,Dŵr Cymru,Sewerage company,100
+E14001152,Carlisle,UUW,United Utilities,Sewerage company,99.7
+E14001152,Carlisle,NES,Northumbrian Water,Sewerage company,0.3
+E14001153,Carshalton and Wallington,TMS,Thames Water,Sewerage company,100
+E14001154,Castle Point,ANH,Anglian Water,Sewerage company,100
+E14001155,Central Devon,SBB,South West Water,Sewerage company,100
+E14001156,Central Suffolk and North Ipswich,ANH,Anglian Water,Sewerage company,100
+W07000093,Ceredigion Preseli,WSH,Dŵr Cymru,Sewerage company,100
+E14001157,Chatham and Aylesford,SRN,Southern Water,Sewerage company,100
+E14001158,Cheadle,UUW,United Utilities,Sewerage company,100
+E14001159,Chelmsford,ANH,Anglian Water,Sewerage company,100
+E14001160,Chelsea and Fulham,TMS,Thames Water,Sewerage company,100
+E14001161,Cheltenham,SVE,Severn Trent Water,Sewerage company,100
+E14001162,Chesham and Amersham,TMS,Thames Water,Sewerage company,100
+E14001163,Chester North and Neston,WSH,Dŵr Cymru,Sewerage company,96
+E14001163,Chester North and Neston,UUW,United Utilities,Sewerage company,4
+E14001164,Chester South and Eddisbury,UUW,United Utilities,Sewerage company,58.6
+E14001164,Chester South and Eddisbury,WSH,Dŵr Cymru,Sewerage company,41.4
+E14001165,Chesterfield,YKY,Yorkshire Water,Sewerage company,100
+E14001166,Chichester,SRN,Southern Water,Sewerage company,100
+E14001167,Chingford and Woodford Green,TMS,Thames Water,Sewerage company,100
+E14001168,Chippenham,WSX,Wessex Water,Sewerage company,97
+E14001168,Chippenham,TMS,Thames Water,Sewerage company,3
+E14001169,Chipping Barnet,TMS,Thames Water,Sewerage company,100
+E14001170,Chorley,UUW,United Utilities,Sewerage company,100
+E14001171,Christchurch,WSX,Wessex Water,Sewerage company,100
+E14001172,Cities of London and Westminster,TMS,Thames Water,Sewerage company,100
+E14001173,City of Durham,NES,Northumbrian Water,Sewerage company,100
+E14001174,Clacton,ANH,Anglian Water,Sewerage company,100
+E14001175,Clapham and Brixton Hill,TMS,Thames Water,Sewerage company,100
+W07000094,Clwyd East,WSH,Dŵr Cymru,Sewerage company,100
+W07000095,Clwyd North,WSH,Dŵr Cymru,Sewerage company,100
+E14001176,Colchester,ANH,Anglian Water,Sewerage company,100
+E14001177,Colne Valley,YKY,Yorkshire Water,Sewerage company,100
+E14001178,Congleton,UUW,United Utilities,Sewerage company,100
+E14001179,Corby and East Northamptonshire,ANH,Anglian Water,Sewerage company,100
+E14001180,Coventry East,SVE,Severn Trent Water,Sewerage company,100
+E14001181,Coventry North West,SVE,Severn Trent Water,Sewerage company,100
+E14001182,Coventry South,SVE,Severn Trent Water,Sewerage company,100
+E14001183,Cramlington and Killingworth,NES,Northumbrian Water,Sewerage company,100
+E14001184,Crawley,TMS,Thames Water,Sewerage company,100
+E14001185,Crewe and Nantwich,UUW,United Utilities,Sewerage company,100
+E14001186,Croydon East,TMS,Thames Water,Sewerage company,100
+E14001187,Croydon South,TMS,Thames Water,Sewerage company,100
+E14001188,Croydon West,TMS,Thames Water,Sewerage company,100
+E14001189,Dagenham and Rainham,TMS,Thames Water,Sewerage company,100
 E14001189,Dagenham and Rainham,ANH,Anglian Water,Sewerage company,0
-E14001190,Darlington,NES,Northumbrian Water,Sewerage company,0
-E14001191,Dartford,TMS,Thames Water,Sewerage company,0
-E14001191,Dartford,SRN,Southern Water,Sewerage company,0
-E14001192,Daventry,ANH,Anglian Water,Sewerage company,0
-E14001192,Daventry,SVE,Severn Trent Water,Sewerage company,0
-E14001192,Daventry,TMS,Thames Water,Sewerage company,0
-E14001193,Derby North,SVE,Severn Trent Water,Sewerage company,0
-E14001194,Derby South,SVE,Severn Trent Water,Sewerage company,0
-E14001195,Derbyshire Dales,SVE,Severn Trent Water,Sewerage company,0
+E14001190,Darlington,NES,Northumbrian Water,Sewerage company,100
+E14001191,Dartford,TMS,Thames Water,Sewerage company,80.1
+E14001191,Dartford,SRN,Southern Water,Sewerage company,19.9
+E14001192,Daventry,ANH,Anglian Water,Sewerage company,81.4
+E14001192,Daventry,SVE,Severn Trent Water,Sewerage company,11.6
+E14001192,Daventry,TMS,Thames Water,Sewerage company,7
+E14001193,Derby North,SVE,Severn Trent Water,Sewerage company,100
+E14001194,Derby South,SVE,Severn Trent Water,Sewerage company,100
+E14001195,Derbyshire Dales,SVE,Severn Trent Water,Sewerage company,100
 E14001195,Derbyshire Dales,YKY,Yorkshire Water,Sewerage company,0
-E14001196,Dewsbury and Batley,YKY,Yorkshire Water,Sewerage company,0
-E14001197,Didcot and Wantage,TMS,Thames Water,Sewerage company,0
-E14001198,Doncaster Central,YKY,Yorkshire Water,Sewerage company,0
-E14001198,Doncaster Central,SVE,Severn Trent Water,Sewerage company,0
-E14001199,Doncaster East and the Isle of Axholme,SVE,Severn Trent Water,Sewerage company,0
-E14001199,Doncaster East and the Isle of Axholme,YKY,Yorkshire Water,Sewerage company,0
-E14001199,Doncaster East and the Isle of Axholme,ANH,Anglian Water,Sewerage company,0
-E14001200,Doncaster North,YKY,Yorkshire Water,Sewerage company,0
-E14001200,Doncaster North,SVE,Severn Trent Water,Sewerage company,0
-E14001201,Dorking and Horley,TMS,Thames Water,Sewerage company,0
-E14001201,Dorking and Horley,SRN,Southern Water,Sewerage company,0
-E14001202,Dover and Deal,SRN,Southern Water,Sewerage company,0
-E14001203,Droitwich and Evesham,SVE,Severn Trent Water,Sewerage company,0
-E14001204,Dudley,SVE,Severn Trent Water,Sewerage company,0
-E14001205,Dulwich and West Norwood,TMS,Thames Water,Sewerage company,0
-E14001206,Dunstable and Leighton Buzzard,ANH,Anglian Water,Sewerage company,0
-E14001206,Dunstable and Leighton Buzzard,TMS,Thames Water,Sewerage company,0
-W07000096,Dwyfor Meirionnydd,WSH,Dŵr Cymru,Sewerage company,0
-E14001207,Ealing Central and Acton,TMS,Thames Water,Sewerage company,0
-E14001208,Ealing North,TMS,Thames Water,Sewerage company,0
-E14001209,Ealing Southall,TMS,Thames Water,Sewerage company,0
-E14001210,Earley and Woodley,TMS,Thames Water,Sewerage company,0
-E14001211,Easington,NES,Northumbrian Water,Sewerage company,0
-E14001212,East Grinstead and Uckfield,SRN,Southern Water,Sewerage company,0
-E14001212,East Grinstead and Uckfield,TMS,Thames Water,Sewerage company,0
-E14001213,East Ham,TMS,Thames Water,Sewerage company,0
-E14001214,East Hampshire,SRN,Southern Water,Sewerage company,0
-E14001214,East Hampshire,TMS,Thames Water,Sewerage company,0
-E14001215,East Surrey,TMS,Thames Water,Sewerage company,0
-E14001215,East Surrey,SRN,Southern Water,Sewerage company,0
-E14001216,East Thanet,SRN,Southern Water,Sewerage company,0
-E14001217,East Wiltshire,WSX,Wessex Water,Sewerage company,0
-E14001217,East Wiltshire,TMS,Thames Water,Sewerage company,0
-E14001217,East Wiltshire,SRN,Southern Water,Sewerage company,0
-E14001218,East Worthing and Shoreham,SRN,Southern Water,Sewerage company,0
-E14001219,Eastbourne,SRN,Southern Water,Sewerage company,0
-E14001220,Eastleigh,SRN,Southern Water,Sewerage company,0
-E14001221,Edmonton and Winchmore Hill,TMS,Thames Water,Sewerage company,0
-E14001222,Ellesmere Port and Bromborough,UUW,United Utilities,Sewerage company,0
-E14001223,Eltham and Chislehurst,TMS,Thames Water,Sewerage company,0
-E14001224,Ely and East Cambridgeshire,ANH,Anglian Water,Sewerage company,0
-E14001225,Enfield North,TMS,Thames Water,Sewerage company,0
-E14001226,Epping Forest,TMS,Thames Water,Sewerage company,0
-E14001227,Epsom and Ewell,TMS,Thames Water,Sewerage company,0
-E14001228,Erewash,SVE,Severn Trent Water,Sewerage company,0
-E14001229,Erith and Thamesmead,TMS,Thames Water,Sewerage company,0
-E14001230,Esher and Walton,TMS,Thames Water,Sewerage company,0
-E14001231,Exeter,SBB,South West Water,Sewerage company,0
-E14001232,Exmouth and Exeter East,SBB,South West Water,Sewerage company,0
-E14001233,Fareham and Waterlooville,SRN,Southern Water,Sewerage company,0
-E14001234,Farnham and Bordon,TMS,Thames Water,Sewerage company,0
-E14001234,Farnham and Bordon,SRN,Southern Water,Sewerage company,0
-E14001235,Faversham and Mid Kent,SRN,Southern Water,Sewerage company,0
-E14001236,Feltham and Heston,TMS,Thames Water,Sewerage company,0
-E14001237,Filton and Bradley Stoke,WSX,Wessex Water,Sewerage company,0
-E14001238,Finchley and Golders Green,TMS,Thames Water,Sewerage company,0
-E14001239,Folkestone and Hythe,SRN,Southern Water,Sewerage company,0
-E14001240,Forest of Dean,SVE,Severn Trent Water,Sewerage company,0
-E14001240,Forest of Dean,WSH,Dŵr Cymru,Sewerage company,0
-E14001241,Frome and East Somerset,WSX,Wessex Water,Sewerage company,0
-E14001242,Fylde,UUW,United Utilities,Sewerage company,0
-E14001243,Gainsborough,ANH,Anglian Water,Sewerage company,0
-E14001243,Gainsborough,SVE,Severn Trent Water,Sewerage company,0
-E14001244,Gateshead Central and Whickham,NES,Northumbrian Water,Sewerage company,0
-E14001245,Gedling,SVE,Severn Trent Water,Sewerage company,0
-E14001246,Gillingham and Rainham,SRN,Southern Water,Sewerage company,0
-E14001247,Glastonbury and Somerton,WSX,Wessex Water,Sewerage company,0
-E14001248,Gloucester,SVE,Severn Trent Water,Sewerage company,0
-E14001249,Godalming and Ash,TMS,Thames Water,Sewerage company,0
-E14001249,Godalming and Ash,SRN,Southern Water,Sewerage company,0
-E14001250,Goole and Pocklington,YKY,Yorkshire Water,Sewerage company,0
+E14001196,Dewsbury and Batley,YKY,Yorkshire Water,Sewerage company,100
+E14001197,Didcot and Wantage,TMS,Thames Water,Sewerage company,100
+E14001198,Doncaster Central,YKY,Yorkshire Water,Sewerage company,80.8
+E14001198,Doncaster Central,SVE,Severn Trent Water,Sewerage company,19.2
+E14001199,Doncaster East and the Isle of Axholme,SVE,Severn Trent Water,Sewerage company,54.4
+E14001199,Doncaster East and the Isle of Axholme,YKY,Yorkshire Water,Sewerage company,43.6
+E14001199,Doncaster East and the Isle of Axholme,ANH,Anglian Water,Sewerage company,2.1
+E14001200,Doncaster North,YKY,Yorkshire Water,Sewerage company,99.6
+E14001200,Doncaster North,SVE,Severn Trent Water,Sewerage company,0.4
+E14001201,Dorking and Horley,TMS,Thames Water,Sewerage company,97.3
+E14001201,Dorking and Horley,SRN,Southern Water,Sewerage company,2.7
+E14001202,Dover and Deal,SRN,Southern Water,Sewerage company,100
+E14001203,Droitwich and Evesham,SVE,Severn Trent Water,Sewerage company,100
+E14001204,Dudley,SVE,Severn Trent Water,Sewerage company,100
+E14001205,Dulwich and West Norwood,TMS,Thames Water,Sewerage company,100
+E14001206,Dunstable and Leighton Buzzard,ANH,Anglian Water,Sewerage company,98.7
+E14001206,Dunstable and Leighton Buzzard,TMS,Thames Water,Sewerage company,1.3
+W07000096,Dwyfor Meirionnydd,WSH,Dŵr Cymru,Sewerage company,100
+E14001207,Ealing Central and Acton,TMS,Thames Water,Sewerage company,100
+E14001208,Ealing North,TMS,Thames Water,Sewerage company,100
+E14001209,Ealing Southall,TMS,Thames Water,Sewerage company,100
+E14001210,Earley and Woodley,TMS,Thames Water,Sewerage company,100
+E14001211,Easington,NES,Northumbrian Water,Sewerage company,100
+E14001212,East Grinstead and Uckfield,SRN,Southern Water,Sewerage company,90.9
+E14001212,East Grinstead and Uckfield,TMS,Thames Water,Sewerage company,9.1
+E14001213,East Ham,TMS,Thames Water,Sewerage company,100
+E14001214,East Hampshire,SRN,Southern Water,Sewerage company,55.7
+E14001214,East Hampshire,TMS,Thames Water,Sewerage company,44.3
+E14001215,East Surrey,TMS,Thames Water,Sewerage company,64.9
+E14001215,East Surrey,SRN,Southern Water,Sewerage company,35.1
+E14001216,East Thanet,SRN,Southern Water,Sewerage company,100
+E14001217,East Wiltshire,WSX,Wessex Water,Sewerage company,53.7
+E14001217,East Wiltshire,TMS,Thames Water,Sewerage company,39.8
+E14001217,East Wiltshire,SRN,Southern Water,Sewerage company,6.5
+E14001218,East Worthing and Shoreham,SRN,Southern Water,Sewerage company,100
+E14001219,Eastbourne,SRN,Southern Water,Sewerage company,100
+E14001220,Eastleigh,SRN,Southern Water,Sewerage company,100
+E14001221,Edmonton and Winchmore Hill,TMS,Thames Water,Sewerage company,100
+E14001222,Ellesmere Port and Bromborough,UUW,United Utilities,Sewerage company,100
+E14001223,Eltham and Chislehurst,TMS,Thames Water,Sewerage company,100
+E14001224,Ely and East Cambridgeshire,ANH,Anglian Water,Sewerage company,100
+E14001225,Enfield North,TMS,Thames Water,Sewerage company,100
+E14001226,Epping Forest,TMS,Thames Water,Sewerage company,100
+E14001227,Epsom and Ewell,TMS,Thames Water,Sewerage company,100
+E14001228,Erewash,SVE,Severn Trent Water,Sewerage company,100
+E14001229,Erith and Thamesmead,TMS,Thames Water,Sewerage company,100
+E14001230,Esher and Walton,TMS,Thames Water,Sewerage company,100
+E14001231,Exeter,SBB,South West Water,Sewerage company,100
+E14001232,Exmouth and Exeter East,SBB,South West Water,Sewerage company,100
+E14001233,Fareham and Waterlooville,SRN,Southern Water,Sewerage company,100
+E14001234,Farnham and Bordon,TMS,Thames Water,Sewerage company,97
+E14001234,Farnham and Bordon,SRN,Southern Water,Sewerage company,3
+E14001235,Faversham and Mid Kent,SRN,Southern Water,Sewerage company,100
+E14001236,Feltham and Heston,TMS,Thames Water,Sewerage company,100
+E14001237,Filton and Bradley Stoke,WSX,Wessex Water,Sewerage company,100
+E14001238,Finchley and Golders Green,TMS,Thames Water,Sewerage company,100
+E14001239,Folkestone and Hythe,SRN,Southern Water,Sewerage company,100
+E14001240,Forest of Dean,SVE,Severn Trent Water,Sewerage company,77.5
+E14001240,Forest of Dean,WSH,Dŵr Cymru,Sewerage company,22.5
+E14001241,Frome and East Somerset,WSX,Wessex Water,Sewerage company,100
+E14001242,Fylde,UUW,United Utilities,Sewerage company,100
+E14001243,Gainsborough,ANH,Anglian Water,Sewerage company,65.3
+E14001243,Gainsborough,SVE,Severn Trent Water,Sewerage company,34.7
+E14001244,Gateshead Central and Whickham,NES,Northumbrian Water,Sewerage company,100
+E14001245,Gedling,SVE,Severn Trent Water,Sewerage company,100
+E14001246,Gillingham and Rainham,SRN,Southern Water,Sewerage company,100
+E14001247,Glastonbury and Somerton,WSX,Wessex Water,Sewerage company,100
+E14001248,Gloucester,SVE,Severn Trent Water,Sewerage company,100
+E14001249,Godalming and Ash,TMS,Thames Water,Sewerage company,95.2
+E14001249,Godalming and Ash,SRN,Southern Water,Sewerage company,4.8
+E14001250,Goole and Pocklington,YKY,Yorkshire Water,Sewerage company,100
 E14001250,Goole and Pocklington,SVE,Severn Trent Water,Sewerage company,0
-E14001251,Gorton and Denton,UUW,United Utilities,Sewerage company,0
-E14001252,Gosport,SRN,Southern Water,Sewerage company,0
-W07000097,Gower,WSH,Dŵr Cymru,Sewerage company,0
-E14001253,Grantham and Bourne,ANH,Anglian Water,Sewerage company,0
-E14001253,Grantham and Bourne,SVE,Severn Trent Water,Sewerage company,0
-E14001254,Gravesham,SRN,Southern Water,Sewerage company,0
-E14001255,Great Grimsby and Cleethorpes,ANH,Anglian Water,Sewerage company,0
-E14001256,Great Yarmouth,ANH,Anglian Water,Sewerage company,0
-E14001257,Greenwich and Woolwich,TMS,Thames Water,Sewerage company,0
-E14001258,Guildford,TMS,Thames Water,Sewerage company,0
-E14001259,Hackney North and Stoke Newington,TMS,Thames Water,Sewerage company,0
-E14001260,Hackney South and Shoreditch,TMS,Thames Water,Sewerage company,0
-E14001261,Halesowen,SVE,Severn Trent Water,Sewerage company,0
-E14001262,Halifax,YKY,Yorkshire Water,Sewerage company,0
-E14001263,Hamble Valley,SRN,Southern Water,Sewerage company,0
-E14001264,Hammersmith and Chiswick,TMS,Thames Water,Sewerage company,0
-E14001265,Hampstead and Highgate,TMS,Thames Water,Sewerage company,0
-E14001266,"Harborough, Oadby and Wigston",SVE,Severn Trent Water,Sewerage company,0
-E14001266,"Harborough, Oadby and Wigston",ANH,Anglian Water,Sewerage company,0
-E14001267,Harlow,TMS,Thames Water,Sewerage company,0
-E14001268,Harpenden and Berkhamsted,TMS,Thames Water,Sewerage company,0
-E14001269,Harrogate and Knaresborough,YKY,Yorkshire Water,Sewerage company,0
-E14001270,Harrow East,TMS,Thames Water,Sewerage company,0
-E14001271,Harrow West,TMS,Thames Water,Sewerage company,0
-E14001272,Hartlepool,NES,Northumbrian Water,Sewerage company,0
-E14001273,Harwich and North Essex,ANH,Anglian Water,Sewerage company,0
-E14001274,Hastings and Rye,SRN,Southern Water,Sewerage company,0
-E14001275,Havant,SRN,Southern Water,Sewerage company,0
-E14001276,Hayes and Harlington,TMS,Thames Water,Sewerage company,0
-E14001277,Hazel Grove,UUW,United Utilities,Sewerage company,0
-E14001278,Hemel Hempstead,TMS,Thames Water,Sewerage company,0
-E14001279,Hendon,TMS,Thames Water,Sewerage company,0
-E14001280,Henley and Thame,TMS,Thames Water,Sewerage company,0
-E14001281,Hereford and South Herefordshire,WSH,Dŵr Cymru,Sewerage company,0
-E14001281,Hereford and South Herefordshire,SVE,Severn Trent Water,Sewerage company,0
-E14001282,Herne Bay and Sandwich,SRN,Southern Water,Sewerage company,0
-E14001283,Hertford and Stortford,TMS,Thames Water,Sewerage company,0
-E14001284,Hertsmere,TMS,Thames Water,Sewerage company,0
-E14001285,Hexham,NES,Northumbrian Water,Sewerage company,0
-E14001285,Hexham,UUW,United Utilities,Sewerage company,0
-E14001286,Heywood and Middleton North,UUW,United Utilities,Sewerage company,0
-E14001287,High Peak,UUW,United Utilities,Sewerage company,0
-E14001287,High Peak,SVE,Severn Trent Water,Sewerage company,0
-E14001288,Hinckley and Bosworth,SVE,Severn Trent Water,Sewerage company,0
-E14001289,Hitchin,ANH,Anglian Water,Sewerage company,0
-E14001289,Hitchin,TMS,Thames Water,Sewerage company,0
-E14001290,Holborn and St Pancras,TMS,Thames Water,Sewerage company,0
-E14001291,Honiton and Sidmouth,SBB,South West Water,Sewerage company,0
+E14001251,Gorton and Denton,UUW,United Utilities,Sewerage company,100
+E14001252,Gosport,SRN,Southern Water,Sewerage company,100
+W07000097,Gower,WSH,Dŵr Cymru,Sewerage company,100
+E14001253,Grantham and Bourne,ANH,Anglian Water,Sewerage company,99
+E14001253,Grantham and Bourne,SVE,Severn Trent Water,Sewerage company,1
+E14001254,Gravesham,SRN,Southern Water,Sewerage company,100
+E14001255,Great Grimsby and Cleethorpes,ANH,Anglian Water,Sewerage company,100
+E14001256,Great Yarmouth,ANH,Anglian Water,Sewerage company,100
+E14001257,Greenwich and Woolwich,TMS,Thames Water,Sewerage company,100
+E14001258,Guildford,TMS,Thames Water,Sewerage company,100
+E14001259,Hackney North and Stoke Newington,TMS,Thames Water,Sewerage company,100
+E14001260,Hackney South and Shoreditch,TMS,Thames Water,Sewerage company,100
+E14001261,Halesowen,SVE,Severn Trent Water,Sewerage company,100
+E14001262,Halifax,YKY,Yorkshire Water,Sewerage company,100
+E14001263,Hamble Valley,SRN,Southern Water,Sewerage company,100
+E14001264,Hammersmith and Chiswick,TMS,Thames Water,Sewerage company,100
+E14001265,Hampstead and Highgate,TMS,Thames Water,Sewerage company,100
+E14001266,"Harborough, Oadby and Wigston",SVE,Severn Trent Water,Sewerage company,63.4
+E14001266,"Harborough, Oadby and Wigston",ANH,Anglian Water,Sewerage company,36.6
+E14001267,Harlow,TMS,Thames Water,Sewerage company,100
+E14001268,Harpenden and Berkhamsted,TMS,Thames Water,Sewerage company,100
+E14001269,Harrogate and Knaresborough,YKY,Yorkshire Water,Sewerage company,100
+E14001270,Harrow East,TMS,Thames Water,Sewerage company,100
+E14001271,Harrow West,TMS,Thames Water,Sewerage company,100
+E14001272,Hartlepool,NES,Northumbrian Water,Sewerage company,100
+E14001273,Harwich and North Essex,ANH,Anglian Water,Sewerage company,100
+E14001274,Hastings and Rye,SRN,Southern Water,Sewerage company,100
+E14001275,Havant,SRN,Southern Water,Sewerage company,100
+E14001276,Hayes and Harlington,TMS,Thames Water,Sewerage company,100
+E14001277,Hazel Grove,UUW,United Utilities,Sewerage company,100
+E14001278,Hemel Hempstead,TMS,Thames Water,Sewerage company,100
+E14001279,Hendon,TMS,Thames Water,Sewerage company,100
+E14001280,Henley and Thame,TMS,Thames Water,Sewerage company,100
+E14001281,Hereford and South Herefordshire,WSH,Dŵr Cymru,Sewerage company,98.8
+E14001281,Hereford and South Herefordshire,SVE,Severn Trent Water,Sewerage company,1.2
+E14001282,Herne Bay and Sandwich,SRN,Southern Water,Sewerage company,100
+E14001283,Hertford and Stortford,TMS,Thames Water,Sewerage company,100
+E14001284,Hertsmere,TMS,Thames Water,Sewerage company,100
+E14001285,Hexham,NES,Northumbrian Water,Sewerage company,99.8
+E14001285,Hexham,UUW,United Utilities,Sewerage company,0.2
+E14001286,Heywood and Middleton North,UUW,United Utilities,Sewerage company,100
+E14001287,High Peak,UUW,United Utilities,Sewerage company,69.5
+E14001287,High Peak,SVE,Severn Trent Water,Sewerage company,30.5
+E14001288,Hinckley and Bosworth,SVE,Severn Trent Water,Sewerage company,100
+E14001289,Hitchin,ANH,Anglian Water,Sewerage company,87.8
+E14001289,Hitchin,TMS,Thames Water,Sewerage company,12.2
+E14001290,Holborn and St Pancras,TMS,Thames Water,Sewerage company,100
+E14001291,Honiton and Sidmouth,SBB,South West Water,Sewerage company,100
 E14001291,Honiton and Sidmouth,WSX,Wessex Water,Sewerage company,0
-E14001292,Hornchurch and Upminster,TMS,Thames Water,Sewerage company,0
-E14001292,Hornchurch and Upminster,ANH,Anglian Water,Sewerage company,0
-E14001293,Hornsey and Friern Barnet,TMS,Thames Water,Sewerage company,0
-E14001294,Horsham,SRN,Southern Water,Sewerage company,0
-E14001294,Horsham,TMS,Thames Water,Sewerage company,0
-E14001295,Houghton and Sunderland South,NES,Northumbrian Water,Sewerage company,0
-E14001296,Hove and Portslade,SRN,Southern Water,Sewerage company,0
-E14001297,Huddersfield,YKY,Yorkshire Water,Sewerage company,0
-E14001298,Huntingdon,ANH,Anglian Water,Sewerage company,0
-E14001299,Hyndburn,UUW,United Utilities,Sewerage company,0
-E14001300,Ilford North,TMS,Thames Water,Sewerage company,0
-E14001301,Ilford South,TMS,Thames Water,Sewerage company,0
-E14001302,Ipswich,ANH,Anglian Water,Sewerage company,0
-E14001303,Isle of Wight East,SRN,Southern Water,Sewerage company,0
-E14001304,Isle of Wight West,SRN,Southern Water,Sewerage company,0
-E14001305,Islington North,TMS,Thames Water,Sewerage company,0
-E14001306,Islington South and Finsbury,TMS,Thames Water,Sewerage company,0
-E14001307,Jarrow and Gateshead East,NES,Northumbrian Water,Sewerage company,0
-E14001308,Keighley and Ilkley,YKY,Yorkshire Water,Sewerage company,0
-E14001309,Kenilworth and Southam,SVE,Severn Trent Water,Sewerage company,0
-E14001309,Kenilworth and Southam,TMS,Thames Water,Sewerage company,0
-E14001310,Kensington and Bayswater,TMS,Thames Water,Sewerage company,0
-E14001311,Kettering,ANH,Anglian Water,Sewerage company,0
-E14001312,Kingston and Surbiton,TMS,Thames Water,Sewerage company,0
-E14001313,Kingston upon Hull East,YKY,Yorkshire Water,Sewerage company,0
-E14001314,Kingston upon Hull North and Cottingham,YKY,Yorkshire Water,Sewerage company,0
-E14001315,Kingston upon Hull West and Haltemprice,YKY,Yorkshire Water,Sewerage company,0
-E14001316,Kingswinford and South Staffordshire,SVE,Severn Trent Water,Sewerage company,0
-E14001317,Knowsley,UUW,United Utilities,Sewerage company,0
-E14001318,Lancaster and Wyre,UUW,United Utilities,Sewerage company,0
-E14001319,Leeds Central and Headingley,YKY,Yorkshire Water,Sewerage company,0
-E14001320,Leeds East,YKY,Yorkshire Water,Sewerage company,0
-E14001321,Leeds North East,YKY,Yorkshire Water,Sewerage company,0
-E14001322,Leeds North West,YKY,Yorkshire Water,Sewerage company,0
-E14001323,Leeds South,YKY,Yorkshire Water,Sewerage company,0
-E14001324,Leeds South West and Morley,YKY,Yorkshire Water,Sewerage company,0
-E14001325,Leeds West and Pudsey,YKY,Yorkshire Water,Sewerage company,0
-E14001326,Leicester East,SVE,Severn Trent Water,Sewerage company,0
-E14001327,Leicester South,SVE,Severn Trent Water,Sewerage company,0
-E14001328,Leicester West,SVE,Severn Trent Water,Sewerage company,0
-E14001329,Leigh and Atherton,UUW,United Utilities,Sewerage company,0
-E14001330,Lewes,SRN,Southern Water,Sewerage company,0
-E14001331,Lewisham East,TMS,Thames Water,Sewerage company,0
-E14001332,Lewisham North,TMS,Thames Water,Sewerage company,0
-E14001333,Lewisham West and East Dulwich,TMS,Thames Water,Sewerage company,0
-E14001334,Leyton and Wanstead,TMS,Thames Water,Sewerage company,0
-E14001335,Lichfield,SVE,Severn Trent Water,Sewerage company,0
-E14001336,Lincoln,ANH,Anglian Water,Sewerage company,0
-E14001337,Liverpool Garston,UUW,United Utilities,Sewerage company,0
-E14001338,Liverpool Riverside,UUW,United Utilities,Sewerage company,0
-E14001339,Liverpool Walton,UUW,United Utilities,Sewerage company,0
-E14001340,Liverpool Wavertree,UUW,United Utilities,Sewerage company,0
-E14001341,Liverpool West Derby,UUW,United Utilities,Sewerage company,0
-W07000098,Llanelli,WSH,Dŵr Cymru,Sewerage company,0
-E14001342,Loughborough,SVE,Severn Trent Water,Sewerage company,0
-E14001343,Louth and Horncastle,ANH,Anglian Water,Sewerage company,0
-E14001344,Lowestoft,ANH,Anglian Water,Sewerage company,0
-E14001345,Luton North,TMS,Thames Water,Sewerage company,0
-E14001345,Luton North,ANH,Anglian Water,Sewerage company,0
-E14001346,Luton South and South Bedfordshire,TMS,Thames Water,Sewerage company,0
-E14001346,Luton South and South Bedfordshire,ANH,Anglian Water,Sewerage company,0
-E14001347,Macclesfield,UUW,United Utilities,Sewerage company,0
-E14001348,Maidenhead,TMS,Thames Water,Sewerage company,0
-E14001349,Maidstone and Malling,SRN,Southern Water,Sewerage company,0
-E14001350,Makerfield,UUW,United Utilities,Sewerage company,0
-E14001351,Maldon,ANH,Anglian Water,Sewerage company,0
-E14001352,Manchester Central,UUW,United Utilities,Sewerage company,0
-E14001353,Manchester Rusholme,UUW,United Utilities,Sewerage company,0
-E14001354,Manchester Withington,UUW,United Utilities,Sewerage company,0
-E14001355,Mansfield,SVE,Severn Trent Water,Sewerage company,0
-E14001356,Melksham and Devizes,WSX,Wessex Water,Sewerage company,0
+E14001292,Hornchurch and Upminster,TMS,Thames Water,Sewerage company,86
+E14001292,Hornchurch and Upminster,ANH,Anglian Water,Sewerage company,14
+E14001293,Hornsey and Friern Barnet,TMS,Thames Water,Sewerage company,100
+E14001294,Horsham,SRN,Southern Water,Sewerage company,94
+E14001294,Horsham,TMS,Thames Water,Sewerage company,6
+E14001295,Houghton and Sunderland South,NES,Northumbrian Water,Sewerage company,100
+E14001296,Hove and Portslade,SRN,Southern Water,Sewerage company,100
+E14001297,Huddersfield,YKY,Yorkshire Water,Sewerage company,100
+E14001298,Huntingdon,ANH,Anglian Water,Sewerage company,100
+E14001299,Hyndburn,UUW,United Utilities,Sewerage company,100
+E14001300,Ilford North,TMS,Thames Water,Sewerage company,100
+E14001301,Ilford South,TMS,Thames Water,Sewerage company,100
+E14001302,Ipswich,ANH,Anglian Water,Sewerage company,100
+E14001303,Isle of Wight East,SRN,Southern Water,Sewerage company,100
+E14001304,Isle of Wight West,SRN,Southern Water,Sewerage company,100
+E14001305,Islington North,TMS,Thames Water,Sewerage company,100
+E14001306,Islington South and Finsbury,TMS,Thames Water,Sewerage company,100
+E14001307,Jarrow and Gateshead East,NES,Northumbrian Water,Sewerage company,100
+E14001308,Keighley and Ilkley,YKY,Yorkshire Water,Sewerage company,100
+E14001309,Kenilworth and Southam,SVE,Severn Trent Water,Sewerage company,98
+E14001309,Kenilworth and Southam,TMS,Thames Water,Sewerage company,2
+E14001310,Kensington and Bayswater,TMS,Thames Water,Sewerage company,100
+E14001311,Kettering,ANH,Anglian Water,Sewerage company,100
+E14001312,Kingston and Surbiton,TMS,Thames Water,Sewerage company,100
+E14001313,Kingston upon Hull East,YKY,Yorkshire Water,Sewerage company,100
+E14001314,Kingston upon Hull North and Cottingham,YKY,Yorkshire Water,Sewerage company,100
+E14001315,Kingston upon Hull West and Haltemprice,YKY,Yorkshire Water,Sewerage company,100
+E14001316,Kingswinford and South Staffordshire,SVE,Severn Trent Water,Sewerage company,100
+E14001317,Knowsley,UUW,United Utilities,Sewerage company,100
+E14001318,Lancaster and Wyre,UUW,United Utilities,Sewerage company,100
+E14001319,Leeds Central and Headingley,YKY,Yorkshire Water,Sewerage company,100
+E14001320,Leeds East,YKY,Yorkshire Water,Sewerage company,100
+E14001321,Leeds North East,YKY,Yorkshire Water,Sewerage company,100
+E14001322,Leeds North West,YKY,Yorkshire Water,Sewerage company,100
+E14001323,Leeds South,YKY,Yorkshire Water,Sewerage company,100
+E14001324,Leeds South West and Morley,YKY,Yorkshire Water,Sewerage company,100
+E14001325,Leeds West and Pudsey,YKY,Yorkshire Water,Sewerage company,100
+E14001326,Leicester East,SVE,Severn Trent Water,Sewerage company,100
+E14001327,Leicester South,SVE,Severn Trent Water,Sewerage company,100
+E14001328,Leicester West,SVE,Severn Trent Water,Sewerage company,100
+E14001329,Leigh and Atherton,UUW,United Utilities,Sewerage company,100
+E14001330,Lewes,SRN,Southern Water,Sewerage company,100
+E14001331,Lewisham East,TMS,Thames Water,Sewerage company,100
+E14001332,Lewisham North,TMS,Thames Water,Sewerage company,100
+E14001333,Lewisham West and East Dulwich,TMS,Thames Water,Sewerage company,100
+E14001334,Leyton and Wanstead,TMS,Thames Water,Sewerage company,100
+E14001335,Lichfield,SVE,Severn Trent Water,Sewerage company,100
+E14001336,Lincoln,ANH,Anglian Water,Sewerage company,100
+E14001337,Liverpool Garston,UUW,United Utilities,Sewerage company,100
+E14001338,Liverpool Riverside,UUW,United Utilities,Sewerage company,100
+E14001339,Liverpool Walton,UUW,United Utilities,Sewerage company,100
+E14001340,Liverpool Wavertree,UUW,United Utilities,Sewerage company,100
+E14001341,Liverpool West Derby,UUW,United Utilities,Sewerage company,100
+W07000098,Llanelli,WSH,Dŵr Cymru,Sewerage company,100
+E14001342,Loughborough,SVE,Severn Trent Water,Sewerage company,100
+E14001343,Louth and Horncastle,ANH,Anglian Water,Sewerage company,100
+E14001344,Lowestoft,ANH,Anglian Water,Sewerage company,100
+E14001345,Luton North,TMS,Thames Water,Sewerage company,99.7
+E14001345,Luton North,ANH,Anglian Water,Sewerage company,0.3
+E14001346,Luton South and South Bedfordshire,TMS,Thames Water,Sewerage company,96.7
+E14001346,Luton South and South Bedfordshire,ANH,Anglian Water,Sewerage company,3.3
+E14001347,Macclesfield,UUW,United Utilities,Sewerage company,100
+E14001348,Maidenhead,TMS,Thames Water,Sewerage company,100
+E14001349,Maidstone and Malling,SRN,Southern Water,Sewerage company,100
+E14001350,Makerfield,UUW,United Utilities,Sewerage company,100
+E14001351,Maldon,ANH,Anglian Water,Sewerage company,100
+E14001352,Manchester Central,UUW,United Utilities,Sewerage company,100
+E14001353,Manchester Rusholme,UUW,United Utilities,Sewerage company,100
+E14001354,Manchester Withington,UUW,United Utilities,Sewerage company,100
+E14001355,Mansfield,SVE,Severn Trent Water,Sewerage company,100
+E14001356,Melksham and Devizes,WSX,Wessex Water,Sewerage company,100
 E14001356,Melksham and Devizes,TMS,Thames Water,Sewerage company,0
-E14001357,Melton and Syston,SVE,Severn Trent Water,Sewerage company,0
-E14001357,Melton and Syston,ANH,Anglian Water,Sewerage company,0
-E14001358,Meriden and Solihull East,SVE,Severn Trent Water,Sewerage company,0
-W07000099,Merthyr Tydfil and Aberdare,WSH,Dŵr Cymru,Sewerage company,0
-E14001359,Mid Bedfordshire,ANH,Anglian Water,Sewerage company,0
-E14001359,Mid Bedfordshire,TMS,Thames Water,Sewerage company,0
-E14001360,Mid Buckinghamshire,TMS,Thames Water,Sewerage company,0
-E14001360,Mid Buckinghamshire,ANH,Anglian Water,Sewerage company,0
-E14001361,Mid Cheshire,UUW,United Utilities,Sewerage company,0
-E14001362,Mid Derbyshire,SVE,Severn Trent Water,Sewerage company,0
-E14001363,Mid Dorset and North Poole,WSX,Wessex Water,Sewerage company,0
-E14001364,Mid Leicestershire,SVE,Severn Trent Water,Sewerage company,0
-E14001365,Mid Norfolk,ANH,Anglian Water,Sewerage company,0
-E14001366,Mid Sussex,SRN,Southern Water,Sewerage company,0
-W07000100,Mid and South Pembrokeshire,WSH,Dŵr Cymru,Sewerage company,0
-E14001368,Middlesbrough South and East Cleveland,NES,Northumbrian Water,Sewerage company,0
+E14001357,Melton and Syston,SVE,Severn Trent Water,Sewerage company,99.7
+E14001357,Melton and Syston,ANH,Anglian Water,Sewerage company,0.3
+E14001358,Meriden and Solihull East,SVE,Severn Trent Water,Sewerage company,100
+W07000099,Merthyr Tydfil and Aberdare,WSH,Dŵr Cymru,Sewerage company,100
+E14001359,Mid Bedfordshire,ANH,Anglian Water,Sewerage company,98.2
+E14001359,Mid Bedfordshire,TMS,Thames Water,Sewerage company,1.8
+E14001360,Mid Buckinghamshire,TMS,Thames Water,Sewerage company,94.2
+E14001360,Mid Buckinghamshire,ANH,Anglian Water,Sewerage company,5.8
+E14001361,Mid Cheshire,UUW,United Utilities,Sewerage company,100
+E14001362,Mid Derbyshire,SVE,Severn Trent Water,Sewerage company,100
+E14001363,Mid Dorset and North Poole,WSX,Wessex Water,Sewerage company,100
+E14001364,Mid Leicestershire,SVE,Severn Trent Water,Sewerage company,100
+E14001365,Mid Norfolk,ANH,Anglian Water,Sewerage company,100
+E14001366,Mid Sussex,SRN,Southern Water,Sewerage company,100
+W07000100,Mid and South Pembrokeshire,WSH,Dŵr Cymru,Sewerage company,100
+E14001368,Middlesbrough South and East Cleveland,NES,Northumbrian Water,Sewerage company,100
 E14001368,Middlesbrough South and East Cleveland,YKY,Yorkshire Water,Sewerage company,0
-E14001367,Middlesbrough and Thornaby East,NES,Northumbrian Water,Sewerage company,0
-E14001369,Milton Keynes Central,ANH,Anglian Water,Sewerage company,0
-E14001370,Milton Keynes North,ANH,Anglian Water,Sewerage company,0
-E14001371,Mitcham and Morden,TMS,Thames Water,Sewerage company,0
-W07000101,Monmouthshire,WSH,Dŵr Cymru,Sewerage company,0
-W07000102,Montgomeryshire and Glyndwr,HDD,Hafren Dyfrdwy,Sewerage company,0
-W07000102,Montgomeryshire and Glyndwr,WSH,Dŵr Cymru,Sewerage company,0
-E14001372,Morecambe and Lunesdale,UUW,United Utilities,Sewerage company,0
-W07000103,Neath and Swansea East,WSH,Dŵr Cymru,Sewerage company,0
-E14001373,New Forest East,SRN,Southern Water,Sewerage company,0
+E14001367,Middlesbrough and Thornaby East,NES,Northumbrian Water,Sewerage company,100
+E14001369,Milton Keynes Central,ANH,Anglian Water,Sewerage company,100
+E14001370,Milton Keynes North,ANH,Anglian Water,Sewerage company,100
+E14001371,Mitcham and Morden,TMS,Thames Water,Sewerage company,100
+W07000101,Monmouthshire,WSH,Dŵr Cymru,Sewerage company,100
+W07000102,Montgomeryshire and Glyndwr,HDD,Hafren Dyfrdwy,Sewerage company,59.9
+W07000102,Montgomeryshire and Glyndwr,WSH,Dŵr Cymru,Sewerage company,40.1
+E14001372,Morecambe and Lunesdale,UUW,United Utilities,Sewerage company,100
+W07000103,Neath and Swansea East,WSH,Dŵr Cymru,Sewerage company,100
+E14001373,New Forest East,SRN,Southern Water,Sewerage company,100
 E14001373,New Forest East,WSX,Wessex Water,Sewerage company,0
-E14001374,New Forest West,SRN,Southern Water,Sewerage company,0
-E14001374,New Forest West,WSX,Wessex Water,Sewerage company,0
-E14001375,Newark,SVE,Severn Trent Water,Sewerage company,0
-E14001375,Newark,ANH,Anglian Water,Sewerage company,0
-E14001376,Newbury,TMS,Thames Water,Sewerage company,0
+E14001374,New Forest West,SRN,Southern Water,Sewerage company,60.6
+E14001374,New Forest West,WSX,Wessex Water,Sewerage company,39.4
+E14001375,Newark,SVE,Severn Trent Water,Sewerage company,96.9
+E14001375,Newark,ANH,Anglian Water,Sewerage company,3.1
+E14001376,Newbury,TMS,Thames Water,Sewerage company,100
 E14001376,Newbury,SRN,Southern Water,Sewerage company,0
-E14001377,Newcastle upon Tyne Central and West,NES,Northumbrian Water,Sewerage company,0
-E14001378,Newcastle upon Tyne East and Wallsend,NES,Northumbrian Water,Sewerage company,0
-E14001379,Newcastle upon Tyne North,NES,Northumbrian Water,Sewerage company,0
-E14001380,Newcastle-under-Lyme,SVE,Severn Trent Water,Sewerage company,0
-E14001380,Newcastle-under-Lyme,UUW,United Utilities,Sewerage company,0
-W07000104,Newport East,WSH,Dŵr Cymru,Sewerage company,0
-W07000105,Newport West and Islwyn,WSH,Dŵr Cymru,Sewerage company,0
-E14001381,Newton Abbot,SBB,South West Water,Sewerage company,0
-E14001382,Newton Aycliffe and Spennymoor,NES,Northumbrian Water,Sewerage company,0
-E14001383,Normanton and Hemsworth,YKY,Yorkshire Water,Sewerage company,0
-E14001384,North Bedfordshire,ANH,Anglian Water,Sewerage company,0
-E14001385,North Cornwall,SBB,South West Water,Sewerage company,0
-E14001386,North Cotswolds,SVE,Severn Trent Water,Sewerage company,0
-E14001386,North Cotswolds,TMS,Thames Water,Sewerage company,0
-E14001387,North Devon,SBB,South West Water,Sewerage company,0
+E14001377,Newcastle upon Tyne Central and West,NES,Northumbrian Water,Sewerage company,100
+E14001378,Newcastle upon Tyne East and Wallsend,NES,Northumbrian Water,Sewerage company,100
+E14001379,Newcastle upon Tyne North,NES,Northumbrian Water,Sewerage company,100
+E14001380,Newcastle-under-Lyme,SVE,Severn Trent Water,Sewerage company,85.5
+E14001380,Newcastle-under-Lyme,UUW,United Utilities,Sewerage company,14.5
+W07000104,Newport East,WSH,Dŵr Cymru,Sewerage company,100
+W07000105,Newport West and Islwyn,WSH,Dŵr Cymru,Sewerage company,100
+E14001381,Newton Abbot,SBB,South West Water,Sewerage company,100
+E14001382,Newton Aycliffe and Spennymoor,NES,Northumbrian Water,Sewerage company,100
+E14001383,Normanton and Hemsworth,YKY,Yorkshire Water,Sewerage company,100
+E14001384,North Bedfordshire,ANH,Anglian Water,Sewerage company,100
+E14001385,North Cornwall,SBB,South West Water,Sewerage company,100
+E14001386,North Cotswolds,SVE,Severn Trent Water,Sewerage company,69.6
+E14001386,North Cotswolds,TMS,Thames Water,Sewerage company,30.4
+E14001387,North Devon,SBB,South West Water,Sewerage company,100
 E14001387,North Devon,WSX,Wessex Water,Sewerage company,0
-E14001388,North Dorset,WSX,Wessex Water,Sewerage company,0
-E14001389,North Durham,NES,Northumbrian Water,Sewerage company,0
-E14001390,North East Cambridgeshire,ANH,Anglian Water,Sewerage company,0
-E14001391,North East Derbyshire,YKY,Yorkshire Water,Sewerage company,0
-E14001391,North East Derbyshire,SVE,Severn Trent Water,Sewerage company,0
-E14001392,North East Hampshire,TMS,Thames Water,Sewerage company,0
-E14001392,North East Hampshire,SRN,Southern Water,Sewerage company,0
-E14001393,North East Hertfordshire,ANH,Anglian Water,Sewerage company,0
-E14001393,North East Hertfordshire,TMS,Thames Water,Sewerage company,0
-E14001394,North East Somerset and Hanham,WSX,Wessex Water,Sewerage company,0
-E14001395,North Herefordshire,WSH,Dŵr Cymru,Sewerage company,0
-E14001395,North Herefordshire,SVE,Severn Trent Water,Sewerage company,0
-E14001396,North Norfolk,ANH,Anglian Water,Sewerage company,0
-E14001397,North Northumberland,NES,Northumbrian Water,Sewerage company,0
-E14001398,North Shropshire,SVE,Severn Trent Water,Sewerage company,0
-E14001398,North Shropshire,WSH,Dŵr Cymru,Sewerage company,0
-E14001398,North Shropshire,UUW,United Utilities,Sewerage company,0
-E14001399,North Somerset,WSX,Wessex Water,Sewerage company,0
-E14001400,North Warwickshire and Bedworth,SVE,Severn Trent Water,Sewerage company,0
-E14001401,North West Cambridgeshire,ANH,Anglian Water,Sewerage company,0
-E14001402,North West Essex,ANH,Anglian Water,Sewerage company,0
-E14001402,North West Essex,TMS,Thames Water,Sewerage company,0
-E14001403,North West Hampshire,SRN,Southern Water,Sewerage company,0
-E14001403,North West Hampshire,TMS,Thames Water,Sewerage company,0
-E14001404,North West Leicestershire,SVE,Severn Trent Water,Sewerage company,0
-E14001405,North West Norfolk,ANH,Anglian Water,Sewerage company,0
-E14001406,Northampton North,ANH,Anglian Water,Sewerage company,0
-E14001407,Northampton South,ANH,Anglian Water,Sewerage company,0
-E14001408,Norwich North,ANH,Anglian Water,Sewerage company,0
-E14001409,Norwich South,ANH,Anglian Water,Sewerage company,0
-E14001410,Nottingham East,SVE,Severn Trent Water,Sewerage company,0
-E14001411,Nottingham North and Kimberley,SVE,Severn Trent Water,Sewerage company,0
-E14001412,Nottingham South,SVE,Severn Trent Water,Sewerage company,0
-E14001413,Nuneaton,SVE,Severn Trent Water,Sewerage company,0
-E14001414,Old Bexley and Sidcup,TMS,Thames Water,Sewerage company,0
-E14001415,Oldham East and Saddleworth,UUW,United Utilities,Sewerage company,0
-E14001416,"Oldham West, Chadderton and Royton",UUW,United Utilities,Sewerage company,0
-E14001417,Orpington,TMS,Thames Water,Sewerage company,0
-E14001418,Ossett and Denby Dale,YKY,Yorkshire Water,Sewerage company,0
-E14001419,Oxford East,TMS,Thames Water,Sewerage company,0
-E14001420,Oxford West and Abingdon,TMS,Thames Water,Sewerage company,0
-E14001421,Peckham,TMS,Thames Water,Sewerage company,0
-E14001422,Pendle and Clitheroe,UUW,United Utilities,Sewerage company,0
-E14001422,Pendle and Clitheroe,YKY,Yorkshire Water,Sewerage company,0
-E14001423,Penistone and Stocksbridge,YKY,Yorkshire Water,Sewerage company,0
-E14001424,Penrith and Solway,UUW,United Utilities,Sewerage company,0
-E14001424,Penrith and Solway,NES,Northumbrian Water,Sewerage company,0
-E14001425,Peterborough,ANH,Anglian Water,Sewerage company,0
-E14001426,Plymouth Moor View,SBB,South West Water,Sewerage company,0
-E14001427,Plymouth Sutton and Devonport,SBB,South West Water,Sewerage company,0
-E14001428,"Pontefract, Castleford and Knottingley",YKY,Yorkshire Water,Sewerage company,0
-W07000106,Pontypridd,WSH,Dŵr Cymru,Sewerage company,0
-E14001429,Poole,WSX,Wessex Water,Sewerage company,0
-E14001430,Poplar and Limehouse,TMS,Thames Water,Sewerage company,0
-E14001431,Portsmouth North,SRN,Southern Water,Sewerage company,0
-E14001432,Portsmouth South,SRN,Southern Water,Sewerage company,0
-E14001433,Preston,UUW,United Utilities,Sewerage company,0
-E14001434,Putney,TMS,Thames Water,Sewerage company,0
-E14001435,Queen's Park and Maida Vale,TMS,Thames Water,Sewerage company,0
-E14001436,Rawmarsh and Conisbrough,YKY,Yorkshire Water,Sewerage company,0
-E14001436,Rawmarsh and Conisbrough,SVE,Severn Trent Water,Sewerage company,0
-E14001437,Rayleigh and Wickford,ANH,Anglian Water,Sewerage company,0
-E14001438,Reading Central,TMS,Thames Water,Sewerage company,0
-E14001439,Reading West and Mid Berkshire,TMS,Thames Water,Sewerage company,0
-E14001440,Redcar,NES,Northumbrian Water,Sewerage company,0
-E14001441,Redditch,SVE,Severn Trent Water,Sewerage company,0
-E14001442,Reigate,TMS,Thames Water,Sewerage company,0
-W07000107,Rhondda and Ogmore,WSH,Dŵr Cymru,Sewerage company,0
-E14001443,Ribble Valley,UUW,United Utilities,Sewerage company,0
-E14001445,Richmond Park,TMS,Thames Water,Sewerage company,0
-E14001444,Richmond and Northallerton,YKY,Yorkshire Water,Sewerage company,0
-E14001444,Richmond and Northallerton,NES,Northumbrian Water,Sewerage company,0
-E14001446,Rochdale,UUW,United Utilities,Sewerage company,0
+E14001388,North Dorset,WSX,Wessex Water,Sewerage company,100
+E14001389,North Durham,NES,Northumbrian Water,Sewerage company,100
+E14001390,North East Cambridgeshire,ANH,Anglian Water,Sewerage company,100
+E14001391,North East Derbyshire,YKY,Yorkshire Water,Sewerage company,94.5
+E14001391,North East Derbyshire,SVE,Severn Trent Water,Sewerage company,5.5
+E14001392,North East Hampshire,TMS,Thames Water,Sewerage company,99.7
+E14001392,North East Hampshire,SRN,Southern Water,Sewerage company,0.3
+E14001393,North East Hertfordshire,ANH,Anglian Water,Sewerage company,65.2
+E14001393,North East Hertfordshire,TMS,Thames Water,Sewerage company,34.8
+E14001394,North East Somerset and Hanham,WSX,Wessex Water,Sewerage company,100
+E14001395,North Herefordshire,WSH,Dŵr Cymru,Sewerage company,73.5
+E14001395,North Herefordshire,SVE,Severn Trent Water,Sewerage company,26.5
+E14001396,North Norfolk,ANH,Anglian Water,Sewerage company,100
+E14001397,North Northumberland,NES,Northumbrian Water,Sewerage company,100
+E14001398,North Shropshire,SVE,Severn Trent Water,Sewerage company,75.9
+E14001398,North Shropshire,WSH,Dŵr Cymru,Sewerage company,16.7
+E14001398,North Shropshire,UUW,United Utilities,Sewerage company,7.4
+E14001399,North Somerset,WSX,Wessex Water,Sewerage company,100
+E14001400,North Warwickshire and Bedworth,SVE,Severn Trent Water,Sewerage company,100
+E14001401,North West Cambridgeshire,ANH,Anglian Water,Sewerage company,100
+E14001402,North West Essex,ANH,Anglian Water,Sewerage company,78.9
+E14001402,North West Essex,TMS,Thames Water,Sewerage company,21.1
+E14001403,North West Hampshire,SRN,Southern Water,Sewerage company,62.5
+E14001403,North West Hampshire,TMS,Thames Water,Sewerage company,37.5
+E14001404,North West Leicestershire,SVE,Severn Trent Water,Sewerage company,100
+E14001405,North West Norfolk,ANH,Anglian Water,Sewerage company,100
+E14001406,Northampton North,ANH,Anglian Water,Sewerage company,100
+E14001407,Northampton South,ANH,Anglian Water,Sewerage company,100
+E14001408,Norwich North,ANH,Anglian Water,Sewerage company,100
+E14001409,Norwich South,ANH,Anglian Water,Sewerage company,100
+E14001410,Nottingham East,SVE,Severn Trent Water,Sewerage company,100
+E14001411,Nottingham North and Kimberley,SVE,Severn Trent Water,Sewerage company,100
+E14001412,Nottingham South,SVE,Severn Trent Water,Sewerage company,100
+E14001413,Nuneaton,SVE,Severn Trent Water,Sewerage company,100
+E14001414,Old Bexley and Sidcup,TMS,Thames Water,Sewerage company,100
+E14001415,Oldham East and Saddleworth,UUW,United Utilities,Sewerage company,100
+E14001416,"Oldham West, Chadderton and Royton",UUW,United Utilities,Sewerage company,100
+E14001417,Orpington,TMS,Thames Water,Sewerage company,100
+E14001418,Ossett and Denby Dale,YKY,Yorkshire Water,Sewerage company,100
+E14001419,Oxford East,TMS,Thames Water,Sewerage company,100
+E14001420,Oxford West and Abingdon,TMS,Thames Water,Sewerage company,100
+E14001421,Peckham,TMS,Thames Water,Sewerage company,100
+E14001422,Pendle and Clitheroe,UUW,United Utilities,Sewerage company,93.5
+E14001422,Pendle and Clitheroe,YKY,Yorkshire Water,Sewerage company,6.5
+E14001423,Penistone and Stocksbridge,YKY,Yorkshire Water,Sewerage company,100
+E14001424,Penrith and Solway,UUW,United Utilities,Sewerage company,97.9
+E14001424,Penrith and Solway,NES,Northumbrian Water,Sewerage company,2.1
+E14001425,Peterborough,ANH,Anglian Water,Sewerage company,100
+E14001426,Plymouth Moor View,SBB,South West Water,Sewerage company,100
+E14001427,Plymouth Sutton and Devonport,SBB,South West Water,Sewerage company,100
+E14001428,"Pontefract, Castleford and Knottingley",YKY,Yorkshire Water,Sewerage company,100
+W07000106,Pontypridd,WSH,Dŵr Cymru,Sewerage company,100
+E14001429,Poole,WSX,Wessex Water,Sewerage company,100
+E14001430,Poplar and Limehouse,TMS,Thames Water,Sewerage company,100
+E14001431,Portsmouth North,SRN,Southern Water,Sewerage company,100
+E14001432,Portsmouth South,SRN,Southern Water,Sewerage company,100
+E14001433,Preston,UUW,United Utilities,Sewerage company,100
+E14001434,Putney,TMS,Thames Water,Sewerage company,100
+E14001435,Queen's Park and Maida Vale,TMS,Thames Water,Sewerage company,100
+E14001436,Rawmarsh and Conisbrough,YKY,Yorkshire Water,Sewerage company,80.3
+E14001436,Rawmarsh and Conisbrough,SVE,Severn Trent Water,Sewerage company,19.7
+E14001437,Rayleigh and Wickford,ANH,Anglian Water,Sewerage company,100
+E14001438,Reading Central,TMS,Thames Water,Sewerage company,100
+E14001439,Reading West and Mid Berkshire,TMS,Thames Water,Sewerage company,100
+E14001440,Redcar,NES,Northumbrian Water,Sewerage company,100
+E14001441,Redditch,SVE,Severn Trent Water,Sewerage company,100
+E14001442,Reigate,TMS,Thames Water,Sewerage company,100
+W07000107,Rhondda and Ogmore,WSH,Dŵr Cymru,Sewerage company,100
+E14001443,Ribble Valley,UUW,United Utilities,Sewerage company,100
+E14001445,Richmond Park,TMS,Thames Water,Sewerage company,100
+E14001444,Richmond and Northallerton,YKY,Yorkshire Water,Sewerage company,78.2
+E14001444,Richmond and Northallerton,NES,Northumbrian Water,Sewerage company,21.8
+E14001446,Rochdale,UUW,United Utilities,Sewerage company,100
 E14001446,Rochdale,YKY,Yorkshire Water,Sewerage company,0
-E14001447,Rochester and Strood,SRN,Southern Water,Sewerage company,0
-E14001448,Romford,TMS,Thames Water,Sewerage company,0
-E14001449,Romsey and Southampton North,SRN,Southern Water,Sewerage company,0
+E14001447,Rochester and Strood,SRN,Southern Water,Sewerage company,100
+E14001448,Romford,TMS,Thames Water,Sewerage company,100
+E14001449,Romsey and Southampton North,SRN,Southern Water,Sewerage company,100
 E14001449,Romsey and Southampton North,WSX,Wessex Water,Sewerage company,0
-E14001450,Rossendale and Darwen,UUW,United Utilities,Sewerage company,0
-E14001451,Rother Valley,SVE,Severn Trent Water,Sewerage company,0
-E14001451,Rother Valley,YKY,Yorkshire Water,Sewerage company,0
-E14001452,Rotherham,YKY,Yorkshire Water,Sewerage company,0
-E14001452,Rotherham,SVE,Severn Trent Water,Sewerage company,0
-E14001453,Rugby,SVE,Severn Trent Water,Sewerage company,0
-E14001454,"Ruislip, Northwood and Pinner",TMS,Thames Water,Sewerage company,0
-E14001455,Runcorn and Helsby,UUW,United Utilities,Sewerage company,0
+E14001450,Rossendale and Darwen,UUW,United Utilities,Sewerage company,100
+E14001451,Rother Valley,SVE,Severn Trent Water,Sewerage company,61.8
+E14001451,Rother Valley,YKY,Yorkshire Water,Sewerage company,38.2
+E14001452,Rotherham,YKY,Yorkshire Water,Sewerage company,95.3
+E14001452,Rotherham,SVE,Severn Trent Water,Sewerage company,4.7
+E14001453,Rugby,SVE,Severn Trent Water,Sewerage company,100
+E14001454,"Ruislip, Northwood and Pinner",TMS,Thames Water,Sewerage company,100
+E14001455,Runcorn and Helsby,UUW,United Utilities,Sewerage company,100
 E14001455,Runcorn and Helsby,WSH,Dŵr Cymru,Sewerage company,0
-E14001456,Runnymede and Weybridge,TMS,Thames Water,Sewerage company,0
-E14001457,Rushcliffe,SVE,Severn Trent Water,Sewerage company,0
-E14001458,Rutland and Stamford,ANH,Anglian Water,Sewerage company,0
-E14001458,Rutland and Stamford,SVE,Severn Trent Water,Sewerage company,0
-E14001459,Salford,UUW,United Utilities,Sewerage company,0
-E14001460,Salisbury,WSX,Wessex Water,Sewerage company,0
-E14001460,Salisbury,SRN,Southern Water,Sewerage company,0
-E14001461,Scarborough and Whitby,YKY,Yorkshire Water,Sewerage company,0
-E14001462,Scunthorpe,SVE,Severn Trent Water,Sewerage company,0
-E14001462,Scunthorpe,ANH,Anglian Water,Sewerage company,0
-E14001463,Sefton Central,UUW,United Utilities,Sewerage company,0
-E14001464,Selby,YKY,Yorkshire Water,Sewerage company,0
-E14001465,Sevenoaks,TMS,Thames Water,Sewerage company,0
-E14001465,Sevenoaks,SRN,Southern Water,Sewerage company,0
-E14001466,Sheffield Brightside and Hillsborough,YKY,Yorkshire Water,Sewerage company,0
-E14001467,Sheffield Central,YKY,Yorkshire Water,Sewerage company,0
-E14001468,Sheffield Hallam,YKY,Yorkshire Water,Sewerage company,0
+E14001456,Runnymede and Weybridge,TMS,Thames Water,Sewerage company,100
+E14001457,Rushcliffe,SVE,Severn Trent Water,Sewerage company,100
+E14001458,Rutland and Stamford,ANH,Anglian Water,Sewerage company,84.6
+E14001458,Rutland and Stamford,SVE,Severn Trent Water,Sewerage company,15.4
+E14001459,Salford,UUW,United Utilities,Sewerage company,100
+E14001460,Salisbury,WSX,Wessex Water,Sewerage company,91.5
+E14001460,Salisbury,SRN,Southern Water,Sewerage company,8.5
+E14001461,Scarborough and Whitby,YKY,Yorkshire Water,Sewerage company,100
+E14001462,Scunthorpe,SVE,Severn Trent Water,Sewerage company,88.2
+E14001462,Scunthorpe,ANH,Anglian Water,Sewerage company,11.8
+E14001463,Sefton Central,UUW,United Utilities,Sewerage company,100
+E14001464,Selby,YKY,Yorkshire Water,Sewerage company,100
+E14001465,Sevenoaks,TMS,Thames Water,Sewerage company,97.5
+E14001465,Sevenoaks,SRN,Southern Water,Sewerage company,2.5
+E14001466,Sheffield Brightside and Hillsborough,YKY,Yorkshire Water,Sewerage company,100
+E14001467,Sheffield Central,YKY,Yorkshire Water,Sewerage company,100
+E14001468,Sheffield Hallam,YKY,Yorkshire Water,Sewerage company,100
 E14001468,Sheffield Hallam,SVE,Severn Trent Water,Sewerage company,0
-E14001469,Sheffield Heeley,YKY,Yorkshire Water,Sewerage company,0
-E14001470,Sheffield South East,YKY,Yorkshire Water,Sewerage company,0
-E14001471,Sherwood Forest,SVE,Severn Trent Water,Sewerage company,0
-E14001472,Shipley,YKY,Yorkshire Water,Sewerage company,0
-E14001473,Shrewsbury,SVE,Severn Trent Water,Sewerage company,0
-E14001474,Sittingbourne and Sheppey,SRN,Southern Water,Sewerage company,0
-E14001475,Skipton and Ripon,YKY,Yorkshire Water,Sewerage company,0
-E14001475,Skipton and Ripon,UUW,United Utilities,Sewerage company,0
-E14001476,Sleaford and North Hykeham,ANH,Anglian Water,Sewerage company,0
-E14001476,Sleaford and North Hykeham,SVE,Severn Trent Water,Sewerage company,0
-E14001477,Slough,TMS,Thames Water,Sewerage company,0
-E14001478,Smethwick,SVE,Severn Trent Water,Sewerage company,0
-E14001479,Solihull West and Shirley,SVE,Severn Trent Water,Sewerage company,0
-E14001480,South Basildon and East Thurrock,ANH,Anglian Water,Sewerage company,0
-E14001481,South Cambridgeshire,ANH,Anglian Water,Sewerage company,0
-E14001482,South Cotswolds,TMS,Thames Water,Sewerage company,0
-E14001482,South Cotswolds,WSX,Wessex Water,Sewerage company,0
-E14001482,South Cotswolds,SVE,Severn Trent Water,Sewerage company,0
-E14001483,South Derbyshire,SVE,Severn Trent Water,Sewerage company,0
-E14001484,South Devon,SBB,South West Water,Sewerage company,0
-E14001485,South Dorset,WSX,Wessex Water,Sewerage company,0
-E14001486,South East Cornwall,SBB,South West Water,Sewerage company,0
-E14001487,South Holland and The Deepings,ANH,Anglian Water,Sewerage company,0
-E14001488,South Leicestershire,SVE,Severn Trent Water,Sewerage company,0
-E14001488,South Leicestershire,ANH,Anglian Water,Sewerage company,0
-E14001489,South Norfolk,ANH,Anglian Water,Sewerage company,0
-E14001490,South Northamptonshire,ANH,Anglian Water,Sewerage company,0
-E14001490,South Northamptonshire,TMS,Thames Water,Sewerage company,0
-E14001491,South Ribble,UUW,United Utilities,Sewerage company,0
-E14001492,South Shields,NES,Northumbrian Water,Sewerage company,0
-E14001493,South Shropshire,SVE,Severn Trent Water,Sewerage company,0
-E14001494,South Suffolk,ANH,Anglian Water,Sewerage company,0
-E14001495,South West Devon,SBB,South West Water,Sewerage company,0
-E14001496,South West Hertfordshire,TMS,Thames Water,Sewerage company,0
-E14001497,South West Norfolk,ANH,Anglian Water,Sewerage company,0
-E14001498,South West Wiltshire,WSX,Wessex Water,Sewerage company,0
-E14001499,Southampton Itchen,SRN,Southern Water,Sewerage company,0
-E14001500,Southampton Test,SRN,Southern Water,Sewerage company,0
-E14001501,Southend East and Rochford,ANH,Anglian Water,Sewerage company,0
-E14001502,Southend West and Leigh,ANH,Anglian Water,Sewerage company,0
-E14001503,Southgate and Wood Green,TMS,Thames Water,Sewerage company,0
-E14001504,Southport,UUW,United Utilities,Sewerage company,0
-E14001505,Spelthorne,TMS,Thames Water,Sewerage company,0
-E14001506,Spen Valley,YKY,Yorkshire Water,Sewerage company,0
-E14001507,St Albans,TMS,Thames Water,Sewerage company,0
-E14001508,St Austell and Newquay,SBB,South West Water,Sewerage company,0
-E14001509,St Helens North,UUW,United Utilities,Sewerage company,0
-E14001510,St Helens South and Whiston,UUW,United Utilities,Sewerage company,0
-E14001511,St Ives,SBB,South West Water,Sewerage company,0
-E14001512,St Neots and Mid Cambridgeshire,ANH,Anglian Water,Sewerage company,0
-E14001513,Stafford,SVE,Severn Trent Water,Sewerage company,0
-E14001513,Stafford,UUW,United Utilities,Sewerage company,0
-E14001514,Staffordshire Moorlands,SVE,Severn Trent Water,Sewerage company,0
-E14001514,Staffordshire Moorlands,UUW,United Utilities,Sewerage company,0
-E14001515,Stalybridge and Hyde,UUW,United Utilities,Sewerage company,0
-E14001516,Stevenage,TMS,Thames Water,Sewerage company,0
-E14001516,Stevenage,ANH,Anglian Water,Sewerage company,0
-E14001517,Stockport,UUW,United Utilities,Sewerage company,0
-E14001518,Stockton North,NES,Northumbrian Water,Sewerage company,0
-E14001519,Stockton West,NES,Northumbrian Water,Sewerage company,0
-E14001520,Stoke-on-Trent Central,SVE,Severn Trent Water,Sewerage company,0
-E14001521,Stoke-on-Trent North,SVE,Severn Trent Water,Sewerage company,0
-E14001521,Stoke-on-Trent North,UUW,United Utilities,Sewerage company,0
-E14001522,Stoke-on-Trent South,SVE,Severn Trent Water,Sewerage company,0
-E14001523,"Stone, Great Wyrley and Penkridge",SVE,Severn Trent Water,Sewerage company,0
-E14001524,Stourbridge,SVE,Severn Trent Water,Sewerage company,0
-E14001525,Stratford and Bow,TMS,Thames Water,Sewerage company,0
-E14001526,Stratford-on-Avon,SVE,Severn Trent Water,Sewerage company,0
-E14001526,Stratford-on-Avon,TMS,Thames Water,Sewerage company,0
-E14001527,Streatham and Croydon North,TMS,Thames Water,Sewerage company,0
-E14001528,Stretford and Urmston,UUW,United Utilities,Sewerage company,0
-E14001529,Stroud,SVE,Severn Trent Water,Sewerage company,0
-E14001529,Stroud,WSX,Wessex Water,Sewerage company,0
-E14001530,Suffolk Coastal,ANH,Anglian Water,Sewerage company,0
-E14001531,Sunderland Central,NES,Northumbrian Water,Sewerage company,0
-E14001532,Surrey Heath,TMS,Thames Water,Sewerage company,0
-E14001533,Sussex Weald,SRN,Southern Water,Sewerage company,0
-E14001535,Sutton Coldfield,SVE,Severn Trent Water,Sewerage company,0
-E14001534,Sutton and Cheam,TMS,Thames Water,Sewerage company,0
-W07000108,Swansea West,WSH,Dŵr Cymru,Sewerage company,0
-E14001536,Swindon North,TMS,Thames Water,Sewerage company,0
-E14001537,Swindon South,TMS,Thames Water,Sewerage company,0
-E14001538,Tamworth,SVE,Severn Trent Water,Sewerage company,0
-E14001539,Tatton,UUW,United Utilities,Sewerage company,0
-E14001540,Taunton and Wellington,WSX,Wessex Water,Sewerage company,0
-E14001540,Taunton and Wellington,SBB,South West Water,Sewerage company,0
-E14001541,Telford,SVE,Severn Trent Water,Sewerage company,0
-E14001542,Tewkesbury,SVE,Severn Trent Water,Sewerage company,0
-E14001542,Tewkesbury,TMS,Thames Water,Sewerage company,0
-E14001543,The Wrekin,SVE,Severn Trent Water,Sewerage company,0
-E14001544,Thirsk and Malton,YKY,Yorkshire Water,Sewerage company,0
-E14001545,Thornbury and Yate,WSX,Wessex Water,Sewerage company,0
+E14001469,Sheffield Heeley,YKY,Yorkshire Water,Sewerage company,100
+E14001470,Sheffield South East,YKY,Yorkshire Water,Sewerage company,100
+E14001471,Sherwood Forest,SVE,Severn Trent Water,Sewerage company,100
+E14001472,Shipley,YKY,Yorkshire Water,Sewerage company,100
+E14001473,Shrewsbury,SVE,Severn Trent Water,Sewerage company,100
+E14001474,Sittingbourne and Sheppey,SRN,Southern Water,Sewerage company,100
+E14001475,Skipton and Ripon,YKY,Yorkshire Water,Sewerage company,84
+E14001475,Skipton and Ripon,UUW,United Utilities,Sewerage company,16
+E14001476,Sleaford and North Hykeham,ANH,Anglian Water,Sewerage company,98.2
+E14001476,Sleaford and North Hykeham,SVE,Severn Trent Water,Sewerage company,1.8
+E14001477,Slough,TMS,Thames Water,Sewerage company,100
+E14001478,Smethwick,SVE,Severn Trent Water,Sewerage company,100
+E14001479,Solihull West and Shirley,SVE,Severn Trent Water,Sewerage company,100
+E14001480,South Basildon and East Thurrock,ANH,Anglian Water,Sewerage company,100
+E14001481,South Cambridgeshire,ANH,Anglian Water,Sewerage company,100
+E14001482,South Cotswolds,TMS,Thames Water,Sewerage company,56.5
+E14001482,South Cotswolds,WSX,Wessex Water,Sewerage company,41.9
+E14001482,South Cotswolds,SVE,Severn Trent Water,Sewerage company,1.5
+E14001483,South Derbyshire,SVE,Severn Trent Water,Sewerage company,100
+E14001484,South Devon,SBB,South West Water,Sewerage company,100
+E14001485,South Dorset,WSX,Wessex Water,Sewerage company,100
+E14001486,South East Cornwall,SBB,South West Water,Sewerage company,100
+E14001487,South Holland and The Deepings,ANH,Anglian Water,Sewerage company,100
+E14001488,South Leicestershire,SVE,Severn Trent Water,Sewerage company,97.9
+E14001488,South Leicestershire,ANH,Anglian Water,Sewerage company,2.1
+E14001489,South Norfolk,ANH,Anglian Water,Sewerage company,100
+E14001490,South Northamptonshire,ANH,Anglian Water,Sewerage company,89.3
+E14001490,South Northamptonshire,TMS,Thames Water,Sewerage company,10.7
+E14001491,South Ribble,UUW,United Utilities,Sewerage company,100
+E14001492,South Shields,NES,Northumbrian Water,Sewerage company,100
+E14001493,South Shropshire,SVE,Severn Trent Water,Sewerage company,100
+E14001494,South Suffolk,ANH,Anglian Water,Sewerage company,100
+E14001495,South West Devon,SBB,South West Water,Sewerage company,100
+E14001496,South West Hertfordshire,TMS,Thames Water,Sewerage company,100
+E14001497,South West Norfolk,ANH,Anglian Water,Sewerage company,100
+E14001498,South West Wiltshire,WSX,Wessex Water,Sewerage company,100
+E14001499,Southampton Itchen,SRN,Southern Water,Sewerage company,100
+E14001500,Southampton Test,SRN,Southern Water,Sewerage company,100
+E14001501,Southend East and Rochford,ANH,Anglian Water,Sewerage company,100
+E14001502,Southend West and Leigh,ANH,Anglian Water,Sewerage company,100
+E14001503,Southgate and Wood Green,TMS,Thames Water,Sewerage company,100
+E14001504,Southport,UUW,United Utilities,Sewerage company,100
+E14001505,Spelthorne,TMS,Thames Water,Sewerage company,100
+E14001506,Spen Valley,YKY,Yorkshire Water,Sewerage company,100
+E14001507,St Albans,TMS,Thames Water,Sewerage company,100
+E14001508,St Austell and Newquay,SBB,South West Water,Sewerage company,100
+E14001509,St Helens North,UUW,United Utilities,Sewerage company,100
+E14001510,St Helens South and Whiston,UUW,United Utilities,Sewerage company,100
+E14001511,St Ives,SBB,South West Water,Sewerage company,100
+E14001512,St Neots and Mid Cambridgeshire,ANH,Anglian Water,Sewerage company,100
+E14001513,Stafford,SVE,Severn Trent Water,Sewerage company,98.8
+E14001513,Stafford,UUW,United Utilities,Sewerage company,1.2
+E14001514,Staffordshire Moorlands,SVE,Severn Trent Water,Sewerage company,81.4
+E14001514,Staffordshire Moorlands,UUW,United Utilities,Sewerage company,18.6
+E14001515,Stalybridge and Hyde,UUW,United Utilities,Sewerage company,100
+E14001516,Stevenage,TMS,Thames Water,Sewerage company,98.1
+E14001516,Stevenage,ANH,Anglian Water,Sewerage company,1.9
+E14001517,Stockport,UUW,United Utilities,Sewerage company,100
+E14001518,Stockton North,NES,Northumbrian Water,Sewerage company,100
+E14001519,Stockton West,NES,Northumbrian Water,Sewerage company,100
+E14001520,Stoke-on-Trent Central,SVE,Severn Trent Water,Sewerage company,100
+E14001521,Stoke-on-Trent North,SVE,Severn Trent Water,Sewerage company,78
+E14001521,Stoke-on-Trent North,UUW,United Utilities,Sewerage company,22
+E14001522,Stoke-on-Trent South,SVE,Severn Trent Water,Sewerage company,100
+E14001523,"Stone, Great Wyrley and Penkridge",SVE,Severn Trent Water,Sewerage company,100
+E14001524,Stourbridge,SVE,Severn Trent Water,Sewerage company,100
+E14001525,Stratford and Bow,TMS,Thames Water,Sewerage company,100
+E14001526,Stratford-on-Avon,SVE,Severn Trent Water,Sewerage company,99.7
+E14001526,Stratford-on-Avon,TMS,Thames Water,Sewerage company,0.3
+E14001527,Streatham and Croydon North,TMS,Thames Water,Sewerage company,100
+E14001528,Stretford and Urmston,UUW,United Utilities,Sewerage company,100
+E14001529,Stroud,SVE,Severn Trent Water,Sewerage company,86.6
+E14001529,Stroud,WSX,Wessex Water,Sewerage company,13.4
+E14001530,Suffolk Coastal,ANH,Anglian Water,Sewerage company,100
+E14001531,Sunderland Central,NES,Northumbrian Water,Sewerage company,100
+E14001532,Surrey Heath,TMS,Thames Water,Sewerage company,100
+E14001533,Sussex Weald,SRN,Southern Water,Sewerage company,100
+E14001535,Sutton Coldfield,SVE,Severn Trent Water,Sewerage company,100
+E14001534,Sutton and Cheam,TMS,Thames Water,Sewerage company,100
+W07000108,Swansea West,WSH,Dŵr Cymru,Sewerage company,100
+E14001536,Swindon North,TMS,Thames Water,Sewerage company,100
+E14001537,Swindon South,TMS,Thames Water,Sewerage company,100
+E14001538,Tamworth,SVE,Severn Trent Water,Sewerage company,100
+E14001539,Tatton,UUW,United Utilities,Sewerage company,100
+E14001540,Taunton and Wellington,WSX,Wessex Water,Sewerage company,98.9
+E14001540,Taunton and Wellington,SBB,South West Water,Sewerage company,1.1
+E14001541,Telford,SVE,Severn Trent Water,Sewerage company,100
+E14001542,Tewkesbury,SVE,Severn Trent Water,Sewerage company,99.8
+E14001542,Tewkesbury,TMS,Thames Water,Sewerage company,0.2
+E14001543,The Wrekin,SVE,Severn Trent Water,Sewerage company,100
+E14001544,Thirsk and Malton,YKY,Yorkshire Water,Sewerage company,100
+E14001545,Thornbury and Yate,WSX,Wessex Water,Sewerage company,100
 E14001545,Thornbury and Yate,SVE,Severn Trent Water,Sewerage company,0
-E14001546,Thurrock,ANH,Anglian Water,Sewerage company,0
+E14001546,Thurrock,ANH,Anglian Water,Sewerage company,100
 E14001546,Thurrock,TMS,Thames Water,Sewerage company,0
-E14001547,Tipton and Wednesbury,SVE,Severn Trent Water,Sewerage company,0
-E14001548,Tiverton and Minehead,WSX,Wessex Water,Sewerage company,0
-E14001548,Tiverton and Minehead,SBB,South West Water,Sewerage company,0
-E14001549,Tonbridge,SRN,Southern Water,Sewerage company,0
-E14001549,Tonbridge,TMS,Thames Water,Sewerage company,0
-E14001550,Tooting,TMS,Thames Water,Sewerage company,0
-E14001551,Torbay,SBB,South West Water,Sewerage company,0
-W07000109,Torfaen,WSH,Dŵr Cymru,Sewerage company,0
-E14001552,Torridge and Tavistock,SBB,South West Water,Sewerage company,0
-E14001553,Tottenham,TMS,Thames Water,Sewerage company,0
-E14001554,Truro and Falmouth,SBB,South West Water,Sewerage company,0
-E14001555,Tunbridge Wells,SRN,Southern Water,Sewerage company,0
-E14001556,Twickenham,TMS,Thames Water,Sewerage company,0
-E14001557,Tynemouth,NES,Northumbrian Water,Sewerage company,0
-E14001558,Uxbridge and South Ruislip,TMS,Thames Water,Sewerage company,0
-W07000110,Vale of Glamorgan,WSH,Dŵr Cymru,Sewerage company,0
-E14001559,Vauxhall and Camberwell Green,TMS,Thames Water,Sewerage company,0
-E14001560,Wakefield and Rothwell,YKY,Yorkshire Water,Sewerage company,0
-E14001561,Wallasey,UUW,United Utilities,Sewerage company,0
-E14001562,Walsall and Bloxwich,SVE,Severn Trent Water,Sewerage company,0
-E14001563,Walthamstow,TMS,Thames Water,Sewerage company,0
-E14001564,Warrington North,UUW,United Utilities,Sewerage company,0
-E14001565,Warrington South,UUW,United Utilities,Sewerage company,0
-E14001566,Warwick and Leamington,SVE,Severn Trent Water,Sewerage company,0
-E14001567,Washington and Gateshead South,NES,Northumbrian Water,Sewerage company,0
-E14001568,Watford,TMS,Thames Water,Sewerage company,0
-E14001569,Waveney Valley,ANH,Anglian Water,Sewerage company,0
-E14001570,Weald of Kent,SRN,Southern Water,Sewerage company,0
-E14001571,Wellingborough and Rushden,ANH,Anglian Water,Sewerage company,0
-E14001572,Wells and Mendip Hills,WSX,Wessex Water,Sewerage company,0
-E14001573,Welwyn Hatfield,TMS,Thames Water,Sewerage company,0
-E14001574,West Bromwich,SVE,Severn Trent Water,Sewerage company,0
-E14001575,West Dorset,WSX,Wessex Water,Sewerage company,0
-E14001575,West Dorset,SBB,South West Water,Sewerage company,0
-E14001576,West Ham and Beckton,TMS,Thames Water,Sewerage company,0
-E14001577,West Lancashire,UUW,United Utilities,Sewerage company,0
-E14001578,West Suffolk,ANH,Anglian Water,Sewerage company,0
-E14001579,West Worcestershire,SVE,Severn Trent Water,Sewerage company,0
-E14001579,West Worcestershire,WSH,Dŵr Cymru,Sewerage company,0
-E14001580,Westmorland and Lonsdale,UUW,United Utilities,Sewerage company,0
+E14001547,Tipton and Wednesbury,SVE,Severn Trent Water,Sewerage company,100
+E14001548,Tiverton and Minehead,WSX,Wessex Water,Sewerage company,50.5
+E14001548,Tiverton and Minehead,SBB,South West Water,Sewerage company,49.5
+E14001549,Tonbridge,SRN,Southern Water,Sewerage company,87.3
+E14001549,Tonbridge,TMS,Thames Water,Sewerage company,12.7
+E14001550,Tooting,TMS,Thames Water,Sewerage company,100
+E14001551,Torbay,SBB,South West Water,Sewerage company,100
+W07000109,Torfaen,WSH,Dŵr Cymru,Sewerage company,100
+E14001552,Torridge and Tavistock,SBB,South West Water,Sewerage company,100
+E14001553,Tottenham,TMS,Thames Water,Sewerage company,100
+E14001554,Truro and Falmouth,SBB,South West Water,Sewerage company,100
+E14001555,Tunbridge Wells,SRN,Southern Water,Sewerage company,100
+E14001556,Twickenham,TMS,Thames Water,Sewerage company,100
+E14001557,Tynemouth,NES,Northumbrian Water,Sewerage company,100
+E14001558,Uxbridge and South Ruislip,TMS,Thames Water,Sewerage company,100
+W07000110,Vale of Glamorgan,WSH,Dŵr Cymru,Sewerage company,100
+E14001559,Vauxhall and Camberwell Green,TMS,Thames Water,Sewerage company,100
+E14001560,Wakefield and Rothwell,YKY,Yorkshire Water,Sewerage company,100
+E14001561,Wallasey,UUW,United Utilities,Sewerage company,100
+E14001562,Walsall and Bloxwich,SVE,Severn Trent Water,Sewerage company,100
+E14001563,Walthamstow,TMS,Thames Water,Sewerage company,100
+E14001564,Warrington North,UUW,United Utilities,Sewerage company,100
+E14001565,Warrington South,UUW,United Utilities,Sewerage company,100
+E14001566,Warwick and Leamington,SVE,Severn Trent Water,Sewerage company,100
+E14001567,Washington and Gateshead South,NES,Northumbrian Water,Sewerage company,100
+E14001568,Watford,TMS,Thames Water,Sewerage company,100
+E14001569,Waveney Valley,ANH,Anglian Water,Sewerage company,100
+E14001570,Weald of Kent,SRN,Southern Water,Sewerage company,100
+E14001571,Wellingborough and Rushden,ANH,Anglian Water,Sewerage company,100
+E14001572,Wells and Mendip Hills,WSX,Wessex Water,Sewerage company,100
+E14001573,Welwyn Hatfield,TMS,Thames Water,Sewerage company,100
+E14001574,West Bromwich,SVE,Severn Trent Water,Sewerage company,100
+E14001575,West Dorset,WSX,Wessex Water,Sewerage company,93.2
+E14001575,West Dorset,SBB,South West Water,Sewerage company,6.8
+E14001576,West Ham and Beckton,TMS,Thames Water,Sewerage company,100
+E14001577,West Lancashire,UUW,United Utilities,Sewerage company,100
+E14001578,West Suffolk,ANH,Anglian Water,Sewerage company,100
+E14001579,West Worcestershire,SVE,Severn Trent Water,Sewerage company,99.8
+E14001579,West Worcestershire,WSH,Dŵr Cymru,Sewerage company,0.2
+E14001580,Westmorland and Lonsdale,UUW,United Utilities,Sewerage company,100
 E14001580,Westmorland and Lonsdale,NES,Northumbrian Water,Sewerage company,0
-E14001581,Weston-Super-Mare,WSX,Wessex Water,Sewerage company,0
-E14001582,Wetherby and Easingwold,YKY,Yorkshire Water,Sewerage company,0
-E14001583,Whitehaven and Workington,UUW,United Utilities,Sewerage company,0
-E14001584,Widnes and Halewood,UUW,United Utilities,Sewerage company,0
-E14001585,Wigan,UUW,United Utilities,Sewerage company,0
-E14001586,Wimbledon,TMS,Thames Water,Sewerage company,0
-E14001587,Winchester,SRN,Southern Water,Sewerage company,0
-E14001588,Windsor,TMS,Thames Water,Sewerage company,0
-E14001589,Wirral West,UUW,United Utilities,Sewerage company,0
-E14001589,Wirral West,WSH,Dŵr Cymru,Sewerage company,0
-E14001590,Witham,ANH,Anglian Water,Sewerage company,0
-E14001591,Witney,TMS,Thames Water,Sewerage company,0
-E14001592,Woking,TMS,Thames Water,Sewerage company,0
-E14001593,Wokingham,TMS,Thames Water,Sewerage company,0
-E14001594,Wolverhampton North East,SVE,Severn Trent Water,Sewerage company,0
-E14001595,Wolverhampton South East,SVE,Severn Trent Water,Sewerage company,0
-E14001596,Wolverhampton West,SVE,Severn Trent Water,Sewerage company,0
-E14001597,Worcester,SVE,Severn Trent Water,Sewerage company,0
-E14001598,Worsley and Eccles,UUW,United Utilities,Sewerage company,0
-E14001599,Worthing West,SRN,Southern Water,Sewerage company,0
-W07000111,Wrexham,WSH,Dŵr Cymru,Sewerage company,0
-W07000111,Wrexham,HDD,Hafren Dyfrdwy,Sewerage company,0
-E14001600,Wycombe,TMS,Thames Water,Sewerage company,0
-E14001601,Wyre Forest,SVE,Severn Trent Water,Sewerage company,0
-E14001602,Wythenshawe and Sale East,UUW,United Utilities,Sewerage company,0
-E14001603,Yeovil,WSX,Wessex Water,Sewerage company,0
-E14001603,Yeovil,SBB,South West Water,Sewerage company,0
-W07000112,Ynys Môn,WSH,Dŵr Cymru,Sewerage company,0
-E14001604,York Central,YKY,Yorkshire Water,Sewerage company,0
-E14001605,York Outer,YKY,Yorkshire Water,Sewerage company,0
+E14001581,Weston-Super-Mare,WSX,Wessex Water,Sewerage company,100
+E14001582,Wetherby and Easingwold,YKY,Yorkshire Water,Sewerage company,100
+E14001583,Whitehaven and Workington,UUW,United Utilities,Sewerage company,100
+E14001584,Widnes and Halewood,UUW,United Utilities,Sewerage company,100
+E14001585,Wigan,UUW,United Utilities,Sewerage company,100
+E14001586,Wimbledon,TMS,Thames Water,Sewerage company,100
+E14001587,Winchester,SRN,Southern Water,Sewerage company,100
+E14001588,Windsor,TMS,Thames Water,Sewerage company,100
+E14001589,Wirral West,UUW,United Utilities,Sewerage company,90.8
+E14001589,Wirral West,WSH,Dŵr Cymru,Sewerage company,9.2
+E14001590,Witham,ANH,Anglian Water,Sewerage company,100
+E14001591,Witney,TMS,Thames Water,Sewerage company,100
+E14001592,Woking,TMS,Thames Water,Sewerage company,100
+E14001593,Wokingham,TMS,Thames Water,Sewerage company,100
+E14001594,Wolverhampton North East,SVE,Severn Trent Water,Sewerage company,100
+E14001595,Wolverhampton South East,SVE,Severn Trent Water,Sewerage company,100
+E14001596,Wolverhampton West,SVE,Severn Trent Water,Sewerage company,100
+E14001597,Worcester,SVE,Severn Trent Water,Sewerage company,100
+E14001598,Worsley and Eccles,UUW,United Utilities,Sewerage company,100
+E14001599,Worthing West,SRN,Southern Water,Sewerage company,100
+W07000111,Wrexham,WSH,Dŵr Cymru,Sewerage company,99.6
+W07000111,Wrexham,HDD,Hafren Dyfrdwy,Sewerage company,0.4
+E14001600,Wycombe,TMS,Thames Water,Sewerage company,100
+E14001601,Wyre Forest,SVE,Severn Trent Water,Sewerage company,100
+E14001602,Wythenshawe and Sale East,UUW,United Utilities,Sewerage company,100
+E14001603,Yeovil,WSX,Wessex Water,Sewerage company,95.3
+E14001603,Yeovil,SBB,South West Water,Sewerage company,4.7
+W07000112,Ynys Môn,WSH,Dŵr Cymru,Sewerage company,100
+E14001604,York Central,YKY,Yorkshire Water,Sewerage company,100
+E14001605,York Outer,YKY,Yorkshire Water,Sewerage company,100
