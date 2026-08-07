@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_08_04_073154) do
+ActiveRecord::Schema[8.1].define(version: 2026_08_06_232251) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
   enable_extension "pg_stat_statements"
@@ -134,6 +134,14 @@ ActiveRecord::Schema[8.1].define(version: 2026_08_04_073154) do
     t.string "name", limit: 255, null: false
     t.index ["constituency_area_id"], name: "index_constituency_groups_on_constituency_area_id"
     t.index ["constituency_group_set_id"], name: "index_constituency_groups_on_constituency_group_set_id"
+  end
+
+  create_table "constituency_responsibilities", force: :cascade do |t|
+    t.integer "constituency_area_id"
+    t.datetime "created_at", null: false
+    t.integer "organisation_id"
+    t.integer "responsibility_id"
+    t.datetime "updated_at", null: false
   end
 
   create_table "countries", id: :serial, force: :cascade do |t|
@@ -296,6 +304,12 @@ ActiveRecord::Schema[8.1].define(version: 2026_08_04_073154) do
     t.integer "political_party_id", null: false
     t.date "political_party_name_last_updated_on"
     t.date "start_on", null: false
+  end
+
+  create_table "responsibilities", force: :cascade do |t|
+    t.datetime "created_at", null: false
+    t.string "label", limit: 255
+    t.datetime "updated_at", null: false
   end
 
   create_table "result_summaries", id: :serial, force: :cascade do |t|
