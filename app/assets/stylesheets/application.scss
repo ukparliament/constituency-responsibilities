@@ -2,7 +2,18 @@
 
 /* Styling for main navigation active states */
 body.section-constituencies nav#header-nav a.constituencies,
+body.section-responsibilities nav#header-nav a.responsibilities,
 body.section-organisations nav#header-nav a.organisations,
 body.section-organisation-types nav#header-nav a.organisation-types {
 	border-bottom-color: #fff;
+}
+
+
+/* Styling for sub navigation active states */
+body.subsection-responsibilities .subnav a.responsibilities,
+body.subsection-overlaps .subnav a.overlaps,
+body.subsection-subsidiaries .subnav a.subsidiaries,
+body.subsection-types .subnav a.types {
+	border-bottom-color: #006e45;
+	color: #4d4d4d;
 }

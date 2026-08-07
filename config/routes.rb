@@ -24,12 +24,27 @@ Rails.application.routes.draw do
   
   get 'constituencies' => 'constituency#index', as: :constituency_list
   get 'constituencies/:constituency' => 'constituency#show', as: :constituency_show
+
+  get 'constituencies/:constituency/responsibilities' => 'constituency_responsibility#index', as: :constituency_responsibility_list
+    
+  get 'constituencies/:constituency/overlaps' => 'constituency_overlap#index', as: :constituency_overlap_list
+  
+  get 'responsibilities' => 'responsibility#index', as: :responsibility_list
+  get 'responsibilities/:responsibility' => 'responsibility#show', as: :responsibility_show
   
   get 'organisation-types' => 'organisation_type#index', as: :organisation_type_list
   get 'organisation-types/:organisation_type' => 'organisation_type#show', as: :organisation_type_show
   
   get 'organisations' => 'organisation#index', as: :organisation_list
   get 'organisations/:organisation' => 'organisation#show', as: :organisation_show
+
+  get 'organisations/:organisation/responsibilities' => 'organisation_responsibility#index', as: :organisation_responsibility_list
+    
+  get 'organisations/:organisation/overlaps' => 'organisation_overlap#index', as: :organisation_overlap_list
+    
+  get 'organisations/:organisation/subsidiaries' => 'organisation_subsidiary#index', as: :organisation_subsidiary_list
+    
+  get 'organisations/:organisation/types' => 'organisation_having_type#index', as: :organisation_having_type_list
   
   get 'procedure-browser/meta/cookies' => 'meta#cookies', as: :meta_cookies
 end

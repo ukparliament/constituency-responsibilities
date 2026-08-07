@@ -1,33 +1,6 @@
-class ConstituencyController < ApplicationController
+class ConstituencyResponsibilityController < ApplicationController
 
   def index
-    @countries = Country.find_by_sql(
-      "
-        SELECT c.*
-        FROM countries c, constituency_areas ca
-        WHERE c.id = ca.country_id
-        GROUP BY c.id
-        ORDER BY c.name
-      "
-    )
-    
-    @constituencies = ConstituencyArea.find_by_sql(
-      "
-        SELECT ca.*
-        FROM constituency_areas ca, boundary_sets bs
-        WHERE ca.boundary_set_id = bs.id
-        AND bs.end_on IS NULL
-        ORDER BY ca.name
-      "
-    )
-    
-    @page_title = "Constituencies"
-    @description = "Constituencies."
-    @crumb << { label: @page_title, url: nil }
-    @section = 'constituencies'
-  end
-  
-  def show
     constituency = params[:constituency]
     @constituency = ConstituencyArea.find_by_sql(
       [
@@ -142,10 +115,9 @@ class ConstituencyController < ApplicationController
     @multiline_page_title = "#{@constituency.name} <span class='subhead'>Responsibilites</span>".html_safe
     @description = "#{@constituency.name} organisational responsibilities."
     @crumb << { label: 'Constituencies', url: constituency_list_url }
-    @crumb << { label: @constituency.name, url: nil }
+    @crumb << { label: @page_title, url: constituency_show_url }
+    @crumb << { label: 'Responsibilities', url: nil }
     @section = 'constituencies'
     @subsection = 'responsibilities'
-    
-    render :template => 'constituency_responsibility/index'
   end
 end

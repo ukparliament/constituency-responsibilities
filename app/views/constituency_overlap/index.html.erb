@@ -1,9 +1,6 @@
-<%= content_tag( 'p', constituency_geographic_description( @constituency ).html_safe ) %>
+<%= render :partial => 'constituency/header' %>
 
-<div class="highlight highlight-info">
-	<%= content_tag( 'p', constituency_last_election_description( @election ).html_safe ) %>
-</div>
-
+<%= render :partial => 'constituency/subnav' %>
 
 <% unless @organisations.empty? -%>
 	<%= list_item_count_sentence( 'organisation', @organisations.size ) %>

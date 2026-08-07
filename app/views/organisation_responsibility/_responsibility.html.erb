@@ -1,0 +1,1 @@
+<%= content_tag( 'li', "Responsible for #{link_to( responsibility.responsibility_label.downcase, responsibility_show_url( :responsibility => responsibility.responsibility_id ) )} in #{link_to( responsibility.constituency_name, constituency_show_url( :constituency => responsibility.constituency_area_id))}".html_safe ) %>

@@ -1,0 +1,3 @@
+<% if @parent_organisation -%>
+	<%= content_tag( 'p', "A subsidiary of: #{link_to(@parent_organisation.label, organisation_show_url( :organisation => @parent_organisation ) )}.".html_safe ) %>
+<% end -%>

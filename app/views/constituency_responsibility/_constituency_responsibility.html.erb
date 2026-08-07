@@ -1,0 +1,1 @@
+<%= content_tag( 'li', "#{link_to( constituency_responsibility.responsibility_label, responsibility_show_url( :responsibility => constituency_responsibility.responsibility_id ))} is the responsibility of #{link_to( constituency_responsibility.organisation_label, organisation_show_url( :organisation => constituency_responsibility.organisation_id) )}".html_safe ) %>

@@ -1,0 +1,6 @@
+<%= render 'library_design/subnav/subnav' do %>
+	<%= link_to( 'Responsibilities', organisation_show_url, :class => 'responsibilities' ) %>
+	<%= link_to( 'Overlaps', organisation_overlap_list_url, :class => 'overlaps' ) %>
+	<%= link_to( 'Subsidiaries', organisation_subsidiary_list_url, :class => 'subsidiaries' ) %>
+	<%= link_to( 'Types', organisation_having_type_list_url, :class => 'types' ) %>
+<% end %>

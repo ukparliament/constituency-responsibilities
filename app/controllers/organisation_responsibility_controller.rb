@@ -1,15 +1,6 @@
-class OrganisationController < ApplicationController
+class OrganisationResponsibilityController < ApplicationController
 
   def index
-    @organisations = Organisation.all.order( 'label' )
-    
-    @page_title = "Organisations"
-    @description = "Organisations."
-    @crumb << { label: @page_title, url: nil }
-    @section = 'organisations'
-  end
-  
-  def show
     organisation = params[:organisation]
     @organisation = Organisation.find( organisation )
     
@@ -40,10 +31,9 @@ class OrganisationController < ApplicationController
     @multiline_page_title = "#{@organisation.label} <span class='subhead'>Constituency responsibilities</span>".html_safe
     @description = "#{@organisation.label} constituency responsibilities."
     @crumb << { label: 'Organisations', url: organisation_list_url }
-    @crumb << { label: @organisation.label, url: nil }
+    @crumb << { label: @organisation.label, url: organisation_show_url }
+    @crumb << { label: 'Responsibilities', url: nil }
     @section = 'organisations'
     @subsection = 'responsibilities'
-    
-    render :template => 'organisation_responsibility/index'
   end
 end

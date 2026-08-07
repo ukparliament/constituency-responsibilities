@@ -1,0 +1,7 @@
+<%= render :partial => 'organisation/parent' %>
+
+<%= render :partial => 'organisation/subnav' %>
+
+<ol class="unnumbered link-list">
+	<%= render :partial => 'organisation_responsibility/responsibility', :collection => @responsibilities %>
+</ol>

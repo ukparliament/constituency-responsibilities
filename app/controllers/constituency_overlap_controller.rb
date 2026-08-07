@@ -1,33 +1,6 @@
-class ConstituencyController < ApplicationController
+class ConstituencyOverlapController < ApplicationController
 
   def index
-    @countries = Country.find_by_sql(
-      "
-        SELECT c.*
-        FROM countries c, constituency_areas ca
-        WHERE c.id = ca.country_id
-        GROUP BY c.id
-        ORDER BY c.name
-      "
-    )
-    
-    @constituencies = ConstituencyArea.find_by_sql(
-      "
-        SELECT ca.*
-        FROM constituency_areas ca, boundary_sets bs
-        WHERE ca.boundary_set_id = bs.id
-        AND bs.end_on IS NULL
-        ORDER BY ca.name
-      "
-    )
-    
-    @page_title = "Constituencies"
-    @description = "Constituencies."
-    @crumb << { label: @page_title, url: nil }
-    @section = 'constituencies'
-  end
-  
-  def show
     constituency = params[:constituency]
     @constituency = ConstituencyArea.find_by_sql(
       [
@@ -116,36 +89,31 @@ class ConstituencyController < ApplicationController
         ", @constituency, Date.today
       ]
     ).first
-    
-    @constituency_responsibilities = ConstituencyResponsibility.find_by_sql(
+  
+    @organisations = Organisation.find_by_sql(
       [
         "
           SELECT
-            cr.*,
-            r.label AS responsibility_label,
-            o.label AS organisation_label
-          FROM
-            constituency_responsibilities cr,
-            responsibilities r,
-            organisations o
-          WHERE cr.responsibility_id = r.id
-          AND cr.organisation_id = o.id
-          AND cr.constituency_area_id = ?
-          ORDER BY
-            r.label,
-            o.label
+            o.*,
+            caoo.constituency_area_population_overlap,
+            ot.id AS organisation_type_id,
+            ot.label AS organisation_type_label
+          FROM organisations o, constituency_area_organisation_overlaps caoo, organisation_types ot
+          WHERE o.id = caoo.organisation_id
+          AND caoo.constituency_area_id = ?
+          AND caoo.organisation_type_id = ot.id
+          ORDER BY o.label
         ", @constituency
-      ]
+      ] 
     )
-    
-    @page_title = "#{@constituency.name} - responsibilities"
-    @multiline_page_title = "#{@constituency.name} <span class='subhead'>Responsibilites</span>".html_safe
-    @description = "#{@constituency.name} organisational responsibilities."
+  
+    @page_title = "#{@constituency.name} - overlaps"
+    @multiline_page_title = "#{@constituency.name} <span class='subhead'>Overlaps</span>".html_safe
+    @description = "#{@constituency.name} organisational overlaps."
     @crumb << { label: 'Constituencies', url: constituency_list_url }
-    @crumb << { label: @constituency.name, url: nil }
+    @crumb << { label: @constituency.name, url: constituency_show_url }
+    @crumb << { label: 'Overlaps', url: nil }
     @section = 'constituencies'
-    @subsection = 'responsibilities'
-    
-    render :template => 'constituency_responsibility/index'
+    @subsection = 'overlaps'
   end
 end
