@@ -13,43 +13,37 @@ class OrganisationController < ApplicationController
     organisation = params[:organisation]
     @organisation = Organisation.find( organisation )
     
-    @subsidiary_organisations = Organisation.where( "parent_organisation_id = ?", @organisation.id )
-    
-    @organisation_types = OrganisationType.find_by_sql(
+    @responsibilities = ConstituencyResponsibility.find_by_sql(
       [
         "
-          SELECT ot.*
-          FROM organisation_types ot, organisation_typings ott
-          WHERE ot.id = ott.organisation_type_id
-          AND ott.organisation_id = ?
-          ORDER BY ot.label
+          SELECT
+            cr.*,
+            ca.name AS constituency_name,
+            r.label AS responsibility_label
+          FROM
+            constituency_responsibilities cr,
+            constituency_areas ca,
+            responsibilities r
+          WHERE cr.responsibility_id = r.id
+          AND cr.constituency_area_id = ca.id
+          AND cr.organisation_id = ?
+          ORDER BY
+            r.label,
+            ca.name
         ", @organisation
       ]
     )
     
     @parent_organisation = Organisation.find( @organisation.parent_organisation_id ) if @organisation.parent_organisation_id
     
-    @constituencies = ConstituencyArea.find_by_sql(
-      [
-        "
-          SELECT
-            ca.*,
-            caoo.constituency_area_population_overlap,
-            ot.id AS organisation_type_id,
-            ot.label AS organisation_type_label
-          FROM constituency_areas ca, constituency_area_organisation_overlaps caoo, organisation_types ot
-          WHERE ca.id = caoo.constituency_area_id
-          AND caoo.organisation_type_id = ot.id
-          AND caoo.organisation_id = ?
-          ORDER BY ca.name
-        ", @organisation
-      ] 
-    )
-    
-    @page_title = @organisation.label
-    @description = "#{@organisation.label}."
+    @page_title = "#{@organisation.label} - responsibilities"
+    @multiline_page_title = "#{@organisation.label} <span class='subhead'>Constituency responsibilities</span>".html_safe
+    @description = "#{@organisation.label} constituency responsibilities."
     @crumb << { label: 'Organisations', url: organisation_list_url }
-    @crumb << { label: @page_title, url: nil }
+    @crumb << { label: @organisation.label, url: nil }
     @section = 'organisations'
+    @subsection = 'responsibilities'
+    
+    render :template => 'organisation_responsibility/index'
   end
 end

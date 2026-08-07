@@ -39,30 +39,30 @@ class ConstituencyController < ApplicationController
             region.id AS region_id,
             region.name AS region_name
           FROM constituency_areas ca
-          
+        
           INNER JOIN (
             SELECT *
             FROM constituency_area_types
           ) AS constituency_area_type
           ON constituency_area_type.id = ca.constituency_area_type_id
-          
+        
           INNER JOIN (
             SELECT *
             FROM countries
           ) AS country
           ON country.id = ca.country_id
-          
+        
           LEFT JOIN (
             SELECT *
             FROM english_regions
           ) AS region
           ON region.id = ca.english_region_id
-          
+        
           WHERE ca.id = ?
         ", constituency
       ]
     ).first
-    
+  
     @election = Election.find_by_sql(
       [
         "
@@ -77,14 +77,14 @@ class ConstituencyController < ApplicationController
             main_party.mnis_id AS winning_candidacy_main_party_mnis_id,
             adjunct_party.name AS winning_candidacy_adjunct_party_name
           FROM elections e
-          
+        
           INNER JOIN (
             SELECT *
             FROM constituency_groups cg
             WHERE cg.constituency_area_id = ?
           ) AS constituency_group
           ON constituency_group.id = e.constituency_group_id
-          
+        
           INNER JOIN (
             SELECT cand.*, m.mnis_id
             FROM candidacies AS cand, members m
@@ -92,7 +92,7 @@ class ConstituencyController < ApplicationController
             AND cand.member_id = m.id
           ) AS winning_candidacy
           ON winning_candidacy.election_id = e.id
-          
+        
           LEFT JOIN (
             SELECT pp.*, cert.candidacy_id AS candidacy_id
             FROM political_parties pp, certifications cert
@@ -100,7 +100,7 @@ class ConstituencyController < ApplicationController
             AND cert.adjunct_to_certification_id IS NULL
           ) AS main_party
           ON main_party.candidacy_id = winning_candidacy.id
-          
+        
           LEFT JOIN (
             SELECT pp.*, cert.candidacy_id AS candidacy_id
             FROM political_parties pp, certifications cert
@@ -108,36 +108,44 @@ class ConstituencyController < ApplicationController
             AND cert.adjunct_to_certification_id IS NOT NULL
           ) AS adjunct_party
           ON adjunct_party.candidacy_id = winning_candidacy.id
-          
+        
           WHERE e.is_notional IS FALSE
           AND e.polling_on < ?
           ORDER BY e.polling_on DESC
-          
+        
         ", @constituency, Date.today
       ]
     ).first
     
-    @organisations = Organisation.find_by_sql(
+    @constituency_responsibilities = ConstituencyResponsibility.find_by_sql(
       [
         "
           SELECT
-            o.*,
-            caoo.constituency_area_population_overlap,
-            ot.id AS organisation_type_id,
-            ot.label AS organisation_type_label
-          FROM organisations o, constituency_area_organisation_overlaps caoo, organisation_types ot
-          WHERE o.id = caoo.organisation_id
-          AND caoo.constituency_area_id = ?
-          AND caoo.organisation_type_id = ot.id
-          ORDER BY o.label
+            cr.*,
+            r.label AS responsibility_label,
+            o.label AS organisation_label
+          FROM
+            constituency_responsibilities cr,
+            responsibilities r,
+            organisations o
+          WHERE cr.responsibility_id = r.id
+          AND cr.organisation_id = o.id
+          AND cr.constituency_area_id = ?
+          ORDER BY
+            r.label,
+            o.label
         ", @constituency
-      ] 
+      ]
     )
     
-    @page_title = @constituency.name
-    @description = "#{@constituency.name}."
+    @page_title = "#{@constituency.name} - responsibilities"
+    @multiline_page_title = "#{@constituency.name} <span class='subhead'>Responsibilites</span>".html_safe
+    @description = "#{@constituency.name} organisational responsibilities."
     @crumb << { label: 'Constituencies', url: constituency_list_url }
-    @crumb << { label: @page_title, url: nil }
+    @crumb << { label: @constituency.name, url: nil }
     @section = 'constituencies'
+    @subsection = 'responsibilities'
+    
+    render :template => 'constituency_responsibility/index'
   end
 end
