@@ -1,0 +1,10 @@
+<%= render :partial => 'constituency/header' %>
+
+<%= render :partial => 'constituency/subnav' %>
+
+<% unless @constituency_responsibilities.empty? -%>
+	<%= list_item_count_sentence( 'responsibility', @constituency_responsibilities.size ) %>
+	<ol class="unnumbered link-list">
+		<%= render :partial => 'constituency_responsibility/constituency_responsibility', :collection => @constituency_responsibilities %>
+	</ol>
+<% end -%>

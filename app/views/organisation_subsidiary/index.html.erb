@@ -1,0 +1,11 @@
+<%= render :partial => 'organisation/parent' %>
+
+<%= render :partial => 'organisation/subnav' %>
+
+<% unless @subsidiary_organisations.empty? %>
+	<ol class="unnumbered link-list">
+		<%= render :partial => 'organisation/organisation', :collection => @subsidiary_organisations %>
+	</ol>
+<% else -%>
+	<%= content_tag( 'p', "#{@organisation.label} has no listed subsidiaries." ) %>
+<% end -%>
