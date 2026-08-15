@@ -11,7 +11,15 @@ module ConstituencyHelper
     constituency_geographic_description += link_to( constituency.country_name, constituency_country_show_url( :country => constituency.country_id ) )
     constituency_geographic_description += ' with geographic code '
     constituency_geographic_description += constituency.geographic_code
-    constituency_geographic_description += '.'
+    constituency_geographic_description += '. Service provision data for '
+    constituency_geographic_description += constituency.name
+    constituency_geographic_description += ' is available alongside '
+    constituency_geographic_description += link_to( 'maps of organisation overlaps', "https://commonslibrary.parliament.uk/research-briefings/cbp-10872/?conSelect=%22#{constituency.name}%22" )
+    constituency_geographic_description += ' on the House of Commons Library website.'
+    
+    
+    
+    
   end
   
   def constituency_last_election_description( election )
