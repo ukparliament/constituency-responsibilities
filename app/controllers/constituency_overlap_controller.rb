@@ -102,7 +102,7 @@ class ConstituencyOverlapController < ApplicationController
           WHERE o.id = caoo.organisation_id
           AND caoo.constituency_area_id = ?
           AND caoo.organisation_type_id = ot.id
-          ORDER BY o.label
+          ORDER BY ot.label, o.label
         ", @constituency
       ] 
     )
