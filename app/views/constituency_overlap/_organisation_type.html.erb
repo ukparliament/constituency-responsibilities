@@ -1,0 +1,26 @@
+<% if organisation_type == organisations.first -%>
+	<div id="<%= organisation_type.organisation_type_label.gsub( ' ', '-' ).downcase %>">
+		<%= content_tag( 'h2', organisation_type.organisation_type_label ) %>
+		<ol class="unnumbered link-list">
+			<%= render :partial => 'constituency_overlap/organisation', :object => organisation_type %>
+			
+<% else -%>
+	
+	<% if organisation_type.organisation_type_label != organisations[organisation_type_counter - 1].organisation_type_label -%>
+	
+				</ol>
+			</div>
+		<div id="<%= organisation_type.organisation_type_label.gsub( ' ', '-' ).downcase %>">
+		<%= content_tag( 'h2', organisation_type.organisation_type_label ) %>
+		<ol class="unnumbered link-list">
+			<%= render :partial => 'constituency_overlap/organisation', :object => organisation_type %>
+			
+	<% else -%>
+		<%= render :partial => 'constituency_overlap/organisation', :object => organisation_type %>
+	<% end -%>
+		
+	<% if organisation_type == organisations.last -%>
+			</ol>
+		</div>
+	<% end -%>
+<% end -%>

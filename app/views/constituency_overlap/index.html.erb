@@ -4,8 +4,6 @@
 
 <% unless @organisations.empty? -%>
 	<%= list_item_count_sentence( 'organisation', @organisations.size ) %>
-	<ol class="unnumbered link-list">
-		<%= render :partial => 'organisation', :collection => @organisations %>
-	</ol>
+	<%= render :partial => 'organisation_type', :collection => @organisations, locals: { organisations: @organisations } %>
 	<%= content_tag( 'p', "Where percentage figures are not given, it is known that some members of the population of the constituency are covered by the organisation, but that area is too small to produce a population estimate using the standard methods." ) %>
 <% end -%>

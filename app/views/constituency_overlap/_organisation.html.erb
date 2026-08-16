@@ -1,5 +1,5 @@
 <% if organisation.constituency_area_population_overlap > 0 %>
-	<%= content_tag( 'li', "#{link_to( organisation.label, organisation_show_url( :organisation => organisation ) )} covers #{organisation.constituency_area_population_overlap}% of the population of #{@constituency.name} as a #{link_to( organisation.organisation_type_label, organisation_type_show_url( :organisation_type => organisation.organisation_type_id ))}".html_safe ) %>
+	<%= content_tag( 'li', "#{link_to( organisation.label, organisation_show_url( :organisation => organisation ) )} covers #{organisation.constituency_area_population_overlap}% of the population".html_safe ) %>
 <% else -%>
-	<%= content_tag( 'li', "#{link_to( organisation.label, organisation_show_url( :organisation => organisation ) )} covers a part of the population of #{@constituency.name} as a #{link_to( organisation.organisation_type_label, organisation_type_show_url( :organisation_type => organisation.organisation_type_id ))}".html_safe ) %>
+	<%= content_tag( 'li', "#{link_to( organisation.label, organisation_show_url( :organisation => organisation ) )} covers a part of the population".html_safe ) %>
 <% end -%>
