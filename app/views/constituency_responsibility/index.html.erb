@@ -4,7 +4,5 @@
 
 <% unless @constituency_responsibilities.empty? -%>
 	<%= list_item_count_sentence( 'responsibility', @constituency_responsibilities.size ) %>
-	<ol class="unnumbered link-list">
-		<%= render :partial => 'constituency_responsibility/constituency_responsibility', :collection => @constituency_responsibilities %>
-	</ol>
+	<%= render :partial => 'constituency_responsibility/responsibility', :collection => @constituency_responsibilities, locals: { constituency_responsibilities: @constituency_responsibilities } %>
 <% end -%>

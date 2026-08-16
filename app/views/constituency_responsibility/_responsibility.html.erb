@@ -1,0 +1,26 @@
+<% if responsibility == constituency_responsibilities.first -%>
+	<div id="<%= responsibility.responsibility_label.gsub( ' ', '-' ).downcase %>">
+		<%= content_tag( 'h2', responsibility.responsibility_label ) %>
+		<ol class="unnumbered link-list">
+			<%= render :partial => 'constituency_responsibility/constituency_responsibility', :object => responsibility %>
+			
+<% else -%>
+	
+	<% if responsibility.responsibility_label != constituency_responsibilities[responsibility_counter - 1].responsibility_label -%>
+	
+				</ol>
+			</div>
+		<div id="<%= responsibility.responsibility_label.gsub( ' ', '-' ).downcase %>">
+		<%= content_tag( 'h2', responsibility.responsibility_label ) %>
+		<ol class="unnumbered link-list">
+			<%= render :partial => 'constituency_responsibility/constituency_responsibility', :object => responsibility %>
+			
+	<% else -%>
+		<%= render :partial => 'constituency_responsibility/constituency_responsibility', :object => responsibility %>
+	<% end -%>
+		
+	<% if responsibility == constituency_responsibilities.last -%>
+			</ol>
+		</div>
+	<% end -%>
+<% end -%>
