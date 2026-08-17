@@ -102,11 +102,61 @@ end
 task :backfill_northern_ireland_overlaps => :environment do
   puts "backfilling Northern Ireland overlaps"
   
-              # TODO: create an organisation type for the Electoral Office of Northern Ireland.
-              # Electoral Authorities / Electoral Service / ???
+  # We attempt to find an organisation type of Electoral Authorities.
+  organisation_type = OrganisationType.find_by_label( 'Electoral Authorities' )
   
-              # TODO: create an organisation type for the Northern Ireland Executive.
-              # Devolved governments / Devolved executives / ???
+  # Unless we find an organisation type of Electoral Authorities ...
+  unless organisation_type
+  
+    # ... we create it.
+    organisation_type = OrganisationType.new
+    organisation_type.label = 'Electoral Authorities'
+    organisation_type.save!
+  end
+  
+  # We attempt to find an organisation typing of the Electoral Office of Northern Ireland as an Electoral Authority.
+  organisation_typing = OrganisationTyping
+    .where( 'organisation_id = ?', 955 )
+    .where( 'organisation_type_id = ?', organisation_type.id )
+    .first
+  
+  # Unless we find an organisation typing of the Electoral Office of Northern Ireland as an Electoral Authority ...
+  unless organisation_typing
+  
+    # ... we create it.
+    organisation_typing = OrganisationTyping.new
+    organisation_typing.organisation_id = 955
+    organisation_typing.organisation_type_id = organisation_type.id
+    organisation_typing.save!
+  end
+  
+  # We attempt to find an organisation type of Devolved governments.
+  organisation_type = OrganisationType.find_by_label( 'Devolved governments' )
+  
+  # Unless we find an organisation type of Devolved governments ...
+  unless organisation_type
+  
+    # ... we create it.
+    organisation_type = OrganisationType.new
+    organisation_type.label = 'Devolved governments'
+    organisation_type.save!
+  end
+  
+  # We attempt to find an organisation typing of the Northern Ireland Executive as a devolved government.
+  organisation_typing = OrganisationTyping
+    .where( 'organisation_id = ?', 954 )
+    .where( 'organisation_type_id = ?', organisation_type.id )
+    .first
+  
+  # Unless we find an organisation typing of the Northern Ireland Executive as a devolved government ...
+  unless organisation_typing
+  
+    # ... we create it.
+    organisation_typing = OrganisationTyping.new
+    organisation_typing.organisation_id = 954
+    organisation_typing.organisation_type_id = organisation_type.id
+    organisation_typing.save!
+  end
               
   # We attempt to find an organisation typing for the Northern Ireland Fire and Rescue Service.
   organisation_typing = OrganisationTyping
@@ -140,12 +190,6 @@ task :backfill_northern_ireland_overlaps => :environment do
     organisation_typing.save!
   end
   
-          #Electoral Office of Northern Ireland
-          #955 / ????
-  
-          #Northern Ireland Executive
-          #954 / ???
-  
   # We get all the current constituencies in Northern Ireland.
   constituencies = ConstituencyArea.find_by_sql(
     "
@@ -164,6 +208,8 @@ task :backfill_northern_ireland_overlaps => :environment do
       FROM organisations o
       WHERE label = 'Northern Ireland Fire and Rescue Service'
       OR label = 'Police Service of Northern Ireland'
+      OR label = 'Electoral Office of Northern Ireland'
+      OR label = 'Northern Ireland Executive'
     "
   )
   
