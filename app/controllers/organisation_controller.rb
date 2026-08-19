@@ -19,13 +19,16 @@ class OrganisationController < ApplicationController
           SELECT
             cr.*,
             ca.name AS constituency_name,
-            r.label AS responsibility_label
+            r.label AS responsibility_label,
+            caoo.constituency_area_population_overlap AS population_overlap
           FROM
             constituency_responsibilities cr,
             constituency_areas ca,
-            responsibilities r
+            responsibilities r,
+            constituency_area_organisation_overlaps caoo
           WHERE cr.responsibility_id = r.id
           AND cr.constituency_area_id = ca.id
+          AND cr.constituency_area_organisation_overlap_id = caoo.id
           AND cr.organisation_id = ?
           ORDER BY
             r.label,
