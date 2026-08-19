@@ -10,4 +10,5 @@
 #  parent_organisation_id :integer
 #
 class Organisation < ApplicationRecord
+  has_many :organisation_typings
 end
