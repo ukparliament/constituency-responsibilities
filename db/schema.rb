@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_08_06_232251) do
+ActiveRecord::Schema[8.1].define(version: 2026_08_18_202225) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
   enable_extension "pg_stat_statements"
@@ -138,6 +138,7 @@ ActiveRecord::Schema[8.1].define(version: 2026_08_06_232251) do
 
   create_table "constituency_responsibilities", force: :cascade do |t|
     t.integer "constituency_area_id"
+    t.integer "constituency_area_organisation_overlap_id"
     t.datetime "created_at", null: false
     t.integer "organisation_id"
     t.integer "responsibility_id"
