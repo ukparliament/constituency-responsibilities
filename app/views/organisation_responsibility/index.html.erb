@@ -7,3 +7,5 @@
 <ol class="unnumbered link-list">
 	<%= render :partial => 'organisation_responsibility/responsibility', :collection => @responsibilities %>
 </ol>
+
+<%= zero_percent_disclaimer( @responsibilities ) %>
