@@ -2,10 +2,10 @@
 
 <%= render :partial => 'constituency/subnav' %>
 
-<% unless @organisations.empty? -%>
-	<%= list_item_count_sentence( 'organisation', @organisations.size ) %>
+<% unless @constituency_area_organisation_overlaps.empty? -%>
+	<%= list_item_count_sentence( 'organisation', @constituency_area_organisation_overlaps.size ) %>
 	
-	<%= render :partial => 'organisation_type', :collection => @organisations, locals: { organisations: @organisations } %>
+	<%= render :partial => 'overlap', :collection => @constituency_area_organisation_overlaps, locals: { constituency_area_organisation_overlaps: @constituency_area_organisation_overlaps } %>
 	
-	<%= zero_percent_disclaimer( @organisations ) %>
+	<%= zero_percent_disclaimer( @constituency_area_organisation_overlaps ) %>
 <% end -%>
