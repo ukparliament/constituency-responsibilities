@@ -1,0 +1,26 @@
+<% if overlap == constituency_area_organisation_overlaps.first -%>
+	<div id="<%= overlap.organisation_label.gsub( ' ', '-' ).downcase %>">
+		<%= content_tag( 'h2', overlap.organisation_type_label ) %>
+		<ol class="unnumbered link-list">
+			<%= render :partial => 'constituency_overlap/constituency_overlap', :object => overlap %>
+			
+<% else -%>
+	
+	<% if overlap.organisation_type_label != constituency_area_organisation_overlaps[overlap_counter - 1].organisation_type_label -%>
+	
+			</ol>
+		</div>
+		<div id="<%= overlap.organisation_type_label.gsub( ' ', '-' ).downcase %>">
+			<%= content_tag( 'h2', overlap.organisation_type_label ) %>
+			<ol class="unnumbered link-list">
+				<%= render :partial => 'constituency_overlap/constituency_overlap', :object => overlap %>
+			
+	<% else -%>
+		<%= render :partial => 'constituency_overlap/constituency_overlap', :object => overlap %>
+	<% end -%>
+		
+	<% if overlap == constituency_area_organisation_overlaps.last -%>
+			</ol>
+		</div>
+	<% end -%>
+<% end -%>
