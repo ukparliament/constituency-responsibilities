@@ -1,5 +1,5 @@
-<% if constituency.constituency_area_population_overlap > 0 %>
-	<%= content_tag( 'li', "Covers #{constituency.constituency_area_population_overlap}% of the population of #{link_to( constituency.name, constituency_show_url( :constituency => constituency ) )} as a #{link_to( constituency.organisation_type_label, organisation_type_show_url( :organisation_type => constituency.organisation_type_id ) )}".html_safe ) %>
+<% if constituency.population_overlap > 0 %>
+	<%= content_tag( 'li', "Covers #{constituency.population_overlap}% of the population of #{link_to( constituency.name, constituency_show_url( :constituency => constituency ) )} as a #{link_to( constituency.organisation_type_label, organisation_type_show_url( :organisation_type => constituency.organisation_type_id ) )}".html_safe ) %>
 <% else -%>
 	<%= content_tag( 'li', "Covers a part of the population of #{link_to( constituency.name, constituency_show_url( :constituency => constituency ) )} as a #{link_to( constituency.organisation_type_label, organisation_type_show_url( :organisation_type => constituency.organisation_type_id ) )}".html_safe ) %>
 <% end -%>
