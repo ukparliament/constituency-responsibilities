@@ -90,16 +90,21 @@ class ConstituencyOverlapController < ApplicationController
       ]
     ).first
   
-    @organisations = Organisation.find_by_sql(
+    @constituency_area_organisation_overlaps = ConstituencyAreaOrganisationOverlap.find_by_sql(
       [
         "
           SELECT
-            o.*,
+            caoo.*,
             caoo.constituency_area_population_overlap AS population_overlap,
+            o.id AS organisation_id,
+            o.label AS organisation_label,
             ot.id AS organisation_type_id,
             ot.label AS organisation_type_label
-          FROM organisations o, constituency_area_organisation_overlaps caoo, organisation_types ot
-          WHERE o.id = caoo.organisation_id
+          FROM
+            constituency_area_organisation_overlaps caoo,
+            organisations o,
+            organisation_types ot
+          WHERE caoo.organisation_id = o.id
           AND caoo.constituency_area_id = ?
           AND caoo.organisation_type_id = ot.id
           ORDER BY ot.label, o.label

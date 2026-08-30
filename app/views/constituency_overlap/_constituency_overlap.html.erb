@@ -1,0 +1,5 @@
+<% if constituency_overlap.population_overlap > 0 %>
+	<%= content_tag( 'li', "#{link_to( constituency_overlap.organisation_label, organisation_show_url( :organisation => constituency_overlap ) )} covers #{constituency_overlap.population_overlap}% of the population".html_safe ) %>
+<% else -%>
+	<%= content_tag( 'li', "#{link_to( constituency_overlap.organisation_label, organisation_show_url( :organisation => constituency_overlap ) )} covers a part of the population".html_safe ) %>
+<% end -%>
