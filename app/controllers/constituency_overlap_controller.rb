@@ -95,7 +95,7 @@ class ConstituencyOverlapController < ApplicationController
         "
           SELECT
             o.*,
-            caoo.constituency_area_population_overlap,
+            caoo.constituency_area_population_overlap AS population_overlap,
             ot.id AS organisation_type_id,
             ot.label AS organisation_type_label
           FROM organisations o, constituency_area_organisation_overlaps caoo, organisation_types ot
