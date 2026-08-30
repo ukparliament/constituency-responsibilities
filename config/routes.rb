@@ -26,7 +26,7 @@ Rails.application.routes.draw do
   get 'constituencies/:constituency' => 'constituency#show', as: :constituency_show
 
   get 'constituencies/:constituency/responsibilities' => 'constituency_responsibility#index', as: :constituency_responsibility_list
-    
+  
   get 'constituencies/:constituency/overlaps' => 'constituency_overlap#index', as: :constituency_overlap_list
   
   get 'responsibilities' => 'responsibility#index', as: :responsibility_list
