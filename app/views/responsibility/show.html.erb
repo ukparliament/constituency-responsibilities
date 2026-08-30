@@ -2,3 +2,5 @@
 <ol class="unnumbered link-list">
 	<%= render :partial => 'constituency_responsibility', :collection => @constituency_responsibilities %>
 </ol>
+
+<%= zero_percent_disclaimer( @constituency_responsibilities ) %>
