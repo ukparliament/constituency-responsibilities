@@ -4,5 +4,8 @@
 
 <% unless @constituency_responsibilities.empty? -%>
 	<%= list_item_count_sentence( 'responsibility', @constituency_responsibilities.size ) %>
+	
 	<%= render :partial => 'constituency_responsibility/responsibility', :collection => @constituency_responsibilities, locals: { constituency_responsibilities: @constituency_responsibilities } %>
+	
+	<%= zero_percent_disclaimer( @constituency_responsibilities ) %>
 <% end -%>

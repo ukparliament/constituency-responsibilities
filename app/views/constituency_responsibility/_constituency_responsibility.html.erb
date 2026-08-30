@@ -1,1 +1,5 @@
-<%= content_tag( 'li', "#{link_to( constituency_responsibility.organisation_label, organisation_show_url( :organisation => constituency_responsibility.organisation_id ) )} are responsible for #{constituency_responsibility.population_overlap}% of the population".html_safe ) %>
+<% if constituency_responsibility.population_overlap > 0 %>
+	<%= content_tag( 'li', "#{link_to( constituency_responsibility.organisation_label, organisation_show_url( :organisation => constituency_responsibility.organisation_id ) )} are responsible for #{constituency_responsibility.population_overlap}% of the population".html_safe ) %>
+<% else -%>
+	<%= content_tag( 'li', "#{link_to( constituency_responsibility.organisation_label, organisation_show_url( :organisation => constituency_responsibility.organisation_id ) )} are responsible for a part of the population".html_safe ) %>
+<% end -%>
