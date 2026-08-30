@@ -9,7 +9,7 @@ class OrganisationOverlapController < ApplicationController
         "
           SELECT
             ca.*,
-            caoo.constituency_area_population_overlap,
+            caoo.constituency_area_population_overlap AS population_overlap,
             ot.id AS organisation_type_id,
             ot.label AS organisation_type_label
           FROM constituency_areas ca, constituency_area_organisation_overlaps caoo, organisation_types ot

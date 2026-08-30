@@ -28,17 +28,17 @@ task :apply_overlaps_to_responsibilities => :environment do
     
       # ... we store the organisation type ID.
       organisation_type_id = constituency_responsibility.organisation.organisation_typings.first.organisation_type.id
-    
-      # We find the constituency area organisation overlap of this constituency, for this organisation of this type.
-      constituency_area_organisation_overlap = ConstituencyAreaOrganisationOverlap
-        .where( 'constituency_area_id = ?', constituency_responsibility.constituency_area_id )
-        .where( 'organisation_id = ?', constituency_responsibility.organisation_id )
-        .where( 'organisation_type_id = ?', organisation_type_id )
-        .first
-        
-      # We apply the overlap to the responsibility.
-      constituency_responsibility.constituency_area_organisation_overlap = constituency_area_organisation_overlap
-      constituency_responsibility.save!
     end
+    
+    # We find the constituency area organisation overlap of this constituency, for this organisation of this type.
+    constituency_area_organisation_overlap = ConstituencyAreaOrganisationOverlap
+      .where( 'constituency_area_id = ?', constituency_responsibility.constituency_area_id )
+      .where( 'organisation_id = ?', constituency_responsibility.organisation_id )
+      .where( 'organisation_type_id = ?', organisation_type_id )
+      .first
+        
+    # We apply the overlap to the responsibility.
+    constituency_responsibility.constituency_area_organisation_overlap = constituency_area_organisation_overlap
+    constituency_responsibility.save!
   end
 end
