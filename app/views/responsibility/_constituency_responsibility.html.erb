@@ -1,1 +1,5 @@
-<%= content_tag( 'li', "#{link_to( constituency_responsibility.organisation_label, organisation_show_url( :organisation => constituency_responsibility.organisation_id ) )} has responsibility for #{constituency_responsibility.population_overlap}% of the population of #{link_to( constituency_responsibility.constituency_name, constituency_show_url( :constituency => constituency_responsibility.constituency_area_id))}".html_safe ) %>
+<% if constituency_responsibility.population_overlap > 0 %>
+	<%= content_tag( 'li', "#{link_to( constituency_responsibility.organisation_label, organisation_show_url( :organisation => constituency_responsibility.organisation_id ) )} has responsibility for #{constituency_responsibility.population_overlap}% of the population of #{link_to( constituency_responsibility.constituency_name, constituency_show_url( :constituency => constituency_responsibility.constituency_area_id))}".html_safe ) %>
+<% else -%>
+	<%= content_tag( 'li', "#{link_to( constituency_responsibility.organisation_label, organisation_show_url( :organisation => constituency_responsibility.organisation_id ) )} has responsibility for a part of the population of #{link_to( constituency_responsibility.constituency_name, constituency_show_url( :constituency => constituency_responsibility.constituency_area_id))}".html_safe ) %>
+<% end -%>
