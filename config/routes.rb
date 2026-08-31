@@ -46,6 +46,6 @@ Rails.application.routes.draw do
     
   get 'organisations/:organisation/types' => 'organisation_having_type#index', as: :organisation_having_type_list
   
-  get 'procedure-browser/meta' => 'meta#index', as: :meta_list
-  get 'procedure-browser/meta/cookies' => 'meta#cookies', as: :meta_cookies
+  get 'meta' => 'meta#index', as: :meta_list
+  get 'meta/cookies' => 'meta#cookies', as: :meta_cookies
 end
