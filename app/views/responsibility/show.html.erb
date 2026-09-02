@@ -1,5 +1,6 @@
 <%= responsibility_disclaimer %>
 <%= list_item_count_sentence( 'constituency responsibility', @constituency_responsibilities.size ) %>
+<%= render :partial => 'library_design/feeds/feeds' %>
 <ol class="unnumbered link-list">
 	<%= render :partial => 'constituency_responsibility', :collection => @constituency_responsibilities %>
 </ol>

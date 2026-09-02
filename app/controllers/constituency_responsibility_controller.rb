@@ -114,13 +114,21 @@ class ConstituencyResponsibilityController < ApplicationController
       ]
     )
     
-    @page_title = "#{@constituency.name} - responsibilities"
-    @multiline_page_title = "#{@constituency.name} <span class='subhead'>Responsibilites</span>".html_safe
-    @description = "#{@constituency.name} organisational responsibilities."
-    @crumb << { label: 'Constituencies', url: constituency_list_url }
-    @crumb << { label: @page_title, url: constituency_show_url }
-    @crumb << { label: 'Responsibilities', url: nil }
-    @section = 'constituencies'
-    @subsection = 'responsibilities'
+    respond_to do |format|
+      format.csv {
+        csv_response_headers( "#{@constituency.name} responsibilities" )
+      }
+      format.html {
+        @page_title = "#{@constituency.name} - responsibilities"
+        @multiline_page_title = "#{@constituency.name} <span class='subhead'>Responsibilites</span>".html_safe
+        @description = "#{@constituency.name} organisational responsibilities."
+        @csv_url = constituency_responsibility_list_url( :format => 'csv' )
+        @crumb << { label: 'Constituencies', url: constituency_list_url }
+        @crumb << { label: @page_title, url: constituency_show_url }
+        @crumb << { label: 'Responsibilities', url: nil }
+        @section = 'constituencies'
+        @subsection = 'responsibilities'
+      }
+    end
   end
 end

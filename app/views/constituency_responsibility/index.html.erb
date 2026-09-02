@@ -4,6 +4,8 @@
 
 <% unless @constituency_responsibilities.empty? -%>
 	<%= list_item_count_sentence( 'responsibility', @constituency_responsibilities.size ) %>
+
+	<%= render :partial => 'library_design/feeds/feeds' %>
 	
 	<%= render :partial => 'constituency_responsibility/responsibility', :collection => @constituency_responsibilities, locals: { constituency_responsibilities: @constituency_responsibilities } %>
 	

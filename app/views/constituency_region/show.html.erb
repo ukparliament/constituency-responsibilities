@@ -1,5 +1,6 @@
 <%= content_tag( 'h2', 'Constituency areas' ) %>
 <%= list_item_count_sentence( 'constituency area', @constituencies.size ) %>
+	<%= render :partial => 'library_design/feeds/feeds' %>
 <ol class="unnumbered link-list">
 	<%= render :partial => 'constituency/constituency', :collection => @constituencies %>
 </ol>

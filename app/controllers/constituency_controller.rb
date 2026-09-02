@@ -13,18 +13,53 @@ class ConstituencyController < ApplicationController
     
     @constituencies = ConstituencyArea.find_by_sql(
       "
-        SELECT ca.*
-        FROM constituency_areas ca, boundary_sets bs
-        WHERE ca.boundary_set_id = bs.id
-        AND bs.end_on IS NULL
+        SELECT
+          ca.*,
+          constituency_area_type.area_type AS type_label,
+          region.name AS region_name,
+          region.geographic_code AS region_geographic_code,
+          country.name AS country_name,
+          country.geographic_code AS country_geographic_code
+          
+        FROM constituency_areas ca
+        INNER JOIN (
+          SELECT *
+          FROM boundary_sets
+          WHERE end_on IS NULL
+        ) AS boundary_set
+        ON ca.boundary_set_id = boundary_set.id
+        INNER JOIN (
+          SELECT *
+          FROM constituency_area_types
+        ) AS constituency_area_type
+        ON ca.constituency_area_type_id = constituency_area_type.id
+        LEFT JOIN (
+          SELECT *
+          FROM english_regions
+        ) AS region
+        ON ca.english_region_id = region.id
+        INNER JOIN (
+          SELECT *
+          FROM countries
+        ) AS country
+        ON ca.country_id = country.id
         ORDER BY ca.name
       "
     )
     
-    @page_title = "Constituencies"
-    @description = "Constituencies."
-    @crumb << { label: @page_title, url: nil }
-    @section = 'constituencies'
+    respond_to do |format|
+      format.csv {
+        csv_response_headers( "constituencies" )
+        render :template => 'constituency/index'
+      }
+      format.html {
+        @page_title = "Constituencies"
+        @description = "Constituencies."
+        @csv_url = constituency_list_url( :format => 'csv' )
+        @crumb << { label: @page_title, url: nil }
+        @section = 'constituencies'
+      }
+    end
   end
   
   def show
@@ -144,6 +179,7 @@ class ConstituencyController < ApplicationController
     @page_title = "#{@constituency.name} - responsibilities"
     @multiline_page_title = "#{@constituency.name} <span class='subhead'>Responsibilites</span>".html_safe
     @description = "#{@constituency.name} organisational responsibilities."
+    @csv_url = constituency_responsibility_list_url( :format => 'csv' )
     @crumb << { label: 'Constituencies', url: constituency_list_url }
     @crumb << { label: @constituency.name, url: nil }
     @section = 'constituencies'

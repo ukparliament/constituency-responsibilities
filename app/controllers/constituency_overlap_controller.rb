@@ -111,14 +111,22 @@ class ConstituencyOverlapController < ApplicationController
         ", @constituency
       ] 
     )
-  
-    @page_title = "#{@constituency.name} - overlaps"
-    @multiline_page_title = "#{@constituency.name} <span class='subhead'>Overlaps</span>".html_safe
-    @description = "#{@constituency.name} organisational overlaps."
-    @crumb << { label: 'Constituencies', url: constituency_list_url }
-    @crumb << { label: @constituency.name, url: constituency_show_url }
-    @crumb << { label: 'Overlaps', url: nil }
-    @section = 'constituencies'
-    @subsection = 'overlaps'
+    
+    respond_to do |format|
+      format.csv {
+        csv_response_headers( "#{@constituency.name} overlaps" )
+      }
+      format.html {
+        @page_title = "#{@constituency.name} - overlaps"
+        @multiline_page_title = "#{@constituency.name} <span class='subhead'>Overlaps</span>".html_safe
+        @description = "#{@constituency.name} organisational overlaps."
+        @csv_url = constituency_overlap_list_url( :format => 'csv' )
+        @crumb << { label: 'Constituencies', url: constituency_list_url }
+        @crumb << { label: @constituency.name, url: constituency_show_url }
+        @crumb << { label: 'Overlaps', url: nil }
+        @section = 'constituencies'
+        @subsection = 'overlaps'
+      }
+    end
   end
 end

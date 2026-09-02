@@ -33,28 +33,62 @@ class ConstituencyRegionController < ApplicationController
     region = params[:region]
     @region = EnglishRegion.find( region )
     
-    @constituencies = ConstituencyArea.find_by_sql (
+    @constituencies = ConstituencyArea.find_by_sql(
       [
         "
-          SELECT ca.*
-          FROM constituency_areas ca, boundary_sets bs
+          SELECT
+            ca.*,
+            constituency_area_type.area_type AS type_label,
+            region.name AS region_name,
+            region.geographic_code AS region_geographic_code,
+            country.name AS country_name,
+            country.geographic_code AS country_geographic_code
+          
+          FROM constituency_areas ca
+          INNER JOIN (
+            SELECT *
+            FROM boundary_sets
+            WHERE end_on IS NULL
+          ) AS boundary_set
+          ON ca.boundary_set_id = boundary_set.id
+          INNER JOIN (
+            SELECT *
+            FROM constituency_area_types
+          ) AS constituency_area_type
+          ON ca.constituency_area_type_id = constituency_area_type.id
+          LEFT JOIN (
+            SELECT *
+            FROM english_regions
+          ) AS region
+          ON ca.english_region_id = region.id
+          LEFT JOIN (
+            SELECT *
+            FROM countries
+          ) AS country
+          ON ca.country_id = country.id
           WHERE ca.country_id = ?
           AND ca.english_region_id = ?
-          AND ca.boundary_set_id = bs.id
-          AND bs.end_on IS NULL
-          ORDER BY name
+          ORDER BY ca.name
         ", @country, @region
       ]
     )
-    
     raise ActionController::RoutingError.new('Not Found') if @constituencies.empty?
     
-    @page_title = "#{@country.name} - #{@region.name}"
-    @multiline_page_title = "#{@country.name} <span class='subhead'>#{@region.name}</span>".html_safe
-    @description = "#{@country.name}, #{@region.name}."
-    @crumb << { label: 'Constituencies', url: constituency_list_url }
-    @crumb << { label: @country.name, url: constituency_country_show_url }
-    @crumb << { label: 'Regions', url: nil }
-    @section = 'constituencies'
+    respond_to do |format|
+      format.csv {
+        csv_response_headers( "#{@country.name} #{@region.name} constituencies" )
+        render :template => 'constituency/index'
+      }
+      format.html {
+        @page_title = "#{@country.name} - #{@region.name}"
+        @multiline_page_title = "#{@country.name} <span class='subhead'>#{@region.name}</span>".html_safe
+        @description = "#{@country.name}, #{@region.name}."
+        @csv_url = constituency_region_show_url( :format => 'csv' )
+        @crumb << { label: 'Constituencies', url: constituency_list_url }
+        @crumb << { label: @country.name, url: constituency_country_show_url }
+        @crumb << { label: 'Regions', url: nil }
+        @section = 'constituencies'
+      }
+    end
   end
 end
