@@ -1,4 +1,5 @@
 <%= list_item_count_sentence( 'organisation type', @organisation_types.size ) %>
+<%= render :partial => 'library_design/feeds/feeds' %>
 <ol class="unnumbered link-list">
 	<%= render :partial => 'organisation_type', :collection => @organisation_types %>
 </ol>

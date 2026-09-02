@@ -3,10 +3,18 @@ class ResponsibilityController < ApplicationController
   def index
     @responsibilities = Responsibility.all.order( 'label' )
     
-    @page_title = "Responsibilities"
-    @description = "Responsibilities."
-    @crumb << { label: @page_title, url: nil }
-    @section = 'responsibilities'
+    respond_to do |format|
+      format.csv {
+        csv_response_headers( "responsibilities" )
+      }
+      format.html {
+        @page_title = "Responsibilities"
+        @description = "Responsibilities."
+        @csv_url = responsibility_list_url( :format => 'csv' )
+        @crumb << { label: @page_title, url: nil }
+        @section = 'responsibilities'
+      }
+    end
   end
   
   def show
@@ -20,6 +28,7 @@ class ResponsibilityController < ApplicationController
             cr.*,
             o.label AS organisation_label,
             ca.name AS constituency_name,
+            ca.geographic_code AS constituency_geographic_code,
             caoo.constituency_area_population_overlap AS population_overlap
           FROM
             constituency_responsibilities cr,
@@ -36,11 +45,18 @@ class ResponsibilityController < ApplicationController
         ", @responsibility
       ]
     )
-    
-    @page_title = @responsibility.label
-    @description = "#{@responsibility.label}."
-    @crumb << { label: 'Responsibilities', url: responsibility_list_url }
-    @crumb << { label: @page_title, url: nil }
-    @section = 'responsibilities'
+    respond_to do |format|
+      format.csv {
+        csv_response_headers( "#{@responsibility.label}" )
+      }
+      format.html {
+        @page_title = @responsibility.label
+        @description = "#{@responsibility.label}."
+        @csv_url = responsibility_show_url( :format => 'csv' )
+        @crumb << { label: 'Responsibilities', url: responsibility_list_url }
+        @crumb << { label: @page_title, url: nil }
+        @section = 'responsibilities'
+      }
+    end
   end
 end

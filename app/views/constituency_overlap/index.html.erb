@@ -4,6 +4,8 @@
 
 <% unless @constituency_area_organisation_overlaps.empty? -%>
 	<%= list_item_count_sentence( 'organisation', @constituency_area_organisation_overlaps.size ) %>
+
+	<%= render :partial => 'library_design/feeds/feeds' %>
 	
 	<%= render :partial => 'overlap', :collection => @constituency_area_organisation_overlaps, locals: { constituency_area_organisation_overlaps: @constituency_area_organisation_overlaps } %>
 	
