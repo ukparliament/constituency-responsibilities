@@ -10,10 +10,10 @@
 # (e.g., Puma with `workers 0`, which is the rackup default).
 # See the top-level README for multi-instance and stateless deployment notes.
 server = MCP::Server.new(
-  name: "rails_example_server",
-  title: "Rails Example Server",
+  name: "constituency_responsibilities_server",
+  title: "Constituency Responsibilities server",
   version: "1.0.0",
-  tools: [AddTool],
+  tools: [ListConstituencies,ListResponsibilities],
   resources: [
     MCP::Resource.new(
       uri: "example://rails/readme",
@@ -23,7 +23,7 @@ server = MCP::Server.new(
       mime_type: "text/plain",
     ),
   ],
-  server_context: { app_name: "mcp_rails_example" },
+  server_context: { app_name: "constituency_responsibilities" },
 )
 
 server.resources_read_handler do |params|
@@ -31,7 +31,7 @@ server.resources_read_handler do |params|
     {
       uri: params[:uri],
       mimeType: "text/plain",
-      text: "This resource is served by the Rails example MCP server (Rails #{Rails.version}).",
+      text: "This resource is served by the Constituency Responsibilities server (Rails #{Rails.version}).",
     },
   ]
 end
