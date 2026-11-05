@@ -386,7 +386,7 @@ DEPENDENCIES
   debug
   dotenv-rails
   irb
-  json (< 4)
+  json
   library_design!
   lograge
   mcp
